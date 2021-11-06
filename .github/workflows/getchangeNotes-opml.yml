@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 # downloads changeNotes.opml every 15 minutes http://drummer.scripting.com/davewiner/drummer/changeNotes.opml
 
-name: CI
+name: ScriptingDrummerBackups
 
 # Controls when the workflow will run
 on:
@@ -23,6 +23,7 @@ jobs:
       run: |-
         
         curl "http://drummer.scripting.com/davewiner/drummer/changeNotes.opml" -o opml/changeNotes.opml
+        curl http://scripting.com/rss.xml -o rss/scripting.com-rss.xml
     - name: Commit and push changes
       run: |-
         git diff
