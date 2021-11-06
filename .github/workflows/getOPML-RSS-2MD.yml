@@ -42,5 +42,6 @@ jobs:
         git diff
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git diff-index --quiet HEAD -- || (git add -A && git commit -m "Updated with latest")
+        #git diff-index --quiet HEAD -- || (git add -A && git commit -m "Updated with latest")
+        git ls-files --deleted --modified --others --exclude-standard || (git add -A && git commit -m "Updated with latest")
         git push
