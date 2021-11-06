@@ -32,10 +32,10 @@ jobs:
           --to=markdown_mmd
           --output=opml/changeNotes.md
           opml/changeNotes.opml
-        run:
-          sed -e 's/^## /* /g' opml/changeNotes.opml | \
-          sed -e 's/^### /    * /g' | \
-          sed -e 's/^#### /        * /g' | \
+        run: >-
+          sed -e 's/^## /* /g' opml/changeNotes.opml | 
+          sed -e 's/^### /    * /g' | 
+          sed -e 's/^#### /        * /g' | 
           sed -e 's/^##### /            * /g' > opml/changeNotes.opml
     - name: Commit and push changes
       run: |-
