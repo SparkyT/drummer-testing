@@ -13,7 +13,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 06 Nov 2021 19:52:24 GMT</dateModified>
+		<dateModified>Sat, 06 Nov 2021 20:19:43 GMT</dateModified>
 		<expansionState>1,2,3,5,7,13</expansionState>
 		<lastCursor>3</lastCursor>
 		</head>
@@ -21,8 +21,8 @@
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 6" created="Sat, 06 Nov 2021 15:51:00 GMT" type="calendarDay" name="06">
 				<outline text="drummer.this.how" created="Sat, 06 Nov 2021 19:38:21 GMT" type="outline">
-					<outline text="On a walk today I was going over things I wanted to look at, based on what I'm hearing from &lt;a href=&quot;http://drummer.scripting.com/&quot;&gt;Drummer&lt;/a&gt; users, and standalone files is high on the list. The thought had been that we'd do it based on the partially done feature in Old School. But then I realized that Old School isn't the only way to do standalone pages. Look at how the &lt;a href=&quot;http://docserver.scripting.com/drummer/about.opml&quot;&gt;Drummer docs&lt;/a&gt; work. Why shouldn't Drummer users have the ability to do docs like that? Indeed. And then I recalled that we have that &lt;a href=&quot;http://my.this.how/davewiner/howtos.opml&quot;&gt;for LO2&lt;/a&gt;, so why not do it for Drummer? Yes. It's done and it works. " created="Sat, 06 Nov 2021 19:38:24 GMT"/>
-					<outline text="Here's an example, the canonical &lt;a href=&quot;http://drummer.scripting.com/davewiner/states.opml&quot;&gt;states.opml&lt;/a&gt; file, viewed through this lens." created="Sat, 06 Nov 2021 19:40:20 GMT">
+					<outline text="On a walk today I was going over things I wanted to look at, based on what I'm hearing from &lt;a href=&quot;http://drummer.scripting.com/&quot;&gt;Drummer&lt;/a&gt; users, and standalone files is high on the list. The thought had been that we'd do it based on the partially done feature in Old School. But then I realized that Old School isn't the only way to do standalone pages. Look at how the &lt;a href=&quot;http://docserver.scripting.com/drummer/about.opml&quot;&gt;Drummer docs&lt;/a&gt; work. Why shouldn't Drummer users have the ability to do docs like that? Indeed. And then I recalled that we have that &lt;a href=&quot;http://my.this.how/davewiner/howtos.opml&quot;&gt;for LO2&lt;/a&gt;, so why not do it for Drummer? Yes. It's done and it works. :rocket:" created="Sat, 06 Nov 2021 19:38:24 GMT"/>
+					<outline text="An example, the canonical &lt;a href=&quot;http://drummer.scripting.com/davewiner/states.opml&quot;&gt;states.opml&lt;/a&gt;, viewed through this lens." created="Sat, 06 Nov 2021 19:40:20 GMT">
 						<outline text="&lt;a href=&quot;http://drummer.this.how/davewiner/states.opml&quot;&gt;http://drummer.this.how/davewiner/states.opml&lt;/a&gt;" created="Sat, 06 Nov 2021 19:40:47 GMT"/>
 						</outline>
 					<outline text="I just constructed another path to the file as follows: " created="Sat, 06 Nov 2021 19:40:51 GMT" flBulletedSubs="true">
