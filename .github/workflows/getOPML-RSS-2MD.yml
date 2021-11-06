@@ -30,8 +30,10 @@ jobs:
           --standalone
           --from=opml
           --to=markdown_mmd
-          --output=opml/changeNotes.md | \
-          sed -e 's/^## /* /g' | \
+          --output=opml/changeNotes.md
+          opml/changeNotes.opml
+        run:
+          sed -e 's/^## /* /g' opml/changeNotes.opml | \
           sed -e 's/^### /    * /g' | \
           sed -e 's/^#### /        * /g' | \
           sed -e 's/^##### /            * /g' > opml/changeNotes.opml
