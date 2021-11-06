@@ -30,11 +30,14 @@ jobs:
           --standalone
           --from=opml
           --to=markdown_mmd
-          --output=opml/changeNotes.md
-          opml/changeNotes.opml
+          --output=opml/changeNotes.md | \
+          sed -e 's/^## /* /g' | \
+          sed -e 's/^### /    * /g' | \
+          sed -e 's/^#### /        * /g' | \
+          sed -e 's/^##### /            * /g' > opml/changeNotes.opml
     - name: Commit and push changes
       run: |-
-        git diff
+        git diff-index
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git diff-index --quiet HEAD -- || (git add -A && git commit -m "Updated with latest")
