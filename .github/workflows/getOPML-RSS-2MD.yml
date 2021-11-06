@@ -31,12 +31,12 @@ jobs:
           --from=opml
           --to=markdown_mmd
           --output=opml/changeNotes.md
-          opml/changeNotes.opml
+          opml/changeNotes.opml      
         run: >-
-          sed -e 's/^## /* /g' opml/changeNotes.opml | 
+          sed -e 's/^## /* /g' opml/changeNotes.md | 
           sed -e 's/^### /    * /g' | 
           sed -e 's/^#### /        * /g' | 
-          sed -e 's/^##### /            * /g' > opml/changeNotes.opml
+          sed -e 's/^##### /            * /g' > opml/changeNotes.md
     - name: Commit and push changes
       run: |-
         git diff
