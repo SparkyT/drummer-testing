@@ -27,11 +27,11 @@ jobs:
       uses: docker://pandoc/core:2.9 
       with:
         args: >-  # allows you to break string into multiple lines
-        --standalone
-        --from=opml
-        --to=markdown_mmd
-        --output=opml/changeNotes.opml
-        opml/changeNotes.md
+          --standalone
+          --from=opml
+          --to=markdown_mmd
+          --output=opml/changeNotes.opml
+          opml/changeNotes.md
     - name: Commit and push changes
       run: |-
         git diff
