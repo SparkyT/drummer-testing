@@ -32,7 +32,7 @@ jobs:
           --to=markdown_mmd
           --output=opml/changeNotes.md
           opml/changeNotes.opml      
-    - name: sed on md
+    - name: sed on md file
       run: >-
           sed -e 's/^## /* /g' opml/changeNotes.md | 
           sed -e 's/^### /    * /g' | 
