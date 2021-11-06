@@ -13,13 +13,29 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 06 Nov 2021 16:26:37 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Sat, 06 Nov 2021 19:52:24 GMT</dateModified>
+		<expansionState>1,2,3,5,7,13</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 6" created="Sat, 06 Nov 2021 15:51:00 GMT" type="calendarDay" name="06">
+				<outline text="drummer.this.how" created="Sat, 06 Nov 2021 19:38:21 GMT" type="outline">
+					<outline text="On a walk today I was going over things I wanted to look at, based on what I'm hearing from &lt;a href=&quot;http://drummer.scripting.com/&quot;&gt;Drummer&lt;/a&gt; users, and standalone files is high on the list. The thought had been that we'd do it based on the partially done feature in Old School. But then I realized that Old School isn't the only way to do standalone pages. Look at how the &lt;a href=&quot;http://docserver.scripting.com/drummer/about.opml&quot;&gt;Drummer docs&lt;/a&gt; work. Why shouldn't Drummer users have the ability to do docs like that? Indeed. And then I recalled that we have that &lt;a href=&quot;http://my.this.how/davewiner/howtos.opml&quot;&gt;for LO2&lt;/a&gt;, so why not do it for Drummer? Yes. It's done and it works. " created="Sat, 06 Nov 2021 19:38:24 GMT"/>
+					<outline text="Here's an example, the canonical &lt;a href=&quot;http://drummer.scripting.com/davewiner/states.opml&quot;&gt;states.opml&lt;/a&gt; file, viewed through this lens." created="Sat, 06 Nov 2021 19:40:20 GMT">
+						<outline text="&lt;a href=&quot;http://drummer.this.how/davewiner/states.opml&quot;&gt;http://drummer.this.how/davewiner/states.opml&lt;/a&gt;" created="Sat, 06 Nov 2021 19:40:47 GMT"/>
+						</outline>
+					<outline text="I just constructed another path to the file as follows: " created="Sat, 06 Nov 2021 19:40:51 GMT" flBulletedSubs="true">
+						<outline text="states.opml is a public file in my Drummer directory." created="Sat, 06 Nov 2021 19:41:16 GMT"/>
+						<outline text="I direct the request at a special site on the server in a folder called drummer.this.how. " created="Sat, 06 Nov 2021 19:41:32 GMT"/>
+						<outline text="The second part of the URL is my username." created="Sat, 06 Nov 2021 19:41:58 GMT"/>
+						<outline text="And the third part is the name of the OPML file. " created="Sat, 06 Nov 2021 19:42:06 GMT"/>
+						<outline text="It's just a simple &lt;a href=&quot;http://pagepark.io/docs/plugins.md&quot;&gt;PagePark plug-in&lt;/a&gt;, written in JavaScript. " created="Sat, 06 Nov 2021 19:45:15 GMT"/>
+						</outline>
+					<outline text="It should work for you too!" created="Sat, 06 Nov 2021 19:42:17 GMT">
+						<outline text="Questions, comments &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/105&quot;&gt;here&lt;/a&gt;. " created="Sat, 06 Nov 2021 19:42:27 GMT"/>
+						</outline>
+					</outline>
 				<outline text="http.client verb, day 2" created="Sat, 06 Nov 2021 15:51:01 GMT" type="outline">
 					<outline text="There's a new version of the &lt;a href=&quot;http://docserver.scripting.com/?verb=http.client&quot;&gt;http.client&lt;/a&gt; verb. " created="Sat, 06 Nov 2021 15:51:09 GMT"/>
 					<outline text="You can help by running a simple experiment, &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/6#issuecomment-962468957&quot;&gt;explained here&lt;/a&gt;. It's definitely something a poet can run, but it's mostly for plumbers. 😀" created="Sat, 06 Nov 2021 15:52:06 GMT"/>
