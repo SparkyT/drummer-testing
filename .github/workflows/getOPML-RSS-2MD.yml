@@ -30,8 +30,8 @@ jobs:
           --standalone
           --from=opml
           --to=markdown_mmd
-          --output=opml/changeNotes.opml
-          opml/changeNotes.md
+          --output=opml/changeNotes.md
+          opml/changeNotes.opml
     - name: Commit and push changes
       run: |-
         git diff
