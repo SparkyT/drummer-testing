@@ -32,12 +32,12 @@ jobs:
           --to=gfm
           --output=opml/changeNotes.md
           opml/changeNotes.opml      
-    - name: sed on md file
-      run: >-
-          sed -e 's/^## /* /g' opml/changeNotes.md | 
-          sed -e 's/^### /  * /g' | 
-          sed -e 's/^#### /    * /g' | 
-          sed -e 's/^##### /      * /g' > opml/changeNotes.md
+#    - name: sed on md file
+#      run: >-
+#          sed -e 's/^## /* /g' opml/changeNotes.md | 
+#          sed -e 's/^### /  * /g' | 
+#          sed -e 's/^#### /    * /g' | 
+#          sed -e 's/^##### /      * /g' > opml/changeNotes.md
     - name: Commit and push changes
       run: |-
             git diff
