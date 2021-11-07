@@ -13,23 +13,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 16:19:10 GMT</dateModified>
-		<expansionState>1,2,3,4,6</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sun, 07 Nov 2021 16:49:33 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
-			<outline text="November 7" created="Sun, 07 Nov 2021 16:03:35 GMT" type="calendarDay" name="07">
-				<outline text="Good morning!" created="Sun, 07 Nov 2021 16:03:36 GMT" type="outline">
-					<outline text="A couple of notes" created="Sun, 07 Nov 2021 16:03:40 GMT">
-						<outline text="Scott &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/6#issuecomment-962586664&quot;&gt;asked&lt;/a&gt; whether http.client does headers, and at first I said no, but then when I dug in, I realized yes, it does, for non-proxied calls, and with a simple addiiton it should work with proxied calls as well, and I made the change in the released web Drummer, so theoretically it should work now. I don't have something immediately available to test with. If you're expecting to do HTTP-related programming from Drummer, this is something you should pay attention and if possible participate in. This is an important verb, and it's important to get it right. " created="Sun, 07 Nov 2021 16:03:43 GMT"/>
-						<outline text="Gary Teter, whose name I recognize from the Frontier community, I think -- has been &lt;a href=&quot;http://oldschool.scripting.com/PostMonsterG/&quot;&gt;writing eloquently&lt;/a&gt; about JavaScript and Drummer. I'm learning a lot reading how the product reflects off his mind. And I agree totally about the potential for JavaScript whcih is being wasted by the way the language is being driven. We should be trying to coalesce it, not drive it apart into a bunch of incompatible languages. " created="Sun, 07 Nov 2021 16:05:42 GMT">
-							<outline text="Reminds me of something &lt;a href=&quot;https://rms2.tumblr.com/post/35571080444/andrew-singer&quot;&gt;Andrew Singer&lt;/a&gt; who started Think Technologies (a company that should be remembered btw) -- in tech we don't stand on the shoulders of giants, we stand on their toes. " created="Sun, 07 Nov 2021 16:07:45 GMT"/>
-							</outline>
-						<outline text="We have another chance to coalesce JavaScript. Drummer's language, which Gary has a name for btw, one that I like, removes the one imho sin of JavaScript that keeps it from being a scripting language. And I'm trying to hone a broad verb set, and writing good docs for them, and just in general slowing down and getting it right, looking at prior art, and not deprecting things that matter (like request in Node.js, what a terrible idea!). It's all been very mindless. But JavaScript's universality is as important as say RSS's. It should be focused and developed. Yes, I am that ambitious for the language in Drummer which may soon have a name. 😇" created="Sun, 07 Nov 2021 16:08:41 GMT"/>
-						<outline text="This obviously should be a post on Scripting News..." created="Sun, 07 Nov 2021 16:13:50 GMT"/>
-						</outline>
-					</outline>
+			<outline text="November 7" created="Sun, 07 Nov 2021 16:46:32 GMT" type="calendarDay" name="07">
+				<outline text="Scripting News posts about &lt;a href=&quot;http://scripting.com/2021/11/07/164510.html?title=debuggingHttpclient&quot;&gt;debugging http.client&lt;/a&gt; and &lt;a href=&quot;http://scripting.com/2021/11/07/164516.html?title=simplifyingJavascriptInDrummer&quot;&gt;Drummer/JavaScript&lt;/a&gt;. " created="Sun, 07 Nov 2021 16:46:33 GMT" type="outline"/>
 				</outline>
 			<outline text="November 6" created="Sat, 06 Nov 2021 15:51:00 GMT" type="calendarDay" name="06">
 				<outline text="drummer.this.how" created="Sat, 06 Nov 2021 19:38:21 GMT" type="outline">
