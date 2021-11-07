@@ -126,19 +126,19 @@
 
       * It now takes an optional boolean parameter saying whether you want the full data Old School returns or not.
 
-###### If it’s false or not provided, the verb returns the URL of the blog, as before (no breakage).
+        * If it’s false or not provided, the verb returns the URL of the blog, as before (no breakage).
 
     * The data Old School returns is pretty fantastic if you ask me. ;-)
 
       * {
 
-###### “baseUrl”: “http://clueless.lucky.wtf/”,
+        * “baseUrl”: “http://clueless.lucky.wtf/”,
 
-###### “ctSecs”: 1.199,
+        * “ctSecs”: 1.199,
 
-###### “oldSchoolVersion”: “0.7.9”,
+        * “oldSchoolVersion”: “0.7.9”,
 
-###### “eventLog”: {
+        * “eventLog”: {
 
 # “pagesPublished”: \[
 
@@ -182,7 +182,7 @@
 
 # },
 
-###### “headLevelAtts”: {
+        * “headLevelAtts”: {
 
 # “dateCreated”: “Mon, 09 Aug 2021 16:53:40 GMT”,
 
@@ -230,7 +230,7 @@
 
 # }
 
-###### }
+        * }
 
     * You can see a lot more about what it does on your behalf.
 
@@ -1212,27 +1212,27 @@
 
       * At the command line type this:
 
-###### cd \~/.aws
+        * cd \~/.aws
 
-###### nano credentials
+        * nano credentials
 
       * Paste [this text](https://gist.github.com/scripting/054e8430d870f85438208635bf6fc05a), replacing the dummy values with the ones from your AWS account:
 
-###### \[default\]  
+        * \[default\]  
 aws\_access\_key\_id=tz4nhbttfvll76gb9ej7  
 aws\_secret\_access\_key=cedx5jixadnwca1e3fnopkg8ji6cvynx4nlhgpy8
 
       * Type this:
 
-###### Control-O
+        * Control-O
 
-###### Return
+        * Return
 
-###### Control-X
+        * Control-X
 
       * Make sure the file was correctly created.
 
-###### cat credentials
+        * cat credentials
 
     * Having done all that, the app that tried to write to S3 should now be able to do it without error.
 
@@ -1336,13 +1336,13 @@ aws\_secret\_access\_key=cedx5jixadnwca1e3fnopkg8ji6cvynx4nlhgpy8
 
       * Flip the repo, make it public, and change its name to [Drummer Support](https://github.com/scripting/drummerSupport).
 
-###### The links are not broken – GitHub did a nice thing, they redirect from the old URLs to the new ones.
+        * The links are not broken – GitHub did a nice thing, they redirect from the old URLs to the new ones.
 
-###### Never mind.
+        * Never mind.
 
       * Edit the readme on the Support site.
 
-###### I’m sure there are things I missed, changing it from private to public.
+        * I’m sure there are things I missed, changing it from private to public.
 
       * Post a link to drummer.scripting.com on scripting.com.
 
@@ -1472,17 +1472,17 @@ aws\_secret\_access\_key=cedx5jixadnwca1e3fnopkg8ji6cvynx4nlhgpy8
 
       * Did the outline you opened get overwritten?
 
-###### This is something that used to happen.
+        * This is something that used to happen.
 
       * Keep the change notes outline (this list) open.
 
       * When it updates do other outlines get trashed?
 
-###### This used to happen too.
+        * This used to happen too.
 
       * To really test it, don’t have the change notes be the front tab.
 
-###### Let it update in the background.
+        * Let it update in the background.
 
       * Basically, really mix it up, be creative, do things you don’t usually do
 
