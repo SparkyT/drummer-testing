@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 14:44:00 GMT</dateModified>
+		<dateModified>Sun, 07 Nov 2021 15:53:05 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 7" type="calendarDay" name="07" >
+				<outline text="Gary, I want to link to this page from my blog, but there's a bunch of garbage at the top of the page. Can you try rebuilding it and see if it goes away? Thanks... #scriptingnews https://t.co/wC1Mo8PwzC" type="tweet" created="Sun, 07 Nov 2021 15:52:42 GMT" tweetId="1457375465249853441" urltweet="https://twitter.com/davewiner/status/1457375465249853441" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When I lived in Berkeley I was locked into Comcast. 
 
 They were a regular on blog, and not because I loved them so much. ;-)
