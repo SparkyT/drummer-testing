@@ -6,11 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 16:18:06 GMT</dateModified>
+		<dateModified>Sun, 07 Nov 2021 18:17:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 7" type="calendarDay" name="07" >
+				<outline text="When someone tells you how products get their name and implies they just come out of thin air, let me tell you, that's not how it works. If the name is any good, it's the product of many minds." type="tweet" created="Sun, 07 Nov 2021 18:16:33 GMT" tweetId="1457411668745592833" urltweet="https://twitter.com/davewiner/status/1457411668745592833" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="If you're a fan of #toolsforthought, I bet you'll like this.
+
+https://t.co/VdQrotyMw4" type="tweet" created="Sun, 07 Nov 2021 18:14:38 GMT" tweetId="1457411185729495043" urltweet="https://twitter.com/davewiner/status/1457411185729495043" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="I most of my ideating away from the computer screen." type="tweet" created="Sun, 07 Nov 2021 18:08:35 GMT" tweetId="1457409660676448261" urltweet="https://twitter.com/davewiner/status/1457409660676448261" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="I've had the honor of using computer tools for organizing ideas longer than probably anyone else." type="tweet" created="Sun, 07 Nov 2021 18:09:55 GMT" tweetId="1457409998657658884" urltweet="https://twitter.com/davewiner/status/1457409998657658884" inReplyToId="1457409660676448261" tweetUserName="davewiner" >
+						<outline text="I've also studied people who use them, and evolved products to create a better fit, and to use new tech as it came along. Big projected and networked screens have made a big difference." type="tweet" created="Sun, 07 Nov 2021 18:11:08 GMT" tweetId="1457410303621222418" urltweet="https://twitter.com/davewiner/status/1457410303621222418" inReplyToId="1457409998657658884" tweetUserName="davewiner" />
+						</outline>
+					</outline>
+				<outline text="What are instant outlines? https://t.co/0zGQ0v5RZY" type="tweet" created="Sun, 07 Nov 2021 18:06:15 GMT" tweetId="1457409076053282822" urltweet="https://twitter.com/davewiner/status/1457409076053282822" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you use a Mac, thank Andrew Singer and the smart people he hired, and raise a glass to his memory. (Amen. I used Think C to write Frontier. Great development environment.) &lt;a href=&quot;https://rms2.tumblr.com/post/35571080444/andrew-singer&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 07 Nov 2021 16:18:04 GMT" tweetId="1457381850477965312" urltweet="https://twitter.com/davewiner/status/1457381850477965312" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="BTW, one of the things he does in this post is say what he thinks the name of the language inside Drummer should be. I found it immediately appealing. And I asked a couple of friends and they were enthusiastic about it." type="tweet" created="Sun, 07 Nov 2021 16:00:23 GMT" tweetId="1457377401386721288" urltweet="https://twitter.com/davewiner/status/1457377401386721288" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Usually names take a while to get used to but this one  is an exception. It just fits. It makes the name of the product work even better than it did before." type="tweet" created="Sun, 07 Nov 2021 16:00:24 GMT" tweetId="1457377402510794760" urltweet="https://twitter.com/davewiner/status/1457377402510794760" inReplyToId="1457377401386721288" tweetUserName="davewiner" >

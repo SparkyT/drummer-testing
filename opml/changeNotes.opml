@@ -13,13 +13,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 16:49:33 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 07 Nov 2021 18:00:53 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 7" created="Sun, 07 Nov 2021 16:46:32 GMT" type="calendarDay" name="07">
+				<outline text="Instant Outlines in PagePark-served outlines" created="Sun, 07 Nov 2021 17:57:42 GMT" type="outline">
+					<outline text="&lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/105#issuecomment-962507805&quot;&gt;Anton asked&lt;/a&gt; why don't the outlines rendered through PagePark support the same Instant Outlines feature that Drummer and Concord Reader support. There was no good answer, so I made it so it worked. It's nice. Thanks for the suggestion Anton." created="Sun, 07 Nov 2021 17:58:22 GMT"/>
+					<outline text="Here's a &lt;a href=&quot;https://www.youtube.com/watch?v=hhLrVZrZi24&quot;&gt;quick video demo&lt;/a&gt;." created="Sun, 07 Nov 2021 17:59:29 GMT" urlvideo="https://www.youtube.com/watch?v=hhLrVZrZi24"/>
+					</outline>
 				<outline text="Scripting News posts about &lt;a href=&quot;http://scripting.com/2021/11/07/164510.html?title=debuggingHttpclient&quot;&gt;debugging http.client&lt;/a&gt; and &lt;a href=&quot;http://scripting.com/2021/11/07/164516.html?title=simplifyingJavascriptInDrummer&quot;&gt;Drummer/JavaScript&lt;/a&gt;. " created="Sun, 07 Nov 2021 16:46:33 GMT" type="outline"/>
 				</outline>
 			<outline text="November 6" created="Sat, 06 Nov 2021 15:51:00 GMT" type="calendarDay" name="06">
