@@ -24,7 +24,7 @@ jobs:
         
         curl "http://drummer.scripting.com/davewiner/drummer/changeNotes.opml" -o opml/changeNotes.opml
         curl http://scripting.com/rss.xml -o rss/scripting.com-rss.xml
-        curl "https://github.com/scripting/instantOutlines/blob/main/outlines/twitter/davewiner.opml" -o opml/davewiner.opml
+        curl "https://raw.githubusercontent.com/scripting/instantOutlines/main/outlines/twitter/davewiner.opml" -o opml/davewiner.opml
     - name: Commit and push changes
       run: |-
         git diff
