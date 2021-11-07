@@ -6,12 +6,26 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 15:53:05 GMT</dateModified>
+		<dateModified>Sun, 07 Nov 2021 16:18:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 7" type="calendarDay" name="07" >
-				<outline text="Gary, I want to link to this page from my blog, but there's a bunch of garbage at the top of the page. Can you try rebuilding it and see if it goes away? Thanks... #scriptingnews https://t.co/wC1Mo8PwzC" type="tweet" created="Sun, 07 Nov 2021 15:52:42 GMT" tweetId="1457375465249853441" urltweet="https://twitter.com/davewiner/status/1457375465249853441" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="If you use a Mac, thank Andrew Singer and the smart people he hired, and raise a glass to his memory. (Amen. I used Think C to write Frontier. Great development environment.) &lt;a href=&quot;https://rms2.tumblr.com/post/35571080444/andrew-singer&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 07 Nov 2021 16:18:04 GMT" tweetId="1457381850477965312" urltweet="https://twitter.com/davewiner/status/1457381850477965312" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="BTW, one of the things he does in this post is say what he thinks the name of the language inside Drummer should be. I found it immediately appealing. And I asked a couple of friends and they were enthusiastic about it." type="tweet" created="Sun, 07 Nov 2021 16:00:23 GMT" tweetId="1457377401386721288" urltweet="https://twitter.com/davewiner/status/1457377401386721288" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Usually names take a while to get used to but this one  is an exception. It just fits. It makes the name of the product work even better than it did before." type="tweet" created="Sun, 07 Nov 2021 16:00:24 GMT" tweetId="1457377402510794760" urltweet="https://twitter.com/davewiner/status/1457377402510794760" inReplyToId="1457377401386721288" tweetUserName="davewiner" >
+						<outline text="And most importantly it immediately conveys the point of baking a language into an outliner (or is it baking an outliner into a language?)" type="tweet" created="Sun, 07 Nov 2021 16:00:24 GMT" tweetId="1457377403517480961" urltweet="https://twitter.com/davewiner/status/1457377403517480961" inReplyToId="1457377402510794760" tweetUserName="davewiner" >
+							<outline text="So I did some checking around, and it doesn't seem to be used in relation to software. It is an English word, but it doesn't in any way convey the functionality, which is an important facet of choosing a product name." type="tweet" created="Sun, 07 Nov 2021 16:00:24 GMT" tweetId="1457377404507336707" urltweet="https://twitter.com/davewiner/status/1457377404507336707" inReplyToId="1457377403517480961" tweetUserName="davewiner" >
+								<outline text="Another thing -- I want to leave open the option of spinning the language out, but I'd like people to remember where it came from. Amazingly the name he devised does that too! ;-)" type="tweet" created="Sun, 07 Nov 2021 16:00:24 GMT" tweetId="1457377405614632960" urltweet="https://twitter.com/davewiner/status/1457377405614632960" inReplyToId="1457377404507336707" tweetUserName="davewiner" >
+									<outline text="Rather than steal his thunder, I'm going to leave the name unsaid. You can scroll to the top of the thread and click the link to Gary's excellent and flattering piece. If you see a bunch of schmutz at the top, try to overlook it, we're still diggin here. ;-)" type="tweet" created="Sun, 07 Nov 2021 16:00:25 GMT" tweetId="1457377406667431936" urltweet="https://twitter.com/davewiner/status/1457377406667431936" inReplyToId="1457377405614632960" tweetUserName="davewiner" />
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
+				<outline text="Gary, I want to link to this page from my blog, but there's a bunch of garbage at the top of the page. Can you try rebuilding it and see if it goes away? Thanks... #scriptingnews https://t.co/wC1Mo8PwzC" type="tweet" created="Sun, 07 Nov 2021 15:52:42 GMT" tweetId="1457375465249853441" urltweet="https://twitter.com/davewiner/status/1457375465249853441" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Of course by doing this I linked to the page. Such is life. ;-)" type="tweet" created="Sun, 07 Nov 2021 15:53:12 GMT" tweetId="1457375594006593539" urltweet="https://twitter.com/davewiner/status/1457375594006593539" inReplyToId="1457375465249853441" tweetUserName="davewiner" />
+					</outline>
 				<outline text="When I lived in Berkeley I was locked into Comcast. 
 
 They were a regular on blog, and not because I loved them so much. ;-)
