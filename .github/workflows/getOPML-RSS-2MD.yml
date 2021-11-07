@@ -38,6 +38,7 @@ jobs:
           sed -i 's/^### /  * /g' opml/changeNotes.md
           sed -i 's/^#### /    * /g' opml/changeNotes.md
           sed -i 's/^##### /      * /g' opml/changeNotes.md
+          sed -i 's/^###### /        * /g' opml/changeNotes.md          
     - name: Commit and push changes
       run: |-
             git diff
