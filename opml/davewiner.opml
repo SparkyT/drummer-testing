@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 08 Nov 2021 14:39:33 GMT</dateModified>
+		<dateModified>Mon, 08 Nov 2021 14:47:42 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 8" type="calendarDay" name="08" >
+				<outline text="I would still love to read a simple summary of the second part of the Washington Post review of January 6. The part where they tell us minute by minute what the president of the United States, the commander-in-chief, was doing while the US Capitol was under seige." type="tweet" created="Mon, 08 Nov 2021 14:45:03 GMT" tweetId="1457720829664538631" urltweet="https://twitter.com/davewiner/status/1457720829664538631" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="@ethanz, @jeffjarvis or @jayrosen_nyu -- maybe one of your grad students could do this? (see above)
+
+&lt;a href=&quot;https://www.washingtonpost.com/politics/interactive/2021/jan-6-insurrection-capitol/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 08 Nov 2021 14:46:49 GMT" tweetId="1457721274290028549" urltweet="https://twitter.com/davewiner/status/1457721274290028549" inReplyToId="1457720829664538631" tweetUserName="davewiner" />
+					</outline>
 				<outline text="GitHub could become the next MS-DOS." type="tweet" created="Mon, 08 Nov 2021 14:38:01 GMT" tweetId="1457719057570992131" urltweet="https://twitter.com/davewiner/status/1457719057570992131" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="You might say Oh Dave, but Microsoft didn't write GitHub. 
 
