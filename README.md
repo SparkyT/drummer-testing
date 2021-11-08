@@ -1,4 +1,3 @@
 # drummer-testing
 
-* list1
- * test 2
+Testing GitHub actions for drummer backup and linking
