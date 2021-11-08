@@ -13,12 +13,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 19:45:06 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Mon, 08 Nov 2021 14:24:33 GMT</dateModified>
+		<expansionState>1,2,3,6</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 8" created="Mon, 08 Nov 2021 14:22:18 GMT" type="calendarDay" name="08">
+				<outline text="More work on http.client" created="Mon, 08 Nov 2021 14:22:19 GMT" type="outline">
+					<outline text="Scott &lt;a href=&quot;https://github.com/scripting/appServer/issues/2&quot;&gt;proposed&lt;/a&gt; a couple of changes to the proxy server in appServer, which I made and deployed. " created="Mon, 08 Nov 2021 14:22:25 GMT"/>
+					<outline text="I uploaded the &lt;a href=&quot;http://scripting.com/publicfolder/misc/tcp.httpclient.opml&quot;&gt;OPML source&lt;/a&gt; for tcp.httpClient in Frontier, which is prior art for http.client. It's an invaluable reference, because all the issues we're encountering today were dealt with, and documented, over 20 years ago in Frontier. " created="Mon, 08 Nov 2021 14:22:51 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 7" created="Sun, 07 Nov 2021 16:46:32 GMT" type="calendarDay" name="07">
 				<outline text="Scripting News posts about &lt;a href=&quot;http://scripting.com/2021/11/07/164510.html?title=debuggingHttpclient&quot;&gt;debugging http.client&lt;/a&gt; and &lt;a href=&quot;http://scripting.com/2021/11/07/164516.html?title=simplifyingJavascriptInDrummer&quot;&gt;Drummer/JavaScript&lt;/a&gt;. " created="Sun, 07 Nov 2021 16:46:33 GMT" type="outline"/>
 				<outline text="Instant Outlines in PagePark-served outlines" created="Sun, 07 Nov 2021 17:57:42 GMT" type="outline">
