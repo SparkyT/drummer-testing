@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 08 Nov 2021 09:10:12 GMT</dateModified>
+		<dateModified>Mon, 08 Nov 2021 14:39:33 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 8" type="calendarDay" name="08" >
+				<outline text="GitHub could become the next MS-DOS." type="tweet" created="Mon, 08 Nov 2021 14:38:01 GMT" tweetId="1457719057570992131" urltweet="https://twitter.com/davewiner/status/1457719057570992131" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="You might say Oh Dave, but Microsoft didn't write GitHub. 
+
+I know. They didn't write MS-DOS either. ;-)" type="tweet" created="Mon, 08 Nov 2021 14:39:27 GMT" tweetId="1457719419292065799" urltweet="https://twitter.com/davewiner/status/1457719419292065799" inReplyToId="1457719057570992131" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Tesla shares fall after Musk's Twitter poll backs stake sale. &lt;a href=&quot;https://www.reuters.com/business/tesla-shares-fall-after-musks-twitter-poll-backs-stake-sale-2021-11-08/?taid=6188e5e77ef03c00011cb9c4&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 08 Nov 2021 09:09:51 GMT" tweetId="1457636471486222337" urltweet="https://twitter.com/davewiner/status/1457636471486222337" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="November 7" type="calendarDay" name="07" >
