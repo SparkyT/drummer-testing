@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 08 Nov 2021 01:44:43 GMT</dateModified>
+		<dateModified>Mon, 08 Nov 2021 09:10:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 8" type="calendarDay" name="08" >
+				<outline text="Tesla shares fall after Musk's Twitter poll backs stake sale. &lt;a href=&quot;https://www.reuters.com/business/tesla-shares-fall-after-musks-twitter-poll-backs-stake-sale-2021-11-08/?taid=6188e5e77ef03c00011cb9c4&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 08 Nov 2021 09:09:51 GMT" tweetId="1457636471486222337" urltweet="https://twitter.com/davewiner/status/1457636471486222337" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 7" type="calendarDay" name="07" >
 				<outline text="Biden should go everywhere they’re getting $$$ from the new infrastructure bill and run a victory lap, and say the name “Democratic Party” a few times in every speech. Don’t be bashful Joe.
 
