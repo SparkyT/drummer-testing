@@ -6,11 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 09 Nov 2021 00:15:10 GMT</dateModified>
+		<dateModified>Tue, 09 Nov 2021 01:58:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 8" type="calendarDay" name="08" >
+				<outline text="Occam's News say Garland doesn't indict Repubs because he knows they'll just indict him back when they're in power." type="tweet" created="Tue, 09 Nov 2021 01:57:51 GMT" tweetId="1457890144686645249" urltweet="https://twitter.com/davewiner/status/1457890144686645249" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Also in Occam's News -- what the McConnell get in return from Biden for voting for his infrastructure bill? You think he did it cause he likes infrastructure? You can't be that naive." type="tweet" created="Tue, 09 Nov 2021 01:57:51 GMT" tweetId="1457890146003652608" urltweet="https://twitter.com/davewiner/status/1457890146003652608" inReplyToId="1457890144686645249" tweetUserName="davewiner" />
+					</outline>
+				<outline text="Ted Cruz wants Texas to secede if 'things become hopeless' in the US. He should be removed from Congress under 14th amendment. &lt;a href=&quot;https://thehill.com/homenews/state-watch/580613-ted-cruz-wants-texas-to-secede-if-things-become-hopeless-in-the-us&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 09 Nov 2021 01:43:24 GMT" tweetId="1457886506991898625" urltweet="https://twitter.com/davewiner/status/1457886506991898625" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Elon Musk faces a $15 billion tax bill, which is likely the real reason he's selling stock. &lt;a href=&quot;https://www.cnbc.com/2021/11/07/elon-musk-faces-a-15-billion-tax-bill-which-is-likely-the-real-reason-hes-selling-stock.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 09 Nov 2021 00:14:29 GMT" tweetId="1457864131546161152" urltweet="https://twitter.com/davewiner/status/1457864131546161152" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Oy gebeeba! Geez Louise. Breaking changes --&amp;gt; we felt like you needed to pay more attention to us, so we broke you, mostly because we felt unloved. &lt;a href=&quot;https://twitter.com/davewiner/status/1457746552303329283/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 08 Nov 2021 16:27:16 GMT" tweetId="1457746552303329283" urltweet="https://twitter.com/davewiner/status/1457746552303329283" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="All I do when this happens is hard-code into my package.json file to use your previous version. That means you might as well stop working as far as I'm concerned." type="tweet" created="Mon, 08 Nov 2021 16:28:35 GMT" tweetId="1457746883837890566" urltweet="https://twitter.com/davewiner/status/1457746883837890566" inReplyToId="1457746552303329283" tweetUserName="davewiner" />
