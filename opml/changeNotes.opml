@@ -13,12 +13,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 08 Nov 2021 14:34:13 GMT</dateModified>
-		<expansionState>1,2,3,6,8</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Tue, 09 Nov 2021 21:17:40 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 9" created="Tue, 09 Nov 2021 21:16:16 GMT" type="calendarDay" name="09">
+				<outline text="Second day working on basic GitHub support in Drummer" created="Tue, 09 Nov 2021 21:16:17 GMT" type="outline">
+					<outline text="I'm starting to post notes on things that are working. Here's the &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7&quot;&gt;first&lt;/a&gt;. " created="Tue, 09 Nov 2021 21:16:28 GMT"/>
+					<outline text="Nothing is released or documented at this time, but I expect it will shortly." created="Tue, 09 Nov 2021 21:17:10 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 8" created="Mon, 08 Nov 2021 14:22:18 GMT" type="calendarDay" name="08">
 				<outline text="More work on http.client" created="Mon, 08 Nov 2021 14:22:19 GMT" type="outline">
 					<outline text="Scott &lt;a href=&quot;https://github.com/scripting/appServer/issues/2&quot;&gt;proposed&lt;/a&gt; a couple of changes to the proxy server in appServer, which I made and deployed. " created="Mon, 08 Nov 2021 14:22:25 GMT"/>
