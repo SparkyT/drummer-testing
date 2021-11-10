@@ -13,9 +13,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 20:20:31 GMT</dateModified>
-		<expansionState>1,2,3,4</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 20:57:58 GMT</dateModified>
+		<expansionState>1,2,3,4,13</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
@@ -32,6 +32,9 @@
 						</outline>
 					<outline text="After a break I'm going to write the DocServer pages, and then deploy." created="Wed, 10 Nov 2021 17:34:38 GMT">
 						<outline text="Might wait till tomorrow to deploy. " created="Wed, 10 Nov 2021 17:34:53 GMT"/>
+						</outline>
+					<outline text="Update: The docs are &lt;a href=&quot;http://docserver.scripting.com/?verb=github.connectViaOauth&quot;&gt;written&lt;/a&gt;, but I will wait until tomorrow to deploy. " created="Wed, 10 Nov 2021 20:57:23 GMT">
+						<outline text="Want to be sure I'm here as people are trying it out. " created="Wed, 10 Nov 2021 20:57:39 GMT"/>
 						</outline>
 					</outline>
 				<outline text="Old School bug fix" created="Wed, 10 Nov 2021 15:24:57 GMT" type="outline">
