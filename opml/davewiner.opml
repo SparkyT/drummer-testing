@@ -6,11 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 12:04:28 GMT</dateModified>
+		<dateModified>Wed, 10 Nov 2021 13:47:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 10" type="calendarDay" name="10" >
+				<outline text="The 5 emerging tenets of the post-Trump GOP doctrine. &lt;a href=&quot;https://www.axios.com/trump-republican-doctrine-e4070418-6874-4977-a538-2b4daa4e5a18.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=editorial&amp;utm_content=politics-republicans&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 10 Nov 2021 13:46:36 GMT" tweetId="1458430896667828225" urltweet="https://twitter.com/davewiner/status/1458430896667828225" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="1/4 I was asked why I'm adding great GitHub scriptability to Drummer when Microsoft is evil and huge." type="tweet" created="Wed, 10 Nov 2021 13:45:37 GMT" tweetId="1458430647568113671" urltweet="https://twitter.com/davewiner/status/1458430647568113671" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/4 First, I use GitHub, a lot, and love it. I loved it before Microsoft bought it, and I'm experienced enough to have known even then that their acquisition by a big tech company was almost a given." type="tweet" created="Wed, 10 Nov 2021 13:45:39 GMT" tweetId="1458430655973531649" urltweet="https://twitter.com/davewiner/status/1458430655973531649" inReplyToId="1458430647568113671" tweetUserName="davewiner" >
+						<outline text="3/4 Our support of GitHub in the short term won't do much to help GitHub, maybe in the long term it will. But that isn't a good reason not to implement the compatibility." type="tweet" created="Wed, 10 Nov 2021 13:45:40 GMT" tweetId="1458430660117401601" urltweet="https://twitter.com/davewiner/status/1458430660117401601" inReplyToId="1458430655973531649" tweetUserName="davewiner" >
+							<outline text="4/4 For that I turn to a famous quote of the notorious criminal Willie Sutton who was asked why he robs banks. I'm sure you already know the answer. 😀" type="tweet" created="Wed, 10 Nov 2021 13:45:42 GMT" tweetId="1458430668497694727" urltweet="https://twitter.com/davewiner/status/1458430668497694727" inReplyToId="1458430660117401601" tweetUserName="davewiner" />
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Why Wokeness Will Fail. &lt;a href=&quot;https://www.nytimes.com/2021/11/09/opinion/social-justice-america.html?smid=tw-share&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 10 Nov 2021 12:03:31 GMT" tweetId="1458404954360750081" urltweet="https://twitter.com/davewiner/status/1458404954360750081" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Weatherman - SNL. &lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=HHj5m4pdvkw&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 10 Nov 2021 11:35:14 GMT" tweetId="1458397836916178948" urltweet="https://twitter.com/davewiner/status/1458397836916178948" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Maureen Cleave obituary. &lt;a href=&quot;https://www.theguardian.com/music/2021/nov/09/maureen-cleave-obituary?fbclid=IwAR3aNxRrjcIwOSy7LUvUo1JxjVuH555JL_1DfFjsoeN5pHD2bUcegDCBli8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 10 Nov 2021 11:02:15 GMT" tweetId="1458389534916423681" urltweet="https://twitter.com/davewiner/status/1458389534916423681" inReplyToId="" tweetUserName="davewiner" />
