@@ -13,12 +13,23 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 09 Nov 2021 21:17:40 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 14:51:06 GMT</dateModified>
+		<expansionState>1,2,3,5</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 10" created="Wed, 10 Nov 2021 14:48:58 GMT" type="calendarDay" name="10">
+				<outline text="Third day of GitHub support" created="Wed, 10 Nov 2021 14:48:59 GMT" type="outline">
+					<outline text="github.getDirectory works. " created="Wed, 10 Nov 2021 14:49:05 GMT"/>
+					<outline text="&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7#issuecomment-965269313&quot;&gt;Tests&lt;/a&gt; include: " created="Wed, 10 Nov 2021 14:49:17 GMT" flBulletedSubs="true">
+						<outline text="A flat repository with just a few items." created="Wed, 10 Nov 2021 14:49:27 GMT"/>
+						<outline text="A nested flat folder with just a few items." created="Wed, 10 Nov 2021 14:49:37 GMT"/>
+						<outline text="A structured folder that's nested, with a fair number of items." created="Wed, 10 Nov 2021 14:49:48 GMT"/>
+						</outline>
+					<outline text="Works like a champ!" created="Wed, 10 Nov 2021 14:50:09 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 9" created="Tue, 09 Nov 2021 21:16:16 GMT" type="calendarDay" name="09">
 				<outline text="Second day working on basic GitHub support in Drummer" created="Tue, 09 Nov 2021 21:16:17 GMT" type="outline">
 					<outline text="I'm starting to post notes on things that are working. Here's the &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7&quot;&gt;first&lt;/a&gt;. " created="Tue, 09 Nov 2021 21:16:28 GMT"/>
