@@ -13,19 +13,23 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 20:57:58 GMT</dateModified>
-		<expansionState>1,2,3,4,13</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 21:15:31 GMT</dateModified>
+		<expansionState>1,2,3,4,5,9,15</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 10" created="Wed, 10 Nov 2021 14:48:58 GMT" type="calendarDay" name="10">
 				<outline text="Ready to write docs for GitHub scripting" created="Wed, 10 Nov 2021 17:31:17 GMT" type="outline">
 					<outline text="There will be 7 verbs initially, keep it simple to get started." created="Wed, 10 Nov 2021 17:31:27 GMT" flNumberedSubs="true">
-						<outline text="github.connectViaOauth ()" created="Wed, 10 Nov 2021 17:31:38 GMT"/>
+						<outline text="github.connectViaOauth ()" created="Wed, 10 Nov 2021 17:31:38 GMT">
+							<outline text="true" created="Wed, 10 Nov 2021 21:15:30 GMT" isComment="true"/>
+							</outline>
 						<outline text="github.disconnect ()" created="Wed, 10 Nov 2021 17:32:48 GMT"/>
 						<outline text="github.download (username, repository, path)" created="Wed, 10 Nov 2021 17:32:55 GMT"/>
-						<outline text="github.getAccessToken ()" created="Wed, 10 Nov 2021 17:32:38 GMT"/>
+						<outline text="github.getAccessToken ()" created="Wed, 10 Nov 2021 17:32:38 GMT">
+							<outline text="undefined" created="Wed, 10 Nov 2021 21:15:26 GMT" isComment="true"/>
+							</outline>
 						<outline text="github.getDirectory (username, repository, path)" created="Wed, 10 Nov 2021 17:33:11 GMT"/>
 						<outline text="github.getUserInfo (username)" created="Wed, 10 Nov 2021 17:33:06 GMT"/>
 						<outline text="github.upload (username, repository, path, data, message)" created="Wed, 10 Nov 2021 17:33:01 GMT"/>
