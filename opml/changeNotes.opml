@@ -13,13 +13,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 15:04:34 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 15:28:19 GMT</dateModified>
+		<expansionState>1,2,3,6</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 10" created="Wed, 10 Nov 2021 14:48:58 GMT" type="calendarDay" name="10">
+				<outline text="Old School bug fix" created="Wed, 10 Nov 2021 15:24:57 GMT" type="outline">
+					<outline text="Some blog pages would have weird garbage at the top of the page, when I looked into it, it was an extension to Twitter metadata I implemented as an experiment a long time ago. As far as I know, no one was using it. And I did not have time to investigate the source, so I just commented out the code that puts out the element. Problem solved, hopefully. " created="Wed, 10 Nov 2021 15:25:06 GMT"/>
+					<outline text="Plumbers can see the &lt;a href=&quot;https://github.com/scripting/oldSchoolBlog/commit/84fc95a7858f00a9cab09c22e24a45efe93600e0#diff-6092d893e6cd200a15f505bae5dd10712baa24191e61896e4cc720794d286c3f&quot;&gt;change&lt;/a&gt; in the Old School repo if you're interested. " created="Wed, 10 Nov 2021 15:26:52 GMT"/>
+					</outline>
 				<outline text="Why GitHub, for poets" created="Wed, 10 Nov 2021 14:51:08 GMT" type="outline">
 					<outline text="This became a &lt;a href=&quot;http://scripting.com/2021/11/10/145108.html?title=whyGithubForPoets&quot;&gt;blog post&lt;/a&gt;, of course. :-)" created="Wed, 10 Nov 2021 15:04:02 GMT"/>
 					</outline>

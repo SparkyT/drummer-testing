@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 13:47:35 GMT</dateModified>
+		<dateModified>Wed, 10 Nov 2021 15:34:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 10" type="calendarDay" name="10" >
+				<outline text="The poets and plumbers idea is really helping me write about the Drummer user community. We have both, in good numbers. 
+
+Here's a piece I wrote for poets, explaining why they should be excited about GitHub support. 
+
+https://t.co/3aI57jKBj2" type="tweet" created="Wed, 10 Nov 2021 15:32:38 GMT" tweetId="1458457580267790341" urltweet="https://twitter.com/davewiner/status/1458457580267790341" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The 5 emerging tenets of the post-Trump GOP doctrine. &lt;a href=&quot;https://www.axios.com/trump-republican-doctrine-e4070418-6874-4977-a538-2b4daa4e5a18.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=editorial&amp;utm_content=politics-republicans&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 10 Nov 2021 13:46:36 GMT" tweetId="1458430896667828225" urltweet="https://twitter.com/davewiner/status/1458430896667828225" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/4 I was asked why I'm adding great GitHub scriptability to Drummer when Microsoft is evil and huge." type="tweet" created="Wed, 10 Nov 2021 13:45:37 GMT" tweetId="1458430647568113671" urltweet="https://twitter.com/davewiner/status/1458430647568113671" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/4 First, I use GitHub, a lot, and love it. I loved it before Microsoft bought it, and I'm experienced enough to have known even then that their acquisition by a big tech company was almost a given." type="tweet" created="Wed, 10 Nov 2021 13:45:39 GMT" tweetId="1458430655973531649" urltweet="https://twitter.com/davewiner/status/1458430655973531649" inReplyToId="1458430647568113671" tweetUserName="davewiner" >
