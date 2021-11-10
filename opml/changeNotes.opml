@@ -13,13 +13,14 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 15:28:19 GMT</dateModified>
-		<expansionState>1,2,3,6</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 17:31:18 GMT</dateModified>
+		<expansionState>1,2,4,7,9,10,11,16,17</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 10" created="Wed, 10 Nov 2021 14:48:58 GMT" type="calendarDay" name="10">
+				<outline text="" created="Wed, 10 Nov 2021 17:31:17 GMT" type="outline"/>
 				<outline text="Old School bug fix" created="Wed, 10 Nov 2021 15:24:57 GMT" type="outline">
 					<outline text="Some blog pages would have weird garbage at the top of the page, when I looked into it, it was an extension to Twitter metadata I implemented as an experiment a long time ago. As far as I know, no one was using it. And I did not have time to investigate the source, so I just commented out the code that puts out the element. Problem solved, hopefully. " created="Wed, 10 Nov 2021 15:25:06 GMT"/>
 					<outline text="Plumbers can see the &lt;a href=&quot;https://github.com/scripting/oldSchoolBlog/commit/84fc95a7858f00a9cab09c22e24a45efe93600e0#diff-6092d893e6cd200a15f505bae5dd10712baa24191e61896e4cc720794d286c3f&quot;&gt;change&lt;/a&gt; in the Old School repo if you're interested. " created="Wed, 10 Nov 2021 15:26:52 GMT"/>
@@ -28,13 +29,20 @@
 					<outline text="This became a &lt;a href=&quot;http://scripting.com/2021/11/10/145108.html?title=whyGithubForPoets&quot;&gt;blog post&lt;/a&gt;, of course. :-)" created="Wed, 10 Nov 2021 15:04:02 GMT"/>
 					</outline>
 				<outline text="Third day of GitHub support" created="Wed, 10 Nov 2021 14:48:59 GMT" type="outline">
-					<outline text="github.getDirectory works. " created="Wed, 10 Nov 2021 14:49:05 GMT"/>
-					<outline text="&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7#issuecomment-965269313&quot;&gt;Tests&lt;/a&gt; include: " created="Wed, 10 Nov 2021 14:49:17 GMT" flBulletedSubs="true">
-						<outline text="A flat repository with just a few items." created="Wed, 10 Nov 2021 14:49:27 GMT"/>
-						<outline text="A nested flat folder with just a few items." created="Wed, 10 Nov 2021 14:49:37 GMT"/>
-						<outline text="A structured folder that's nested, with a fair number of items." created="Wed, 10 Nov 2021 14:49:48 GMT"/>
+					<outline text="github.getDirectory works. " created="Wed, 10 Nov 2021 14:49:05 GMT">
+						<outline text="&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7#issuecomment-965269313&quot;&gt;Tests&lt;/a&gt; include: " created="Wed, 10 Nov 2021 14:49:17 GMT" flBulletedSubs="true">
+							<outline text="A flat repository with just a few items." created="Wed, 10 Nov 2021 14:49:27 GMT"/>
+							<outline text="A nested flat folder with just a few items." created="Wed, 10 Nov 2021 14:49:37 GMT"/>
+							<outline text="A structured folder that's nested, with a fair number of items." created="Wed, 10 Nov 2021 14:49:48 GMT"/>
+							</outline>
+						<outline text="Works like a champ!" created="Wed, 10 Nov 2021 14:50:09 GMT"/>
 						</outline>
-					<outline text="Works like a champ!" created="Wed, 10 Nov 2021 14:50:09 GMT"/>
+					<outline text="github.getUserInfo works." created="Wed, 10 Nov 2021 17:16:35 GMT">
+						<outline text="&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7#issuecomment-965559460&quot;&gt;Tests&lt;/a&gt; include:" created="Wed, 10 Nov 2021 17:16:50 GMT">
+							<outline text="Calling without a parameter. " created="Wed, 10 Nov 2021 17:16:56 GMT"/>
+							<outline text="Calling with a parameter." created="Wed, 10 Nov 2021 17:17:15 GMT"/>
+							</outline>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="November 9" created="Tue, 09 Nov 2021 21:16:16 GMT" type="calendarDay" name="09">
