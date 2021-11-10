@@ -13,13 +13,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 14:51:06 GMT</dateModified>
-		<expansionState>1,2,3,5</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 15:04:34 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 10" created="Wed, 10 Nov 2021 14:48:58 GMT" type="calendarDay" name="10">
+				<outline text="Why GitHub, for poets" created="Wed, 10 Nov 2021 14:51:08 GMT" type="outline">
+					<outline text="This became a &lt;a href=&quot;http://scripting.com/2021/11/10/145108.html?title=whyGithubForPoets&quot;&gt;blog post&lt;/a&gt;, of course. :-)" created="Wed, 10 Nov 2021 15:04:02 GMT"/>
+					</outline>
 				<outline text="Third day of GitHub support" created="Wed, 10 Nov 2021 14:48:59 GMT" type="outline">
 					<outline text="github.getDirectory works. " created="Wed, 10 Nov 2021 14:49:05 GMT"/>
 					<outline text="&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/7#issuecomment-965269313&quot;&gt;Tests&lt;/a&gt; include: " created="Wed, 10 Nov 2021 14:49:17 GMT" flBulletedSubs="true">
