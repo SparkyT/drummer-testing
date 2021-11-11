@@ -13,13 +13,31 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 14:44:59 GMT</dateModified>
-		<expansionState>1,2,3,7,8,9</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 15:17:02 GMT</dateModified>
+		<expansionState>1,2,3,8</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
+				<outline text="Notes on Electric Drummer" created="Thu, 11 Nov 2021 15:11:43 GMT" type="outline">
+					<outline text="The OAuth stuff is hard to do in an Electron app. It's possible, I did it for Twitter, but it involved setting up a web server to receive the callback from Twitter. I could do the same for GitHub, but I decided to do something wicked and un-user-friendly. " created="Thu, 11 Nov 2021 15:11:48 GMT">
+						<outline text="I am so sorry. " created="Thu, 11 Nov 2021 15:16:57 GMT"/>
+						</outline>
+					<outline text="What you will have to do is this (it's not really that bad)." created="Thu, 11 Nov 2021 15:12:48 GMT">
+						<outline text="In web Drummer, connect to GitHub, using github.connectViaOauth ()." created="Thu, 11 Nov 2021 15:12:58 GMT"/>
+						<outline text="In an outline enter this and press cmd-/" created="Thu, 11 Nov 2021 15:13:30 GMT">
+							<outline text="localStorage.githubAccessToken " created="Thu, 11 Nov 2021 15:13:57 GMT"/>
+							</outline>
+						<outline text="Underneath you'll see a string of characters that's your &quot;access token&quot;. Copy everything between the quotes to the clipboard." created="Thu, 11 Nov 2021 15:14:01 GMT"/>
+						<outline text="Then open Electric Drummer (the new version, not yet released). Paste this into an outline." created="Thu, 11 Nov 2021 15:14:29 GMT">
+							<outline text="localStorage.githubAccessToken = &quot;xxx&quot;" created="Thu, 11 Nov 2021 15:14:54 GMT"/>
+							</outline>
+						<outline text="In place of xxx, paste in the access token you copied. And press cmd-/." created="Thu, 11 Nov 2021 15:15:16 GMT"/>
+						</outline>
+					<outline text="Now you're logged in! Not too bad right? " created="Thu, 11 Nov 2021 15:15:30 GMT"/>
+					<outline text="I tested it, everything else seems to work. I love cheating like this. I apologize in advance. :-)" created="Thu, 11 Nov 2021 15:15:43 GMT"/>
+					</outline>
 				<outline text="GitHub scripting is deployed" created="Thu, 11 Nov 2021 13:46:11 GMT" type="outline">
 					<outline text="The place to ask questions is &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/109&quot;&gt;here&lt;/a&gt;. " created="Thu, 11 Nov 2021 13:46:20 GMT"/>
 					<outline text="Before anything -- be careful!" created="Thu, 11 Nov 2021 14:00:03 GMT">
