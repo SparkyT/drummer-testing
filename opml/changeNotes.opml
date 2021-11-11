@@ -13,9 +13,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 14:04:01 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 14:31:28 GMT</dateModified>
+		<expansionState>1,2,3,7,8,9</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
@@ -38,7 +38,9 @@
 						</outline>
 					<outline text="Things you should do next" created="Thu, 11 Nov 2021 13:56:04 GMT">
 						<outline text="First thing you should do, in an outline, with Cmd-/. " created="Thu, 11 Nov 2021 13:48:16 GMT">
-							<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 13:48:39 GMT"/>
+							<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 13:48:39 GMT">
+								<outline text="true" created="Thu, 11 Nov 2021 14:31:27 GMT" isComment="true"/>
+								</outline>
 							</outline>
 						<outline text="What it does -- it redirects you to GitHub where it knows about Drummer (I configured it, and it gave me back a client ID and secret). Your request includes the client id, that's how it knows where you came from. Then you will authorize Drummer to do stuff on your behalf. I think I have only asked for access to repos. You should verify that? It's a little confusing perhaps, for me too." created="Thu, 11 Nov 2021 13:49:21 GMT">
 							<outline text="Then, assuming you've given permission, it redirects back to drummer.scripting.com, and it opens the client in your browser, with your access token as a parameter. The client sees the access token, puts it in localStorage on your machine, and then redirects back to itself without the access token param. So you may see a little loading and reloading, but when everything settles down, you'll be logged in. " created="Thu, 11 Nov 2021 13:51:00 GMT"/>
