@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 17:08:20 GMT</dateModified>
+		<dateModified>Thu, 11 Nov 2021 17:48:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 11" type="calendarDay" name="11" >
+				<outline text="Manifesto for a People's Media. &lt;a href=&quot;https://www.mediareform.org.uk/get-involved/manifesto-for-a-peoples-media&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 11 Nov 2021 17:48:01 GMT" tweetId="1458854038884212738" urltweet="https://twitter.com/davewiner/status/1458854038884212738" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="For the sake of argument.
 
 1. Suppose you were a professor at an American university.
