@@ -6,11 +6,26 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 14:27:10 GMT</dateModified>
+		<dateModified>Thu, 11 Nov 2021 16:54:19 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 11" type="calendarDay" name="11" >
+				<outline text="This thread reader feature might be part of Twitter Blue?
+
+Does this link work for you?
+
+&lt;a href=&quot;https://twitter.com/davewiner/thread/1458803193517907973&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 11 Nov 2021 16:49:50 GMT" tweetId="1458839393641373698" urltweet="https://twitter.com/davewiner/status/1458839393641373698" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Twitter has a thread reader?!? &lt;a href=&quot;https://twitter.com/davewiner/status/1458838921320804352/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 11 Nov 2021 16:47:57 GMT" tweetId="1458838921320804352" urltweet="https://twitter.com/davewiner/status/1458838921320804352" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="In case you can't read it, this is what you see. &lt;a href=&quot;https://twitter.com/davewiner/status/1458839687964073986/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 11 Nov 2021 16:51:00 GMT" tweetId="1458839687964073986" urltweet="https://twitter.com/davewiner/status/1458839687964073986" inReplyToId="1458838921320804352" tweetUserName="davewiner" >
+						<outline text="Now this immediately makes me think &quot;Why don't they just get rid of the numbers and word wrap the doc properly but then I guess they're really just inching their way toward removing the character limit which btw I wish they would just do it. 
+
+This is what you *should* see. &lt;a href=&quot;https://twitter.com/davewiner/status/1458840203683147780/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 11 Nov 2021 16:53:03 GMT" tweetId="1458840203683147780" urltweet="https://twitter.com/davewiner/status/1458840203683147780" inReplyToId="1458839687964073986" tweetUserName="davewiner" >
+							<outline text="That's how I wrote it. Chopping it up like that it STUPID. Making me chop it up like that is even STUPIDER. ;-)" type="tweet" created="Thu, 11 Nov 2021 16:53:59 GMT" tweetId="1458840439725903878" urltweet="https://twitter.com/davewiner/status/1458840439725903878" inReplyToId="1458840203683147780" tweetUserName="davewiner" />
+							</outline>
+						</outline>
+					</outline>
+				<outline text="I like to work at the edge of possibility. https://t.co/3aI57jKBj2" type="tweet" created="Thu, 11 Nov 2021 16:35:38 GMT" tweetId="1458835821512077324" urltweet="https://twitter.com/davewiner/status/1458835821512077324" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/10 I signed up for Twitter Blue for $2.99 under the mistaken impression that it got me through paywalls. Okay it doesn't do that. Sigh." type="tweet" created="Thu, 11 Nov 2021 14:25:59 GMT" tweetId="1458803193517907973" urltweet="https://twitter.com/davewiner/status/1458803193517907973" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/10 I'd be happy to pay $100 a month, but even so I will not use Twitter as the primary way I read news. Not ever going to happen, I already have news reading tools that blow Twitter out of the water. Sorry Jack. I've been working on this stuff for a long time (just like you)." type="tweet" created="Thu, 11 Nov 2021 14:26:00 GMT" tweetId="1458803197410222085" urltweet="https://twitter.com/davewiner/status/1458803197410222085" inReplyToId="1458803193517907973" tweetUserName="davewiner" >
 						<outline text="3/10 So we're still a really long way toward having rational networked news. Yet the deficiencies of news are what's killing us as a democracy and a world power. It isn't Facebook, that's just a diversion. Most people are falling for it. The problem is that the news system is" type="tweet" created="Thu, 11 Nov 2021 14:26:02 GMT" tweetId="1458803205786247172" urltweet="https://twitter.com/davewiner/status/1458803205786247172" inReplyToId="1458803197410222085" tweetUserName="davewiner" >
