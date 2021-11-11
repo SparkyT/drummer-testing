@@ -13,19 +13,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 15:21:12 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 16:15:24 GMT</dateModified>
+		<expansionState>1,2,3,7,9</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
+				<outline text="New release of Electric Drummer" created="Thu, 11 Nov 2021 16:11:04 GMT" type="outline">
+					<outline text="On the Electric Drummer &lt;a href=&quot;http://docserver.scripting.com/drummer/electricDrummer.opml&quot;&gt;docs page&lt;/a&gt;. " created="Thu, 11 Nov 2021 16:11:09 GMT"/>
+					<outline text="Questions comments &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/110&quot;&gt;here&lt;/a&gt;. " created="Thu, 11 Nov 2021 16:13:18 GMT"/>
+					<outline text="Note I had trouble on one of my test machines with Cmd-/. The system wasn't recognizing it. But it works properly on two of the other machines I use for testing. So I'm not sure what's going on." created="Thu, 11 Nov 2021 16:13:38 GMT"/>
+					</outline>
 				<outline text="Notes on Electric Drummer" created="Thu, 11 Nov 2021 15:11:43 GMT" type="outline">
-					<outline text="The OAuth stuff is hard to do in an Electron app. It's possible, I did it for Twitter, but it involved setting up a web server to receive the callback from Twitter. I could do the same for GitHub, but I decided to do something wicked and un-user-friendly. " created="Thu, 11 Nov 2021 15:11:48 GMT">
+					<outline text="The OAuth stuff is hard to do in an Electron app. It's possible, I did it for Twitter, but it involved setting up a web server to receive the callback from Twitter. I could do the same for GitHub, but I decided to do something wicked and un-user-friendly. " created="Thu, 11 Nov 2021 15:11:48 GMT" collapse="true">
 						<outline text="I am so sorry. " created="Thu, 11 Nov 2021 15:16:57 GMT"/>
 						</outline>
 					<outline text="What you will have to do is this (it's not really that bad)." created="Thu, 11 Nov 2021 15:12:48 GMT">
-						<outline text="In web Drummer, connect to GitHub, using github.connectViaOauth ()." created="Thu, 11 Nov 2021 15:12:58 GMT"/>
+						<outline text="In web Drummer, connect to GitHub using &lt;a href=&quot;http://docserver.scripting.com/?verb=github.connectViaOauth&quot;&gt;github.connectViaOauth&lt;/a&gt;." created="Thu, 11 Nov 2021 15:12:58 GMT"/>
 						<outline text="In an outline, in web Drummer, enter this and press cmd-/" created="Thu, 11 Nov 2021 15:13:30 GMT">
 							<outline text="localStorage.githubAccessToken " created="Thu, 11 Nov 2021 15:13:57 GMT"/>
 							</outline>
