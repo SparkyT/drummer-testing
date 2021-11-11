@@ -13,35 +13,40 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 20:26:21 GMT</dateModified>
-		<expansionState>1,2,3,7,9,13</expansionState>
-		<lastCursor>13</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 20:50:53 GMT</dateModified>
+		<expansionState>1,2,3,7,11</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
+				<outline text="GitHub in Electric Drummer" created="Thu, 11 Nov 2021 20:41:01 GMT" type="outline">
+					<outline text="github.connectViaOauth does not work yet in Electric Drummer. But you can still use the github verbs with a little bit of hand-coding. " created="Thu, 11 Nov 2021 20:41:11 GMT" flBulletedSubs="true">
+						<outline text="In web Drummer, open your Notes outline, or some other private outline where you can enter one-line scripts and run them. " created="Thu, 11 Nov 2021 20:47:00 GMT"/>
+						<outline text="Connect to GitHub by running this one-line script:  " created="Thu, 11 Nov 2021 20:47:23 GMT">
+							<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 20:47:46 GMT"/>
+							</outline>
+						<outline text="Get the value of the access token with this one-line script:" created="Thu, 11 Nov 2021 20:42:22 GMT">
+							<outline text="github.getAccessToken () " created="Thu, 11 Nov 2021 20:48:18 GMT"/>
+							</outline>
+						<outline text="Copy the value to the clipboard. " created="Thu, 11 Nov 2021 20:48:26 GMT"/>
+						<outline text="Launch Electric Drummer, in an outline, enter this one-line script. In place of xyz123, put in the access token you copied." created="Thu, 11 Nov 2021 20:42:48 GMT">
+							<outline text="localStorage.githubAccessToken = &quot;xyz123&quot;" created="Thu, 11 Nov 2021 20:43:12 GMT"/>
+							</outline>
+						<outline text="Press Cmd-/ to run the one-line script. " created="Thu, 11 Nov 2021 20:43:52 GMT"/>
+						</outline>
+					<outline text="Now you're effectively logged on to GitHub in Electric Drummer." created="Thu, 11 Nov 2021 20:44:03 GMT"/>
+					<outline text="You can test it by running this one-line script:" created="Thu, 11 Nov 2021 20:44:19 GMT">
+						<outline text="github.getUserInfo ()" created="Thu, 11 Nov 2021 20:44:28 GMT"/>
+						</outline>
+					</outline>
 				<outline text="New release of Electric Drummer" created="Thu, 11 Nov 2021 16:11:04 GMT" type="outline">
 					<outline text="On the Electric Drummer &lt;a href=&quot;http://docserver.scripting.com/drummer/electricDrummer.opml&quot;&gt;docs page&lt;/a&gt;. " created="Thu, 11 Nov 2021 16:11:09 GMT"/>
 					<outline text="Questions comments &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/110&quot;&gt;here&lt;/a&gt;. " created="Thu, 11 Nov 2021 16:13:18 GMT"/>
 					<outline text="Note I had trouble on one of my test machines with Cmd-/. The system wasn't recognizing it. But it works properly on two of the other machines I use for testing. So I'm not sure what's going on." created="Thu, 11 Nov 2021 16:13:38 GMT"/>
 					</outline>
 				<outline text="Notes on Electric Drummer" created="Thu, 11 Nov 2021 15:11:43 GMT" type="outline">
-					<outline text="The OAuth stuff is hard to do in an Electron app. It's possible, I did it for Twitter, but it involved setting up a web server to receive the callback from Twitter. I could do the same for GitHub, but I decided to do something wicked and un-user-friendly. " created="Thu, 11 Nov 2021 15:11:48 GMT" collapse="true">
-						<outline text="I am so sorry. " created="Thu, 11 Nov 2021 15:16:57 GMT"/>
-						</outline>
-					<outline text="What you will have to do is this (it's not really that bad)." created="Thu, 11 Nov 2021 15:12:48 GMT">
-						<outline text="In web Drummer, connect to GitHub using &lt;a href=&quot;http://docserver.scripting.com/?verb=github.connectViaOauth&quot;&gt;github.connectViaOauth&lt;/a&gt;." created="Thu, 11 Nov 2021 15:12:58 GMT"/>
-						<outline text="In an outline, in web Drummer, enter this and press cmd-/" created="Thu, 11 Nov 2021 15:13:30 GMT">
-							<outline text="localStorage.githubAccessToken " created="Thu, 11 Nov 2021 15:13:57 GMT"/>
-							</outline>
-						<outline text="Underneath you'll see a string of characters that's your &quot;access token&quot;. Copy everything between the quotes to the clipboard." created="Thu, 11 Nov 2021 15:14:01 GMT"/>
-						<outline text="Then open Electric Drummer (the new version, not yet released). Paste this into an outline." created="Thu, 11 Nov 2021 15:14:29 GMT">
-							<outline text="localStorage.githubAccessToken = &quot;xxx&quot;" created="Thu, 11 Nov 2021 15:14:54 GMT"/>
-							</outline>
-						<outline text="In place of xxx, put in the access token you copied. And press cmd-/." created="Thu, 11 Nov 2021 15:15:16 GMT"/>
-						</outline>
-					<outline text="Now you're logged in! Not too bad right? " created="Thu, 11 Nov 2021 15:15:30 GMT"/>
-					<outline text="I tested it, everything else seems to work. I love cheating like this. I apologize in advance. :-)" created="Thu, 11 Nov 2021 15:15:43 GMT"/>
+					<outline text="I rewrote this with less casual language. :-)" created="Thu, 11 Nov 2021 20:45:08 GMT"/>
 					</outline>
 				<outline text="GitHub scripting is deployed" created="Thu, 11 Nov 2021 13:46:11 GMT" type="outline">
 					<outline text="The place to ask questions is &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/109&quot;&gt;here&lt;/a&gt;. " created="Thu, 11 Nov 2021 13:46:20 GMT"/>
