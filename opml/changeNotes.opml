@@ -13,7 +13,7 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 14:31:28 GMT</dateModified>
+		<dateModified>Thu, 11 Nov 2021 14:44:59 GMT</dateModified>
 		<expansionState>1,2,3,7,8,9</expansionState>
 		<lastCursor>8</lastCursor>
 		</head>
@@ -39,7 +39,7 @@
 					<outline text="Things you should do next" created="Thu, 11 Nov 2021 13:56:04 GMT">
 						<outline text="First thing you should do, in an outline, with Cmd-/. " created="Thu, 11 Nov 2021 13:48:16 GMT">
 							<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 13:48:39 GMT">
-								<outline text="true" created="Thu, 11 Nov 2021 14:31:27 GMT" isComment="true"/>
+								<outline text="true" created="Thu, 11 Nov 2021 14:44:58 GMT" isComment="true"/>
 								</outline>
 							</outline>
 						<outline text="What it does -- it redirects you to GitHub where it knows about Drummer (I configured it, and it gave me back a client ID and secret). Your request includes the client id, that's how it knows where you came from. Then you will authorize Drummer to do stuff on your behalf. I think I have only asked for access to repos. You should verify that? It's a little confusing perhaps, for me too." created="Thu, 11 Nov 2021 13:49:21 GMT">
