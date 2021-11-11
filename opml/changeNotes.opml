@@ -13,13 +13,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 20:50:53 GMT</dateModified>
-		<expansionState>1,2,3,7,11</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 22:10:24 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
+				<outline text="GitHub sub-menu in the DW menu" created="Thu, 11 Nov 2021 22:09:20 GMT" type="outline">
+					<outline text="I've added a sub-menu for GitHub to the &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml#1627745102000&quot;&gt;DW test menu&lt;/a&gt;." created="Thu, 11 Nov 2021 22:09:28 GMT"/>
+					</outline>
 				<outline text="GitHub in Electric Drummer" created="Thu, 11 Nov 2021 20:41:01 GMT" type="outline">
 					<outline text="github.connectViaOauth does not work yet in Electric Drummer. But you can still use the github verbs with a little bit of hand-coding. " created="Thu, 11 Nov 2021 20:41:11 GMT" flBulletedSubs="true">
 						<outline text="In web Drummer, open your Notes outline, or some other private outline where you can enter one-line scripts and run them. " created="Thu, 11 Nov 2021 20:47:00 GMT"/>
