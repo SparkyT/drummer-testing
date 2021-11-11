@@ -13,13 +13,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 12:59:25 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 13:50:51 GMT</dateModified>
+		<expansionState>1,2,3,5,8,11</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
+				<outline text="GitHub scripting is deployed" created="Thu, 11 Nov 2021 13:46:11 GMT" type="outline">
+					<outline text="The place to ask questions is &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/109&quot;&gt;here&lt;/a&gt;. " created="Thu, 11 Nov 2021 13:46:20 GMT"/>
+					<outline text="Things I still have to do --" created="Thu, 11 Nov 2021 13:46:40 GMT">
+						<outline text="Review DocServer docs. Some of the requests return huge amounts of info, not really great for DocServer, so I want to edit things so it's less cumbersome" created="Thu, 11 Nov 2021 13:46:44 GMT"/>
+						<outline text="New release of Electric Drummer. This will be the first release since the first ship of Drummer on Oct xx. But I have some programming to do to make E/D work with GitHub, but I don't think it'll take too long to get done. " created="Thu, 11 Nov 2021 13:47:13 GMT"/>
+						</outline>
+					<outline text="First thing you should do, in an outline, with Cmd-/. " created="Thu, 11 Nov 2021 13:48:16 GMT">
+						<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 13:48:39 GMT"/>
+						</outline>
+					<outline text="What it does -- it redirects you to GitHub where it knows about Drummer (I configured it, and it gave me back a client ID and secret). Your request includes the client id, that's how it knows where you came from. Then you will authorize Drummer to do stuff on your behalf. I think I have only asked for access to repos. You should verify that? " created="Thu, 11 Nov 2021 13:49:21 GMT"/>
+					</outline>
 				<outline text="The name of the scripting language" created="Thu, 11 Nov 2021 12:58:43 GMT" type="outline">
 					<outline text="The name of the scripting language in Drummer is Drumkit." created="Thu, 11 Nov 2021 12:58:51 GMT"/>
 					<outline text="More &lt;a href=&quot;http://scripting.com/2021/11/11.html#a122951&quot;&gt;here&lt;/a&gt;." created="Thu, 11 Nov 2021 12:58:54 GMT"/>
