@@ -13,23 +13,48 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 13:50:51 GMT</dateModified>
-		<expansionState>1,2,3,5,8,11</expansionState>
-		<lastCursor>9</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 14:04:01 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
 				<outline text="GitHub scripting is deployed" created="Thu, 11 Nov 2021 13:46:11 GMT" type="outline">
 					<outline text="The place to ask questions is &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/109&quot;&gt;here&lt;/a&gt;. " created="Thu, 11 Nov 2021 13:46:20 GMT"/>
+					<outline text="Before anything -- be careful!" created="Thu, 11 Nov 2021 14:00:03 GMT">
+						<outline text="The GitHub functionality is simple, easy to master -- but incredibly powerful." created="Thu, 11 Nov 2021 14:00:13 GMT"/>
+						<outline text="I just got an alert from GitHub that they noticed that I uploaded a valid access token to my tmp1 repository, " created="Thu, 11 Nov 2021 14:00:28 GMT"/>
+						<outline text="It's good that they were watching. " created="Thu, 11 Nov 2021 14:00:55 GMT"/>
+						<outline text="How did I do this? I uploaded the OPML of my notes outline that had one-liners in it, including one that returns my access token. I was debugging my code, so it was a natural thing to do. And uploading the file was a one-liner! Really easy. I was so proud. " created="Thu, 11 Nov 2021 14:01:05 GMT"/>
+						<outline text="Okay they revoked the token. Good move. But if there were other sensitive info there they would not have been able to revoke it. " created="Thu, 11 Nov 2021 14:01:56 GMT"/>
+						<outline text="So be careful! Don't upload before thinking. And don't enter security oriented info into your outlines, ever. A rule I am pretty good at following, except sometimes when I'm feeling successful apparently. " created="Thu, 11 Nov 2021 14:02:21 GMT"/>
+						<outline text="Be careful. Be careful. Be careful. Be careful. Be careful. Be careful. Be careful. Be careful. Be careful. " created="Thu, 11 Nov 2021 14:03:15 GMT"/>
+						</outline>
 					<outline text="Things I still have to do --" created="Thu, 11 Nov 2021 13:46:40 GMT">
-						<outline text="Review DocServer docs. Some of the requests return huge amounts of info, not really great for DocServer, so I want to edit things so it's less cumbersome" created="Thu, 11 Nov 2021 13:46:44 GMT"/>
-						<outline text="New release of Electric Drummer. This will be the first release since the first ship of Drummer on Oct xx. But I have some programming to do to make E/D work with GitHub, but I don't think it'll take too long to get done. " created="Thu, 11 Nov 2021 13:47:13 GMT"/>
+						<outline text="Review DocServer docs. Some of the requests return huge amounts of info, not really great for DocServer, so I want to edit things so it's less cumbersome." created="Thu, 11 Nov 2021 13:46:44 GMT"/>
+						<outline text="New release of Electric Drummer. This will be the first release since the first ship of Drummer on &lt;a href=&quot;http://scripting.com/2021/10/10.html&quot;&gt;Oct 10&lt;/a&gt;. But I have some programming to do to make E/D work with GitHub, but I don't think it'll take too long to get done. " created="Thu, 11 Nov 2021 13:47:13 GMT"/>
+						<outline text="Test error conditions. I haven't tried getting the directory of a file, for example. It shouldn't work. I have no idea what it returns. " created="Thu, 11 Nov 2021 13:55:32 GMT"/>
 						</outline>
-					<outline text="First thing you should do, in an outline, with Cmd-/. " created="Thu, 11 Nov 2021 13:48:16 GMT">
-						<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 13:48:39 GMT"/>
+					<outline text="Things you should do next" created="Thu, 11 Nov 2021 13:56:04 GMT">
+						<outline text="First thing you should do, in an outline, with Cmd-/. " created="Thu, 11 Nov 2021 13:48:16 GMT">
+							<outline text="github.connectViaOauth ()" created="Thu, 11 Nov 2021 13:48:39 GMT"/>
+							</outline>
+						<outline text="What it does -- it redirects you to GitHub where it knows about Drummer (I configured it, and it gave me back a client ID and secret). Your request includes the client id, that's how it knows where you came from. Then you will authorize Drummer to do stuff on your behalf. I think I have only asked for access to repos. You should verify that? It's a little confusing perhaps, for me too." created="Thu, 11 Nov 2021 13:49:21 GMT">
+							<outline text="Then, assuming you've given permission, it redirects back to drummer.scripting.com, and it opens the client in your browser, with your access token as a parameter. The client sees the access token, puts it in localStorage on your machine, and then redirects back to itself without the access token param. So you may see a little loading and reloading, but when everything settles down, you'll be logged in. " created="Thu, 11 Nov 2021 13:51:00 GMT"/>
+							</outline>
+						<outline text="The way to verify that you're logged in is to specifically check, thus --" created="Thu, 11 Nov 2021 13:52:30 GMT">
+							<outline text="github.getAccessToken ()" created="Thu, 11 Nov 2021 13:52:53 GMT"/>
+							</outline>
+						<outline text="Then here are some other things you can try out" created="Thu, 11 Nov 2021 13:53:40 GMT">
+							<outline text="github.getUserInfo ()" created="Thu, 11 Nov 2021 13:53:54 GMT"/>
+							<outline text="github.getUserInfo (&quot;scripting&quot;)" created="Thu, 11 Nov 2021 13:53:54 GMT"/>
+							</outline>
+						<outline text="Do you have a repo? If so, try downloading a file, here's an example that works for me." created="Thu, 11 Nov 2021 13:54:13 GMT">
+							<outline text="github.download (&quot;scripting&quot;, &quot;Scripting-News&quot;, &quot;/blog/stories/2020/02/15/a142106.md&quot;)" created="Thu, 11 Nov 2021 13:54:33 GMT"/>
+							</outline>
+						<outline text="You can also upload files, but only to repos where you have permission to write. " created="Thu, 11 Nov 2021 13:55:08 GMT"/>
 						</outline>
-					<outline text="What it does -- it redirects you to GitHub where it knows about Drummer (I configured it, and it gave me back a client ID and secret). Your request includes the client id, that's how it knows where you came from. Then you will authorize Drummer to do stuff on your behalf. I think I have only asked for access to repos. You should verify that? " created="Thu, 11 Nov 2021 13:49:21 GMT"/>
 					</outline>
 				<outline text="The name of the scripting language" created="Thu, 11 Nov 2021 12:58:43 GMT" type="outline">
 					<outline text="The name of the scripting language in Drummer is Drumkit." created="Thu, 11 Nov 2021 12:58:51 GMT"/>
