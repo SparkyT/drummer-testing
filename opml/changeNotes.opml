@@ -13,13 +13,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 15:30:12 GMT</dateModified>
-		<expansionState>1,2,3,5,11</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Fri, 12 Nov 2021 16:16:28 GMT</dateModified>
+		<expansionState>1,2,3,13,15,21</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 12" created="Fri, 12 Nov 2021 14:42:28 GMT" type="calendarDay" name="12">
+				<outline text="Nodes w/o types in blogs" created="Fri, 12 Nov 2021 16:10:23 GMT" type="outline">
+					<outline text="I was reading about this on Ryan Tate's blog the other day, and it was a passionate story about how he loved editing his blog in an outliner, because sometimes an idea that's buried 8 levels deep could be promoted to become a post in its own right. That struck a never because yes, that's exactly how outlines work. And it was a sad tale because a change I had made recently made that no longer work." created="Fri, 12 Nov 2021 16:10:40 GMT"/>
+					<outline text="It was necessary to have that restriction while I was trying to sew the patient back together after a massive distruption. A change I never should have tried to make at the stage Old School was at, had to be made or the blogs wouldn't work at all for people in the Far East. " created="Fri, 12 Nov 2021 16:11:54 GMT"/>
+					<outline text="But the dust has settled from that disruption, I'm pretty sure that the patient has healed, so I took another look at this issue in Old School and realized I could, without introducing much complexity, relax the rule. " created="Fri, 12 Nov 2021 16:12:55 GMT"/>
+					<outline text="Here's a &lt;a href=&quot;http://scripting.com/images/2021/11/12/cluelessblog.png&quot;&gt;screen shot&lt;/a&gt; that illustrates. " created="Fri, 12 Nov 2021 16:13:33 GMT"/>
+					<outline text="Note all the typeless nodes in this blog? " created="Fri, 12 Nov 2021 16:14:27 GMT"/>
+					<outline text="Well, here's the &lt;a href=&quot;http://clueless.lucky.wtf/2021/11/12.html&quot;&gt;rendering&lt;/a&gt; of the blog for today. " created="Fri, 12 Nov 2021 16:14:39 GMT"/>
+					<outline text="Yes it seems it was possible to relax this rule." created="Fri, 12 Nov 2021 16:15:24 GMT"/>
+					<outline text="I like it when everyone wins. :boom:" created="Fri, 12 Nov 2021 16:15:32 GMT"/>
+					<outline text="So go forth and promote and if you know what you're doing don't worry about the types, but please when you can use the big + icon to create new posts and we'll all be happy, I think. ;-)" created="Fri, 12 Nov 2021 16:15:48 GMT"/>
+					</outline>
 				<outline text="HTTPS and PagePark" created="Fri, 12 Nov 2021 15:28:44 GMT" type="outline">
 					<outline text="Scott Hanson has been working on getting PagePark HTTPS-capable using an app called Caddy, which I did not previously know about. &lt;a href=&quot;https://github.com/scripting/pagePark/issues/25&quot;&gt;He requested&lt;/a&gt; a feature be added to PP which I have now &lt;a href=&quot;https://github.com/scripting/pagePark/issues/25#issuecomment-967203357&quot;&gt;added&lt;/a&gt;. " created="Fri, 12 Nov 2021 15:28:50 GMT"/>
 					</outline>
