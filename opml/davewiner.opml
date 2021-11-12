@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 15:09:44 GMT</dateModified>
+		<dateModified>Fri, 12 Nov 2021 19:20:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 12" type="calendarDay" name="12" >
+				<outline text="2016: What bloggers need from Facebook. (They ignored this.) https://t.co/amHoZiHc29" type="tweet" created="Fri, 12 Nov 2021 19:17:24 GMT" tweetId="1459238917908176906" urltweet="https://twitter.com/davewiner/status/1459238917908176906" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="@frankm -- you're right -- it would be easy to write a script that sets the type of untyped heads to outline if they fall under a day in the calendar.  #scriptingnews https://t.co/LRicT97FhB" type="tweet" created="Fri, 12 Nov 2021 15:09:08 GMT" tweetId="1459176443376766997" urltweet="https://twitter.com/davewiner/status/1459176443376766997" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Christie is always wrong. &lt;a href=&quot;https://twitter.com/memeorandum/status/1459136775566213122&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 12 Nov 2021 12:39:48 GMT" tweetId="1459138859292401687" urltweet="https://twitter.com/davewiner/status/1459138859292401687" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Metaverse?" type="tweet" created="Fri, 12 Nov 2021 12:37:21 GMT" tweetId="1459138243446857729" urltweet="https://twitter.com/davewiner/status/1459138243446857729" inReplyToId="" tweetUserName="davewiner" />
