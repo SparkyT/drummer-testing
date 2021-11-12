@@ -13,15 +13,15 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 20:39:27 GMT</dateModified>
-		<expansionState>1,2,3,8</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Fri, 12 Nov 2021 20:41:07 GMT</dateModified>
+		<expansionState>1,2,7</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 12" created="Fri, 12 Nov 2021 14:42:28 GMT" type="calendarDay" name="12">
 				<outline text="Images now included in RSS feeds" created="Fri, 12 Nov 2021 20:39:08 GMT" type="outline">
-					<outline text="If you had an image attribute on a node " created="Fri, 12 Nov 2021 20:39:16 GMT"/>
+					<outline text="If you had an image attribute on a node it would appear in the HTML rendering of the page and not in the RSS feed. This is a longtime oversight. I read about this on a blog, so I had a few minutes, and I fixed it. These kinds of omissions are generally easy to fix, just things that slipped through the cracks. It couldn't hurt to also mention it in an issue on a Drummer Support thread. It's more likely to get addressed that way. :smile:" created="Fri, 12 Nov 2021 20:39:16 GMT"/>
 					</outline>
 				<outline text="Nodes w/o types in blogs" created="Fri, 12 Nov 2021 16:10:23 GMT" type="outline">
 					<outline text="I was reading about this on Ryan Tate's blog the other day, and it was a passionate story about how he loved editing his blog in an outliner, because sometimes an idea that's buried 8 levels deep could be promoted to become a post in its own right. That struck a never because yes, that's exactly how outlines work. And it was a sad tale because a change I had made recently made that no longer work." created="Fri, 12 Nov 2021 16:10:40 GMT"/>
