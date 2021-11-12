@@ -13,9 +13,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 20:41:07 GMT</dateModified>
-		<expansionState>1,2,7</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 12 Nov 2021 21:51:43 GMT</dateModified>
+		<expansionState>1,2,6,13</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
@@ -38,6 +38,7 @@
 					<outline text="Scott Hanson has been working on getting PagePark HTTPS-capable using an app called Caddy, which I did not previously know about. &lt;a href=&quot;https://github.com/scripting/pagePark/issues/25&quot;&gt;He requested&lt;/a&gt; a feature be added to PP which I have now &lt;a href=&quot;https://github.com/scripting/pagePark/issues/25#issuecomment-967203357&quot;&gt;added&lt;/a&gt;. " created="Fri, 12 Nov 2021 15:28:50 GMT"/>
 					</outline>
 				<outline text="Please try Electric Drummer" created="Fri, 12 Nov 2021 14:42:29 GMT" type="outline">
+					<outline text="&lt;i&gt;Update: Thanks for all the feedback. I'm satisfied it's a good release. &lt;/i&gt;" created="Fri, 12 Nov 2021 21:51:17 GMT"/>
 					<outline text="I haven't gotten any reports that the new release of Electric Drummer works, or doesn't. " created="Fri, 12 Nov 2021 14:42:34 GMT"/>
 					<outline text="Please, if you use it, try using the new version and let me know if it works. This is really important. If you try it in two weeks and it doesn't work I won't be in as a good placde to fix problems as I am now. " created="Fri, 12 Nov 2021 14:42:48 GMT"/>
 					<outline text="Also it wouldn't hurt to try the GitHub stuff. I only have one confirmation that it works. " created="Fri, 12 Nov 2021 14:43:52 GMT"/>
