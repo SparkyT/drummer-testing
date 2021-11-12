@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 04:05:02 GMT</dateModified>
+		<dateModified>Fri, 12 Nov 2021 10:08:25 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 12" type="calendarDay" name="12" >
+				<outline text="Notes on Web3. &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/?fbclid=IwAR0S0tARhdVDgeW_o_tuJnIX8QAmmJvBzoez7N9crLg-M4wKn7IPVCTSEH4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 12 Nov 2021 10:07:32 GMT" tweetId="1459100542777675780" urltweet="https://twitter.com/davewiner/status/1459100542777675780" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 11" type="calendarDay" name="11" >
 				<outline text="Long Island man arrested after making death threat to congressman. #lockhimup &lt;a href=&quot;https://pix11.com/news/long-island-man-arrested-after-making-death-threat-to-congressman-police/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 12 Nov 2021 04:04:27 GMT" tweetId="1459009170485694465" urltweet="https://twitter.com/davewiner/status/1459009170485694465" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The power of outlines for public writing. https://t.co/wFYisNTI1M" type="tweet" created="Fri, 12 Nov 2021 01:52:49 GMT" tweetId="1458976043902062599" urltweet="https://twitter.com/davewiner/status/1458976043902062599" inReplyToId="" tweetUserName="davewiner" />
