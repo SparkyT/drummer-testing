@@ -13,12 +13,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 22:10:24 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Fri, 12 Nov 2021 14:47:41 GMT</dateModified>
+		<expansionState>1,2,3,9</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 12" created="Fri, 12 Nov 2021 14:42:28 GMT" type="calendarDay" name="12">
+				<outline text="Please try Electric Drummer" created="Fri, 12 Nov 2021 14:42:29 GMT" type="outline">
+					<outline text="I haven't gotten any reports that the new release of Electric Drummer works, or doesn't. " created="Fri, 12 Nov 2021 14:42:34 GMT"/>
+					<outline text="Please, if you use it, try using the new version and let me know if it works. This is really important. If you try it in two weeks and it doesn't work I won't be in as a good placde to fix problems as I am now. " created="Fri, 12 Nov 2021 14:42:48 GMT"/>
+					<outline text="Also it wouldn't hurt to try the GitHub stuff. I only have one confirmation that it works. " created="Fri, 12 Nov 2021 14:43:52 GMT"/>
+					<outline text="This is a two-way street. Without help testing and giving feedback, we're not going to be able to move. This is why LO2  and all of my other projects sputtered out. Lots of people using them, no one feeding back. I hope that isn't the fate of Drummer. " created="Fri, 12 Nov 2021 14:44:10 GMT"/>
+					<outline text="Comment &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/111&quot;&gt;here&lt;/a&gt;. " created="Fri, 12 Nov 2021 14:45:55 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 11" created="Thu, 11 Nov 2021 12:58:42 GMT" type="calendarDay" name="11">
 				<outline text="GitHub sub-menu in the DW menu" created="Thu, 11 Nov 2021 22:09:20 GMT" type="outline">
 					<outline text="I've added a sub-menu for GitHub to the &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml#1627745102000&quot;&gt;DW test menu&lt;/a&gt;." created="Thu, 11 Nov 2021 22:09:28 GMT"/>
