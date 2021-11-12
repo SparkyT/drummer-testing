@@ -6,13 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 10:38:27 GMT</dateModified>
+		<dateModified>Fri, 12 Nov 2021 10:43:27 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 12" type="calendarDay" name="12" >
 				<outline text="Twitter Blue which I accidentally subscribed to, actually deletes your tweets if you aren’t paying close attention. It’s supposed to be a feature I guess, give you a chance to change your mind. I’ve lost a bunch of writing this way. Did they user test this?" type="tweet" created="Fri, 12 Nov 2021 10:38:23 GMT" tweetId="1459108303447937027" urltweet="https://twitter.com/davewiner/status/1459108303447937027" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="When I was starting out in tech, after getting a degree in computer science, I was drawn to PCs because the adults hadn’t gotten there first. It was still simple. If they had kept their stuff simple, I might have invested on their platforms." type="tweet" created="Fri, 12 Nov 2021 10:31:41 GMT" tweetId="1459106618705125379" urltweet="https://twitter.com/davewiner/status/1459106618705125379" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="When I was starting out in tech, after getting a degree in computer science, I was drawn to PCs because the adults hadn’t gotten there first. It was still simple. If they had kept their stuff simple, I might have invested on their platforms." type="tweet" created="Fri, 12 Nov 2021 10:31:41 GMT" tweetId="1459106618705125379" urltweet="https://twitter.com/davewiner/status/1459106618705125379" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="The web after all these years is still really simple if you ignore Google and use common sense. They are like the oil companies and the web is pristine nature. It’s still possible to see the web as unspoiled as it was at the beginning. Just ignore Google and it’s all good." type="tweet" created="Fri, 12 Nov 2021 10:42:50 GMT" tweetId="1459109423985664023" urltweet="https://twitter.com/davewiner/status/1459109423985664023" inReplyToId="1459106618705125379" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Retiring Abroad: 6 Countries with Incentives to Retire There. &lt;a href=&quot;https://www.cntraveler.com/gallery/6-countries-with-incentives-to-retire-there?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=paid-auddev-21q4-arbitrage&amp;aud_dev=21q4&amp;mbid=paid-auddev&amp;kwp_0=2026221&amp;kwp_4=5843567&amp;kwp_1=2512729&amp;fbclid=IwAR0iHRChLSjwu_RVRNANQPgMTN-HJWkCq2bTsJj_C4D-ePKtuUIxwGROpc8&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 12 Nov 2021 10:28:09 GMT" tweetId="1459105727889481749" urltweet="https://twitter.com/davewiner/status/1459105727889481749" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Notes on Web3. &lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/?fbclid=IwAR0S0tARhdVDgeW_o_tuJnIX8QAmmJvBzoez7N9crLg-M4wKn7IPVCTSEH4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 12 Nov 2021 10:07:32 GMT" tweetId="1459100542777675780" urltweet="https://twitter.com/davewiner/status/1459100542777675780" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
