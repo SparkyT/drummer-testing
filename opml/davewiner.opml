@@ -6,11 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 09:48:56 GMT</dateModified>
+		<dateModified>Sat, 13 Nov 2021 10:35:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 13" type="calendarDay" name="13" >
+				<outline text="Algorithmic humanity. 
+
+That how Facebook transforms into Meta.
+
+That’s how they solve all the ills of social networks.
+
+The humans all behave because they are programmed to.
+
+That’s what they mean when they promise a Disneyfied experience." type="tweet" created="Sat, 13 Nov 2021 10:35:46 GMT" tweetId="1459470036146573314" urltweet="https://twitter.com/davewiner/status/1459470036146573314" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="40 Million People Rely on the Colorado River. It’s Drying Up Fast. &lt;a href=&quot;https://www.propublica.org/article/40-million-people-rely-on-the-colorado-river-its-drying-up-fast?utm_source=twitter&amp;utm_medium=social#1115045&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 13 Nov 2021 09:48:39 GMT" tweetId="1459458179004354561" urltweet="https://twitter.com/davewiner/status/1459458179004354561" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="November 12" type="calendarDay" name="12" >
