@@ -13,13 +13,26 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 13:36:12 GMT</dateModified>
-		<expansionState>1,2,3,13,14,23,31,32,41,50,51</expansionState>
-		<lastCursor>14</lastCursor>
+		<dateModified>Sat, 13 Nov 2021 14:14:04 GMT</dateModified>
+		<expansionState>1,2,3,17,18,27,35,36,45,54,55</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 13" created="Sat, 13 Nov 2021 13:26:27 GMT" type="calendarDay" name="13">
+				<outline text="Adding a podcast to your feed" created="Sat, 13 Nov 2021 14:10:43 GMT" type="outline">
+					<outline text="Not sure if this has ever been called out specifically." created="Sat, 13 Nov 2021 14:10:50 GMT"/>
+					<outline text="To include a podcast, record an MP3 then..." created="Sat, 13 Nov 2021 14:10:59 GMT">
+						<outline text="Copy the URL to the clipboard." created="Sat, 13 Nov 2021 14:11:12 GMT"/>
+						<outline text="In your Drummer blog, create a new headline with the big + icon. " created="Sat, 13 Nov 2021 14:11:20 GMT"/>
+						<outline text="Type in some text like Here's my latest podcast hope you like it. " created="Sat, 13 Nov 2021 14:11:37 GMT"/>
+						<outline text="With the cursor on the headline, click the suitcase icon. " created="Sat, 13 Nov 2021 14:11:56 GMT"/>
+						<outline text="Create a new attribute called enclosure with the URL of the MP3 as the value." created="Sat, 13 Nov 2021 14:12:14 GMT"/>
+						<outline text="Click OK to save the atts." created="Sat, 13 Nov 2021 14:12:29 GMT"/>
+						</outline>
+					<outline text="Drummer will automatically fill in the enclosure type and length by checking the file. If those don't show up that means there was a problem reading the file." created="Sat, 13 Nov 2021 14:12:41 GMT"/>
+					<outline text="To publish the podcast just rebuild your blog, the RSS feed will be rebuilt automatically." created="Sat, 13 Nov 2021 14:13:26 GMT"/>
+					</outline>
 				<outline text="Checking in on the bookmarklet" created="Sat, 13 Nov 2021 13:26:28 GMT" type="outline">
 					<outline text="There was a report on problems with the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/10/23/130345.html?title=drummerHasANewBookmarklet&quot;&gt;bookmarklet&lt;/a&gt; a few days ago, and I changed the way it works at startup to make it a bit more reliable, perhaps. Wondering -- if you're using the bookmarklet, how is it going? Is it putting the notes where they should? Any reliability issues? Comment in this &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/96&quot;&gt;thread&lt;/a&gt;." created="Sat, 13 Nov 2021 13:26:35 GMT"/>
 					</outline>
