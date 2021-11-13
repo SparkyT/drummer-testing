@@ -13,13 +13,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 15:19:17 GMT</dateModified>
-		<expansionState>1,2,3,7,9,12,14,31,32,41,49,50,59,68,69</expansionState>
+		<dateModified>Sat, 13 Nov 2021 16:35:22 GMT</dateModified>
+		<expansionState>1,2,15,16,25,33,34,43,52,53</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 13" created="Sat, 13 Nov 2021 13:26:27 GMT" type="calendarDay" name="13">
+				<outline text="Markdown as an interchange format" created="Sat, 13 Nov 2021 16:32:11 GMT" type="outline">
+					<outline text="Various tools-for-thought products use Markdown as an interchange format for outlines. " created="Sat, 13 Nov 2021 16:32:21 GMT"/>
+					<outline text="Whatever I personally think of the format, there's enough support out there so that it's wise for Drummer to support the format if possible." created="Sat, 13 Nov 2021 16:32:39 GMT"/>
+					<outline text="I've started writing some code to do it, starting with export." created="Sat, 13 Nov 2021 16:33:10 GMT"/>
+					<outline text="Here's the thread on the RFC site. " created="Sat, 13 Nov 2021 16:33:27 GMT">
+						<outline text="&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/4&quot;&gt;https://github.com/scripting/drummerRFC/issues/4&lt;/a&gt;" created="Sat, 13 Nov 2021 16:34:25 GMT"/>
+						</outline>
+					<outline text="Here's a demo, the serialization of the states outline. " created="Sat, 13 Nov 2021 16:33:43 GMT">
+						<outline text="&lt;a href=&quot;https://github.com/scripting/tmp1/blob/main/demo1.md&quot;&gt;https://github.com/scripting/tmp1/blob/main/demo1.md&lt;/a&gt;" created="Sat, 13 Nov 2021 16:34:21 GMT"/>
+						</outline>
+					</outline>
 				<outline text="Scripting note -- storage that doesn't stick aroun" created="Sat, 13 Nov 2021 15:13:21 GMT" type="outline">
 					<outline text="Frontier has a table, system.temp, which you can emulate in Drummer." created="Sat, 13 Nov 2021 15:13:25 GMT"/>
 					<outline text="The thing about system.temp is that it's ephemeral. Anything you put in system.temp goes away the next time you launch Frontier. " created="Sat, 13 Nov 2021 15:13:59 GMT"/>
