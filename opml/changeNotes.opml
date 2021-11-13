@@ -13,21 +13,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 15:16:18 GMT</dateModified>
-		<expansionState>1,2,3,7,10,12,29,30,39,47,48,57,66,67</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Sat, 13 Nov 2021 15:19:17 GMT</dateModified>
+		<expansionState>1,2,3,7,9,12,14,31,32,41,49,50,59,68,69</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 13" created="Sat, 13 Nov 2021 13:26:27 GMT" type="calendarDay" name="13">
-				<outline text="Scripting note" created="Sat, 13 Nov 2021 15:13:21 GMT" type="outline">
+				<outline text="Scripting note -- storage that doesn't stick aroun" created="Sat, 13 Nov 2021 15:13:21 GMT" type="outline">
 					<outline text="Frontier has a table, system.temp, which you can emulate in Drummer." created="Sat, 13 Nov 2021 15:13:25 GMT"/>
-					<outline text="The thing about system.temp was that it was ephemeral. Anything you put in system.temp was gone the next time you booted Frontier. " created="Sat, 13 Nov 2021 15:13:59 GMT"/>
-					<outline text="That made it useful for little one-line scripts, or demos -- it was a way to save a value to be used in future one-liners, without worrying about cluttering up your object database." created="Sat, 13 Nov 2021 15:14:25 GMT"/>
+					<outline text="The thing about system.temp is that it's ephemeral. Anything you put in system.temp goes away the next time you launch Frontier. " created="Sat, 13 Nov 2021 15:13:59 GMT"/>
+					<outline text="That made it useful for little one-line scripts, or demos -- it was a way to save a value to be used in a future one-liner, without cluttering up your object database." created="Sat, 13 Nov 2021 15:14:25 GMT"/>
 					<outline text="Here's how you do it in Drummer. " created="Sat, 13 Nov 2021 15:15:05 GMT">
 						<outline text="In an outline, enter &lt;i&gt;root.temp = new Object ()&lt;/i&gt; and press Cmd-/" created="Sat, 13 Nov 2021 15:15:17 GMT"/>
 						</outline>
-					<outline text="" created="Sat, 13 Nov 2021 15:15:44 GMT"/>
+					<outline text="Now when you need a temporary place to hold a value, use that object." created="Sat, 13 Nov 2021 15:15:44 GMT">
+						<outline text="&lt;i&gt;root.temp.fname = &quot;hello.opml&quot;&lt;/i&gt;" created="Sat, 13 Nov 2021 15:16:35 GMT"/>
+						</outline>
+					<outline text="Not very high tech, but useful! 🥁" created="Sat, 13 Nov 2021 15:17:11 GMT"/>
 					</outline>
 				<outline text="Adding a podcast to your feed" created="Sat, 13 Nov 2021 14:10:43 GMT" type="outline">
 					<outline text="Not sure if this has ever been called out specifically." created="Sat, 13 Nov 2021 14:10:50 GMT"/>
