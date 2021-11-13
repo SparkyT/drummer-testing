@@ -6,11 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 21:59:11 GMT</dateModified>
+		<dateModified>Sat, 13 Nov 2021 00:36:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 12" type="calendarDay" name="12" >
+				<outline text="Youngkin’s Racist Yearbook Imagery (“An Oriental Occasion”) Shows He Was Not Vetted. &lt;a href=&quot;https://bluevirginia.us/2021/11/youngkins-racist-yearbook-imagery-an-oriental-occasion-shows-he-was-not-vetted&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 13 Nov 2021 00:35:55 GMT" tweetId="1459319077076353027" urltweet="https://twitter.com/davewiner/status/1459319077076353027" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="How will Facebook keep its metaverse safe for users? (Easy. It’ll be 100 percent imitation humanity.) &lt;a href=&quot;https://www.ft.com/content/d72145b7-5e44-446a-819c-51d67c5471cf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 13 Nov 2021 00:30:02 GMT" tweetId="1459317598110244875" urltweet="https://twitter.com/davewiner/status/1459317598110244875" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Like the Matrix. Most/all of the characters are programs." type="tweet" created="Sat, 13 Nov 2021 00:31:47 GMT" tweetId="1459318038415790083" urltweet="https://twitter.com/davewiner/status/1459318038415790083" inReplyToId="1459317598110244875" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Former Trump adviser Steve Bannon indicted by federal grand jury for contempt of Congress. #lockhimup &lt;a href=&quot;https://news.yahoo.com/former-trump-adviser-steve-bannon-205800607.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 12 Nov 2021 21:58:23 GMT" tweetId="1459279432234016769" urltweet="https://twitter.com/davewiner/status/1459279432234016769" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="2016: What bloggers need from Facebook. (They ignored this.) https://t.co/amHoZiHc29" type="tweet" created="Fri, 12 Nov 2021 19:17:24 GMT" tweetId="1459238917908176906" urltweet="https://twitter.com/davewiner/status/1459238917908176906" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="@frankm -- you're right -- it would be easy to write a script that sets the type of untyped heads to outline if they fall under a day in the calendar.  #scriptingnews https://t.co/LRicT97FhB" type="tweet" created="Fri, 12 Nov 2021 15:09:08 GMT" tweetId="1459176443376766997" urltweet="https://twitter.com/davewiner/status/1459176443376766997" inReplyToId="" tweetUserName="davewiner" />
