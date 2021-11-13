@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 10:35:59 GMT</dateModified>
+		<dateModified>Sat, 13 Nov 2021 14:17:23 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 13" type="calendarDay" name="13" >
+				<outline text="Drummer blogs support podcasting, as you might imagine. ;-) https://t.co/RLgj6WhFsh" type="tweet" created="Sat, 13 Nov 2021 14:15:10 GMT" tweetId="1459525249528176640" urltweet="https://twitter.com/davewiner/status/1459525249528176640" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Algorithmic humanity. 
 
 That how Facebook transforms into Meta.
