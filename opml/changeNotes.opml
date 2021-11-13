@@ -13,12 +13,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 21:51:43 GMT</dateModified>
-		<expansionState>1,2,6,13</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Sat, 13 Nov 2021 13:36:12 GMT</dateModified>
+		<expansionState>1,2,3,13,14,23,31,32,41,50,51</expansionState>
+		<lastCursor>14</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 13" created="Sat, 13 Nov 2021 13:26:27 GMT" type="calendarDay" name="13">
+				<outline text="Checking in on the bookmarklet" created="Sat, 13 Nov 2021 13:26:28 GMT" type="outline">
+					<outline text="There was a report on problems with the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/10/23/130345.html?title=drummerHasANewBookmarklet&quot;&gt;bookmarklet&lt;/a&gt; a few days ago, and I changed the way it works at startup to make it a bit more reliable, perhaps. Wondering -- if you're using the bookmarklet, how is it going? Is it putting the notes where they should? Any reliability issues? Comment in this &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/96&quot;&gt;thread&lt;/a&gt;." created="Sat, 13 Nov 2021 13:26:35 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 12" created="Fri, 12 Nov 2021 14:42:28 GMT" type="calendarDay" name="12">
 				<outline text="Images now included in RSS feeds" created="Fri, 12 Nov 2021 20:39:08 GMT" type="outline">
 					<outline text="If you had an image attribute on a node it would appear in the HTML rendering of the page and not in the RSS feed. This is a longtime oversight. I read about this on a blog, so I had a few minutes, and I fixed it. These kinds of omissions are generally easy to fix, just things that slipped through the cracks. It couldn't hurt to also mention it in an issue on a Drummer Support thread. It's more likely to get addressed that way. :smile:" created="Fri, 12 Nov 2021 20:39:16 GMT"/>
