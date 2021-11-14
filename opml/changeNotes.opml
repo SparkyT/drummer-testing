@@ -13,13 +13,20 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 16:50:49 GMT</dateModified>
-		<expansionState>1,2,3,10,24,25,34,42,43,52,61,62</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Sun, 14 Nov 2021 23:38:02 GMT</dateModified>
+		<expansionState>1,2,3,20,21,30,38,39,48,57,58</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 14" created="Sun, 14 Nov 2021 14:58:09 GMT" type="calendarDay" name="14">
+				<outline text="oldSchool.getCursorLink verb" created="Sun, 14 Nov 2021 23:34:27 GMT" type="outline">
+					<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=oldSchool.getCursorLink&quot;&gt;New verb&lt;/a&gt;, returns the URL of the post the bar cursor points to." created="Sun, 14 Nov 2021 23:34:39 GMT"/>
+					<outline text="If it's a titled post, the cursor points to the specific line in the post the cursor points to." created="Sun, 14 Nov 2021 23:34:53 GMT"/>
+					<outline text="The verb returns undefined if the file doesn't have a head-level urlBlogWebsite attribute. " created="Sun, 14 Nov 2021 23:36:25 GMT"/>
+					<outline text="I've posted the source code for this verb, for review -- because a few prolific Drumkit scripters have produced their own versions of this function, and I want to be sure I've got the bases covered. " created="Sun, 14 Nov 2021 23:37:03 GMT"/>
+					<outline text="Also, I wired this function into the Eye icon, to make it easier to access. " created="Sun, 14 Nov 2021 23:37:45 GMT"/>
+					</outline>
 				<outline text="Old School purple pound signs" created="Sun, 14 Nov 2021 16:41:32 GMT" type="outline">
 					<outline text="I was following a discussion in the support group, and reading code that @amit wrote, about matching up with the permalinks that Old School creates from within Drummer. " created="Sun, 14 Nov 2021 16:41:48 GMT"/>
 					<outline text="Anyway, in the rush to fix the problem with Far East blogs and time zones, in October, something weird slipped through, and  it can't be changed now, so I might as well document it. :-)" created="Sun, 14 Nov 2021 16:43:06 GMT"/>
