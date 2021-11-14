@@ -13,12 +13,20 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 16:35:22 GMT</dateModified>
-		<expansionState>1,2,15,16,25,33,34,43,52,53</expansionState>
+		<dateModified>Sun, 14 Nov 2021 15:00:46 GMT</dateModified>
+		<expansionState>1,2,3,17,18,27,35,36,45,54,55</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 14" created="Sun, 14 Nov 2021 14:58:09 GMT" type="calendarDay" name="14">
+				<outline text="PagePark users -- a simpler path to HTTPS" created="Sun, 14 Nov 2021 14:58:10 GMT" type="outline">
+					<outline text="Scott Hanson has been working on running PagePark behind &lt;a href=&quot;https://caddyserver.com/&quot;&gt;Caddy&lt;/a&gt;, which makes it possible for all your sites to be accessible via HTTPS." created="Sun, 14 Nov 2021 14:58:18 GMT"/>
+					<outline text="If this works, the goal is to have Drummer itself run as an HTTPS app. " created="Sun, 14 Nov 2021 14:58:50 GMT"/>
+					<outline text="So if you're interested, have a look at his RFC on the PagePark site." created="Sun, 14 Nov 2021 14:59:10 GMT"/>
+					<outline text="I added the feature &lt;a href=&quot;https://github.com/scripting/pagePark/issues/25&quot;&gt;he RFC'd&lt;/a&gt;, and it appears to work. " created="Sun, 14 Nov 2021 14:59:23 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 13" created="Sat, 13 Nov 2021 13:26:27 GMT" type="calendarDay" name="13">
 				<outline text="Markdown as an interchange format" created="Sat, 13 Nov 2021 16:32:11 GMT" type="outline">
 					<outline text="Various tools-for-thought products use Markdown as an interchange format for outlines. " created="Sat, 13 Nov 2021 16:32:21 GMT"/>
