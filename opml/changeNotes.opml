@@ -9,11 +9,12 @@
 		<description>Dave Winer's notes on development with Drummer and related projects.</description>
 		<copyright>Copyright 2021, Dave Winer.</copyright>
 		<urlHeaderImage>http://scripting.com/images/2021/05/10/pissaro.png</urlHeaderImage>
+		<urlBlogWebsite>http://scripting.com/drummer/blog/</urlBlogWebsite>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 23:38:02 GMT</dateModified>
+		<dateModified>Sun, 14 Nov 2021 23:45:14 GMT</dateModified>
 		<expansionState>1,2,3,20,21,30,38,39,48,57,58</expansionState>
 		<lastCursor>7</lastCursor>
 		</head>
@@ -24,7 +25,7 @@
 					<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=oldSchool.getCursorLink&quot;&gt;New verb&lt;/a&gt;, returns the URL of the post the bar cursor points to." created="Sun, 14 Nov 2021 23:34:39 GMT"/>
 					<outline text="If it's a titled post, the cursor points to the specific line in the post the cursor points to." created="Sun, 14 Nov 2021 23:34:53 GMT"/>
 					<outline text="The verb returns undefined if the file doesn't have a head-level urlBlogWebsite attribute. " created="Sun, 14 Nov 2021 23:36:25 GMT"/>
-					<outline text="I've posted the source code for this verb, for review -- because a few prolific Drumkit scripters have produced their own versions of this function, and I want to be sure I've got the bases covered. " created="Sun, 14 Nov 2021 23:37:03 GMT"/>
+					<outline text="I've &lt;a href=&quot;https://gist.github.com/scripting/acb9762e5d6969a26780367c75834574&quot;&gt;posted the source code&lt;/a&gt; for this verb, &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/12&quot;&gt;for review&lt;/a&gt; -- because a few prolific Drumkit scripters have produced their own versions of this function, and I want to be sure I've got the bases covered. " created="Sun, 14 Nov 2021 23:37:03 GMT"/>
 					<outline text="Also, I wired this function into the Eye icon, to make it easier to access. " created="Sun, 14 Nov 2021 23:37:45 GMT"/>
 					</outline>
 				<outline text="Old School purple pound signs" created="Sun, 14 Nov 2021 16:41:32 GMT" type="outline">
