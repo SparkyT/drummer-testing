@@ -13,13 +13,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 15:00:46 GMT</dateModified>
-		<expansionState>1,2,3,17,18,27,35,36,45,54,55</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 14 Nov 2021 16:50:49 GMT</dateModified>
+		<expansionState>1,2,3,10,24,25,34,42,43,52,61,62</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 14" created="Sun, 14 Nov 2021 14:58:09 GMT" type="calendarDay" name="14">
+				<outline text="Old School purple pound signs" created="Sun, 14 Nov 2021 16:41:32 GMT" type="outline">
+					<outline text="I was following a discussion in the support group, and reading code that @amit wrote, about matching up with the permalinks that Old School creates from within Drummer. " created="Sun, 14 Nov 2021 16:41:48 GMT"/>
+					<outline text="Anyway, in the rush to fix the problem with Far East blogs and time zones, in October, something weird slipped through, and  it can't be changed now, so I might as well document it. :-)" created="Sun, 14 Nov 2021 16:43:06 GMT"/>
+					<outline text="Suppose I have a headline, either a singular post or part of a titled post, and I want to, in a Drummer script, generate a permalink to it. " created="Sun, 14 Nov 2021 16:43:55 GMT"/>
+					<outline text="So first, I have to figure out what the year, month and day is, so I point to the right page. This is done in the user's timezone. That was the tricky part of the October problem.  " created="Sun, 14 Nov 2021 16:44:32 GMT"/>
+					<outline text="Then I have to figure out the permalink, the link to the purple pound sign on the line. Here we use the time in GMT." created="Sun, 14 Nov 2021 16:44:49 GMT"/>
+					<outline text="I have posted this &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/11&quot;&gt;as an RFC&lt;/a&gt;, and see if people agree, and I might bake some funcitonality in Drummer to smoothe this out. " created="Sun, 14 Nov 2021 16:46:03 GMT"/>
+					</outline>
 				<outline text="PagePark users -- a simpler path to HTTPS" created="Sun, 14 Nov 2021 14:58:10 GMT" type="outline">
 					<outline text="Scott Hanson has been working on running PagePark behind &lt;a href=&quot;https://caddyserver.com/&quot;&gt;Caddy&lt;/a&gt;, which makes it possible for all your sites to be accessible via HTTPS." created="Sun, 14 Nov 2021 14:58:18 GMT"/>
 					<outline text="If this works, the goal is to have Drummer itself run as an HTTPS app. " created="Sun, 14 Nov 2021 14:58:50 GMT"/>
