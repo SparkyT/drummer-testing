@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 11:08:34 GMT</dateModified>
+		<dateModified>Sun, 14 Nov 2021 12:30:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 14" type="calendarDay" name="14" >
+				<outline text="As one of the first White kids in a Black school, I learned not to fear history. &lt;a href=&quot;https://www.washingtonpost.com/outlook/as-one-of-the-first-white-kids-in-a-black-school-i-learned-not-to-fear-history/2021/11/12/05a78eca-4328-11ec-a88e-2aa4632af69b_story.html?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjMxMzEzNDYzIiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTYzNjg5Mjk2MCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTYzODEwMjU2MCwiaWF0IjoxNjM2ODkyOTYwLCJqdGkiOiI3NzYyYzM0My0yYzlmLTQwZGItOTczOC0xMDg1ZTg1MjE2ZGIiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vb3V0bG9vay9hcy1vbmUtb2YtdGhlLWZpcnN0LXdoaXRlLWtpZHMtaW4tYS1ibGFjay1zY2hvb2wtaS1sZWFybmVkLW5vdC10by1mZWFyLWhpc3RvcnkvMjAyMS8xMS8xMi8wNWE3OGVjYS00MzI4LTExZWMtYTg4ZS0yYWE0NjMyYWY2OWJfc3RvcnkuaHRtbCJ9._gILMuSN-VlrFRHhjX3EL11dwecZLRBApv8y8fR_p5w&amp;itid=gfta&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 14 Nov 2021 12:29:45 GMT" tweetId="1459861108936826882" urltweet="https://twitter.com/davewiner/status/1459861108936826882" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="In search of poka-yokes. &lt;a href=&quot;https://seths.blog/2021/11/in-search-of-poka-yokes/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 14 Nov 2021 12:27:58 GMT" tweetId="1459860657935982598" urltweet="https://twitter.com/davewiner/status/1459860657935982598" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/5 I’ve had a peloton for a couple of weeks." type="tweet" created="Sun, 14 Nov 2021 11:08:05 GMT" tweetId="1459840553705689092" urltweet="https://twitter.com/davewiner/status/1459840553705689092" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/5 I got it so I could exercise when the weather is too nasty to go out for a ride or a walk." type="tweet" created="Sun, 14 Nov 2021 11:08:06 GMT" tweetId="1459840557677793282" urltweet="https://twitter.com/davewiner/status/1459840557677793282" inReplyToId="1459840553705689092" tweetUserName="davewiner" >
 						<outline text="3/5 I’ve done classes and rides with no content. I don’t like the classes. The impersonal “you can do I it” motivation is a real turn off. Who the heck are you, and yiu have no clue who I am. Ugh." type="tweet" created="Sun, 14 Nov 2021 11:08:07 GMT" tweetId="1459840561939156994" urltweet="https://twitter.com/davewiner/status/1459840561939156994" inReplyToId="1459840557677793282" tweetUserName="davewiner" >
