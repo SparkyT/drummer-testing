@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 15:23:23 GMT</dateModified>
+		<dateModified>Mon, 15 Nov 2021 16:10:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
@@ -15,7 +15,11 @@
 
 That's ridiculous. We should have this discussion.
 
-There's no comparison between pre and post-web information flow." type="tweet" created="Mon, 15 Nov 2021 15:22:37 GMT" tweetId="1460266998403899392" urltweet="https://twitter.com/davewiner/status/1460266998403899392" inReplyToId="" tweetUserName="davewiner" />
+There's no comparison between pre and post-web information flow." type="tweet" created="Mon, 15 Nov 2021 15:22:37 GMT" tweetId="1460266998403899392" urltweet="https://twitter.com/davewiner/status/1460266998403899392" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Where is the @W3C?  
+
+It's one thing to compete with the web, but to use its name? That's brazen." type="tweet" created="Mon, 15 Nov 2021 16:10:17 GMT" tweetId="1460278992867631105" urltweet="https://twitter.com/davewiner/status/1460278992867631105" inReplyToId="1460266998403899392" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Worth isn't a function of money, or what others think of you. It's what you find when you look inside. That's what you're worth." type="tweet" created="Mon, 15 Nov 2021 13:56:15 GMT" tweetId="1460245262774026243" urltweet="https://twitter.com/davewiner/status/1460245262774026243" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Drum Roll Please: the Greatest Drummers of All Time, Ranked. &lt;a href=&quot;https://foodisinthehouse.com/the-greatest-drummers-of-s0/7/?utm_campaign=s0-us-m-fih-drumren-ukfih12-c138-as1-v1&amp;utm_source=facebook-s0&amp;utm_medium=s0-us-m-fih-drumren-ukfih12-c138-as1-v1&amp;fbclid=IwAR3a0kZwbqqAaRm1n3qiLirqMKWK64O5wlIYXgEBk1NuvyO_9wPrr6qqsnE&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 15 Nov 2021 09:00:06 GMT" tweetId="1460170733540331523" urltweet="https://twitter.com/davewiner/status/1460170733540331523" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
