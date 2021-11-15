@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 16:10:26 GMT</dateModified>
+		<dateModified>Mon, 15 Nov 2021 20:04:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 15" type="calendarDay" name="15" >
+				<outline text="Is there any point in launching a search engine in 2021? &lt;a href=&quot;https://www.protocol.com/you-dot-com-benioff&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 15 Nov 2021 20:04:16 GMT" tweetId="1460337877267763204" urltweet="https://twitter.com/davewiner/status/1460337877267763204" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I've been reading from &quot;Web3&quot; proponents that the web failed to deliver on the hopes of the early idealists.
 
 That's ridiculous. We should have this discussion.
