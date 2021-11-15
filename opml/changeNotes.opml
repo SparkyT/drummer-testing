@@ -14,16 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 15:43:04 GMT</dateModified>
-		<expansionState>1,2,3,6,9,15,28,29,38,46,47,56,65,66</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Mon, 15 Nov 2021 15:44:58 GMT</dateModified>
+		<expansionState>1,2,3,7,12,25,26,35,43,44,53,62,63</expansionState>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 15" created="Mon, 15 Nov 2021 15:38:30 GMT" type="calendarDay" name="15">
 				<outline text="date.convertToTimeZone verb" created="Mon, 15 Nov 2021 15:41:54 GMT" type="outline">
 					<outline text="This verb takes a date created in your local time zone and converts it to a date in a different time zone. " created="Mon, 15 Nov 2021 15:42:17 GMT"/>
-					<outline text="" created="Mon, 15 Nov 2021 15:42:51 GMT"/>
+					<outline text="This has become such an important operation, I would nominate it for inclusion in the standard JavaScript library." created="Mon, 15 Nov 2021 15:42:51 GMT"/>
+					<outline text="Here's the &lt;a href=&quot;http://docserver.scripting.com/?verb=date.convertToTimeZone&quot;&gt;DocServer page&lt;/a&gt;. " created="Mon, 15 Nov 2021 15:43:27 GMT"/>
 					</outline>
 				<outline text="A use-case I didn't consider" created="Mon, 15 Nov 2021 15:38:31 GMT" type="outline">
 					<outline text="@sabre23t &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/113&quot;&gt;reported&lt;/a&gt; that when he clicked on the Eye icon when viewing the Change Notes outline, that it computed the URL incorrectly and resulted in a 404 error. It was fascinating because this was a use-case I didn't consider when designing the feature." created="Mon, 15 Nov 2021 15:38:40 GMT"/>
@@ -34,7 +35,7 @@
 						<outline text="Click on any headline in that outline to move the bar cursor to it." created="Mon, 15 Nov 2021 15:40:16 GMT"/>
 						<outline text="Click the Eye icon" created="Mon, 15 Nov 2021 15:40:29 GMT"/>
 						</outline>
-					<outline text="To solve this problem, I implemented a new verb that will be good to have around for future work in this area." created="Mon, 15 Nov 2021 15:40:35 GMT"/>
+					<outline text="To solve this problem, I implemented a &lt;a href=&quot;http://docserver.scripting.com/?verb=date.convertToTimeZone&quot;&gt;new verb&lt;/a&gt; that will be good to have around for future work in this area." created="Mon, 15 Nov 2021 15:40:35 GMT"/>
 					</outline>
 				</outline>
 			<outline text="November 14" created="Sun, 14 Nov 2021 14:58:09 GMT" type="calendarDay" name="14">
