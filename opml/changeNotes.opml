@@ -14,13 +14,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 15:44:58 GMT</dateModified>
-		<expansionState>1,2,3,7,12,25,26,35,43,44,53,62,63</expansionState>
-		<lastCursor>10</lastCursor>
+		<dateModified>Mon, 15 Nov 2021 17:41:20 GMT</dateModified>
+		<expansionState>1,2,3,10,14,19,23,36,37,46,54,55,64,73,74</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 15" created="Mon, 15 Nov 2021 15:38:30 GMT" type="calendarDay" name="15">
+				<outline text="Minor tuneup for bookmarklet" created="Mon, 15 Nov 2021 17:37:11 GMT" type="outline">
+					<outline text="There have been some additional reports of problems with the &lt;a href=&quot;http://docserver.scripting.com/drummer/general.opml#1634950078000&quot;&gt;Bookmarklet&lt;/a&gt;. " created="Mon, 15 Nov 2021 17:37:19 GMT"/>
+					<outline text="I moved the processing of the bookmarklet to later in the launch process. There's a lot of realtime multithread stuff going on in Drummer as it starts up. Usually you don't have to worry about this, but the bookmarklet possibly opens a tab that isn't already open and might not be frontmost. So there's the potential for trouble. " created="Mon, 15 Nov 2021 17:40:09 GMT"/>
+					<outline text="It's so useful, I really want it to be reliable. " created="Mon, 15 Nov 2021 17:37:36 GMT"/>
+					<outline text="Keep &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/96&quot;&gt;reporting problems&lt;/a&gt;, try to be specific about what happened. " created="Mon, 15 Nov 2021 17:37:46 GMT"/>
+					<outline text="It has been described as a personal Yahoo. I hadn't thought of it that way. Maybe we can render these outlines like Yahoo. There is plenty of prior art for that, from Frontier days. " created="Mon, 15 Nov 2021 17:39:22 GMT"/>
+					<outline text="Thanks! ;-)" created="Mon, 15 Nov 2021 17:37:59 GMT"/>
+					</outline>
 				<outline text="date.convertToTimeZone verb" created="Mon, 15 Nov 2021 15:41:54 GMT" type="outline">
 					<outline text="This verb takes a date created in your local time zone and converts it to a date in a different time zone. " created="Mon, 15 Nov 2021 15:42:17 GMT"/>
 					<outline text="This has become such an important operation, I would nominate it for inclusion in the standard JavaScript library." created="Mon, 15 Nov 2021 15:42:51 GMT"/>
