@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 00:47:36 GMT</dateModified>
+		<dateModified>Mon, 15 Nov 2021 01:44:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 14" type="calendarDay" name="14" >
+				<outline text="The thing that makes Succession so much better than any other melodrama serial is the music.
+
+&lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=G29EyeGzm9w&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 15 Nov 2021 01:43:47 GMT" tweetId="1460060932650975238" urltweet="https://twitter.com/davewiner/status/1460060932650975238" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="About Web 3, whatever it is, they should’ve chosen a different name. https://t.co/Uo0D4y32M5" type="tweet" created="Mon, 15 Nov 2021 00:44:34 GMT" tweetId="1460046031639490563" urltweet="https://twitter.com/davewiner/status/1460046031639490563" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Ain't too proud to blog. https://t.co/hp2eW6YqQr" type="tweet" created="Sun, 14 Nov 2021 17:52:56 GMT" tweetId="1459942438592815107" urltweet="https://twitter.com/davewiner/status/1459942438592815107" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Bannon may not be only Trump ally indicted over Capitol attack. &lt;a href=&quot;https://www.theguardian.com/us-news/2021/nov/14/bannon-trump-mark-meadows-indicted-capitol-attack-adam-schiff&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 14 Nov 2021 17:54:01 GMT" tweetId="1459942710354264067" urltweet="https://twitter.com/davewiner/status/1459942710354264067" inReplyToId="" tweetUserName="davewiner" />
