@@ -14,15 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 16 Nov 2021 20:50:51 GMT</dateModified>
-		<expansionState>1,2,3,21,29,30,39,48,49</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 16 Nov 2021 21:13:08 GMT</dateModified>
+		<expansionState>1,2,3,23,31,32,41,50,51</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 16" created="Tue, 16 Nov 2021 13:12:04 GMT" type="calendarDay" name="16">
 				<outline text="New verbs" created="Tue, 16 Nov 2021 20:50:12 GMT" type="outline">
-					<outline text="op.getCursorJstruct ()" created="Tue, 16 Nov 2021 20:50:16 GMT"/>
+					<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=op.getCursorJstruct&quot;&gt;op.getCursorJstruct&lt;/a&gt;" created="Tue, 16 Nov 2021 20:50:16 GMT"/>
+					<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=op.getOutlineJstruct&quot;&gt;op.getOutlineJstruct&lt;/a&gt;" created="Tue, 16 Nov 2021 21:07:21 GMT"/>
+					<outline text="These two verbs get the equivalent of op.getCursorOpml and xxx, but instead of returning XML text, they return JavaScript objects, which makes processing the outline both easier to program and faster. I needed these routines for a new bit of functionality I'm working on, and as now is the custom, when I write new functionality, I try to include the basic functionality as documented Drumkit verbs.  " created="Tue, 16 Nov 2021 21:10:47 GMT"/>
 					</outline>
 				<outline text="This is real important" created="Tue, 16 Nov 2021 13:12:05 GMT" type="outline">
 					<outline text="I know you all didn't pay any money for Drummer, and I know that changes the psychology of how you view the product. And that's cool, I still don't want to try to make a business of this, maybe at some point, but not now. " created="Tue, 16 Nov 2021 13:12:13 GMT"/>
