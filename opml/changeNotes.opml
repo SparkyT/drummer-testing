@@ -14,13 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 16 Nov 2021 13:50:44 GMT</dateModified>
-		<expansionState>1,2,19,27,28,37,46,47</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 16 Nov 2021 20:50:51 GMT</dateModified>
+		<expansionState>1,2,3,21,29,30,39,48,49</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 16" created="Tue, 16 Nov 2021 13:12:04 GMT" type="calendarDay" name="16">
+				<outline text="New verbs" created="Tue, 16 Nov 2021 20:50:12 GMT" type="outline">
+					<outline text="op.getCursorJstruct ()" created="Tue, 16 Nov 2021 20:50:16 GMT"/>
+					</outline>
 				<outline text="This is real important" created="Tue, 16 Nov 2021 13:12:05 GMT" type="outline">
 					<outline text="I know you all didn't pay any money for Drummer, and I know that changes the psychology of how you view the product. And that's cool, I still don't want to try to make a business of this, maybe at some point, but not now. " created="Tue, 16 Nov 2021 13:12:13 GMT"/>
 					<outline text="But -- it is really imporant that at least a few people try each change that's posted here within a few hours of its posting. That's how we build a rhythm. It really does become much harder to address problems when I've moved on from that area of the product. If you own a house, it's like this -- you have the roofing guys there working on stuff, and you remember there's a leak under the upstairs bathroom. But you don't think of it until a week after they've left. It's going to cost a lot more if you have to have the come out again. The time to speak up is when that part of the product is being worked on." created="Tue, 16 Nov 2021 13:13:02 GMT"/>
