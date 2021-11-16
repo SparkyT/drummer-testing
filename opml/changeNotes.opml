@@ -14,12 +14,22 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 17:41:20 GMT</dateModified>
-		<expansionState>1,2,3,10,14,19,23,36,37,46,54,55,64,73,74</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 16 Nov 2021 13:25:23 GMT</dateModified>
+		<expansionState>1,2,3,25,33,34,43,52,53</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 16" created="Tue, 16 Nov 2021 13:12:04 GMT" type="calendarDay" name="16">
+				<outline text="This is real important" created="Tue, 16 Nov 2021 13:12:05 GMT" type="outline">
+					<outline text="I know you all didn't pay any money for Drummer, and I know that changes the psychology of how you view the product. And that's cool, I still don't want to try to make a business of this, maybe at some point, but not now. " created="Tue, 16 Nov 2021 13:12:13 GMT"/>
+					<outline text="But -- it is really imporant that at least a few people try each change that's posted here within a few hours of its posting. That's how we build a rhythm. It really does become much harder to address problems when I've moved on from that area of the product. If you own a house, it's like this -- you have the roofing guys there working on stuff, and you remember there's a leak under the upstairs bathroom. But you don't think of it until a week after they've left. It's going to cost a lot more if you have to have the come out again. The time to speak up is when that part of the product is being worked on." created="Tue, 16 Nov 2021 13:13:02 GMT"/>
+					<outline text="It's especially important if you report a problem and there's a fix for that problem that you verify that the problem was fixed (or not). That has actually happened here in the last few days. " created="Tue, 16 Nov 2021 13:14:44 GMT"/>
+					<outline text="The thing I want you to know is that I can't work on this product in any meaningful way without interaction coming back from users. That's not &quot;I won't&quot; -- it's &quot;can't.&quot; I will at some point give up and do other things. As I've mentioned before this has been happening regularly with all the products I've created in the last few years. It sucks. I want to work, and share what I create, but it only works if people participate." created="Tue, 16 Nov 2021 13:15:27 GMT"/>
+					<outline text="Now I understand you all have lives and jobs, your own realities, and so do I. So I want you to understand how important your participation is. " created="Tue, 16 Nov 2021 13:16:10 GMT"/>
+					<outline text="BTW, the thing I'm waiting for feedback on is the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/11/15/173711.html?title=minorTuneupForBookmarklet&quot;&gt;tuneup in the bookmarklet&lt;/a&gt;. Does it work for you? I wasn't getting good reports on the problem, they were vague and not reproducible. So I've been trying out things that make it more conservative. Seems a shame to slow a feature down when it might not have anything to do with the problem people are experiencing. But how could I know? The communication has been really inadequate. " created="Tue, 16 Nov 2021 13:22:45 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 15" created="Mon, 15 Nov 2021 15:38:30 GMT" type="calendarDay" name="15">
 				<outline text="Minor tuneup for bookmarklet" created="Mon, 15 Nov 2021 17:37:11 GMT" type="outline">
 					<outline text="There have been some additional reports of problems with the &lt;a href=&quot;http://docserver.scripting.com/drummer/general.opml#1634950078000&quot;&gt;Bookmarklet&lt;/a&gt;. " created="Mon, 15 Nov 2021 17:37:19 GMT"/>
