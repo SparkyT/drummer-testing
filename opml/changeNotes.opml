@@ -14,13 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 16:03:33 GMT</dateModified>
-		<expansionState>1,2,3,23,31,32,41,50,51</expansionState>
+		<dateModified>Wed, 17 Nov 2021 18:50:29 GMT</dateModified>
+		<expansionState>1,2,21,29,30,39,48,49</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 17" created="Wed, 17 Nov 2021 15:22:41 GMT" type="calendarDay" name="17">
+				<outline text="Markdown nodes" created="Wed, 17 Nov 2021 18:46:53 GMT" type="outline">
+					<outline text="I was experimenting a few weeks ago with Markdown nodes, but didn't get anything I liked or wanted anyone to use. " created="Wed, 17 Nov 2021 18:46:58 GMT"/>
+					<outline text="Some people have noticed, which is fine. If you like, start an RFC thread on it, but right now I don't promise the whole thing won't completely change or even go away, so it wouldn't be wise to use it expecting what you do will continue to work. 😀" created="Wed, 17 Nov 2021 18:47:18 GMT"/>
+					<outline text="One of the reasons btw I don't pursue these things is because there's no interaction. I can't design something like this without real users in the loop. If you want new features like this you have to be ready to participate. " created="Wed, 17 Nov 2021 18:48:26 GMT"/>
+					</outline>
 				<outline text="Project Glorp" created="Wed, 17 Nov 2021 15:22:42 GMT" type="outline">
 					<outline text="The next Drummer-related project is called Glorp." created="Wed, 17 Nov 2021 15:22:47 GMT"/>
 					<outline text="The &lt;a href=&quot;http://scripting.com/2021/11/17/151247.html?title=projectGlorp&quot;&gt;blog post&lt;/a&gt;. " created="Wed, 17 Nov 2021 15:23:08 GMT"/>
