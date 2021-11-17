@@ -14,8 +14,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 15:23:24 GMT</dateModified>
-		<expansionState>1,2,3,22,30,31,40,49,50</expansionState>
+		<dateModified>Wed, 17 Nov 2021 16:03:33 GMT</dateModified>
+		<expansionState>1,2,3,23,31,32,41,50,51</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
@@ -24,6 +24,7 @@
 				<outline text="Project Glorp" created="Wed, 17 Nov 2021 15:22:42 GMT" type="outline">
 					<outline text="The next Drummer-related project is called Glorp." created="Wed, 17 Nov 2021 15:22:47 GMT"/>
 					<outline text="The &lt;a href=&quot;http://scripting.com/2021/11/17/151247.html?title=projectGlorp&quot;&gt;blog post&lt;/a&gt;. " created="Wed, 17 Nov 2021 15:23:08 GMT"/>
+					<outline text="A &lt;a href=&quot;http://scripting.com/2021/11/17/projectGlorp.m4a&quot;&gt;podcast&lt;/a&gt; about  Project Glorp." created="Wed, 17 Nov 2021 16:02:47 GMT" type="outline" enclosure="http://scripting.com/2021/11/17/projectGlorp.m4a" enclosureType="audio/mpeg" enclosureLength="30320086"/>
 					</outline>
 				</outline>
 			<outline text="November 16" created="Tue, 16 Nov 2021 13:12:04 GMT" type="calendarDay" name="16">
