@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 16 Nov 2021 22:02:22 GMT</dateModified>
+		<dateModified>Wed, 17 Nov 2021 02:00:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 16" type="calendarDay" name="16" >
+				<outline text="If I had a billion dollars, I'd buy a TLD and sell domains for 10 cents each, to see what would happen." type="tweet" created="Wed, 17 Nov 2021 02:00:32 GMT" tweetId="1460789922282061833" urltweet="https://twitter.com/davewiner/status/1460789922282061833" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="In 2006 I ran into John Dvorak at the Apple store in downtown San Francisco. We got talking about how he was a troll, and he told me to turn on my video camera and he explained how trolling works. 
 
 &lt;a href=&quot;https://www.youtube.com/watch?v=NMQv0j29WHA&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 16 Nov 2021 22:01:23 GMT" tweetId="1460729739778404357" urltweet="https://twitter.com/davewiner/status/1460729739778404357" inReplyToId="" tweetUserName="davewiner" />
