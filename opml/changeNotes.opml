@@ -14,22 +14,75 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 18:50:29 GMT</dateModified>
-		<expansionState>1,2,21,29,30,39,48,49</expansionState>
+		<dateModified>Wed, 17 Nov 2021 22:15:34 GMT</dateModified>
+		<expansionState>1,2,3,24,32,33,42,51,52</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 17" created="Wed, 17 Nov 2021 15:22:41 GMT" type="calendarDay" name="17">
+				<outline text="An example of a Markdown node and an RFC" created="Wed, 17 Nov 2021 22:13:24 GMT" type="outline">
+					<outline text="The example" created="Wed, 17 Nov 2021 22:09:35 GMT" type="markdown">
+						<outline text="Headings" created="Wed, 17 Nov 2021 22:09:54 GMT">
+							<outline text="# First-level heading"/>
+							<outline text="## Second-level heading"/>
+							<outline text="### Third-level heading"/>
+							<outline text="#### Fourth-level heading"/>
+							</outline>
+						<outline text="Block quote" created="Wed, 17 Nov 2021 22:09:57 GMT">
+							<outline text="&gt; Oh the buzzing of the bees"/>
+							<outline text="&gt; And the sycamore trees"/>
+							<outline text="&gt; A soda water fountain"/>
+							</outline>
+						<outline text="Unordered list">
+							<outline text="* Finnerty"/>
+							<outline text="* Umpire"/>
+							<outline text="* Hoosegow"/>
+							</outline>
+						<outline text="Ordered list">
+							<outline text="1. aukland"/>
+							<outline text="2. persephone"/>
+							<outline text="3. raiders"/>
+							</outline>
+						<outline text="Code block">
+							<outline text=".ulCodeSubs {">
+								<outline text="font-family: &quot;Lucida Console&quot;, Monaco, monospace;"/>
+								<outline text="font-size: 14px !important;"/>
+								<outline text="}"/>
+								</outline>
+							</outline>
+						<outline text="Inline code">
+							<outline text="`console.log (&quot;hooray for hollyood&quot;)`    "/>
+							</outline>
+						<outline text="Image">
+							<outline text="![a tesla](http://scripting.com/images/2021/02/23/tesla.png &quot;Tesla&quot;) "/>
+							</outline>
+						<outline text="Nested lists">
+							<outline text="+ one"/>
+							<outline text="+ two">
+								<outline text="- nested one"/>
+								<outline text="- nested two"/>
+								</outline>
+							<outline text="+ three"/>
+							</outline>
+						<outline text="Paragraphs">
+							<outline text="paragraph 1"/>
+							<outline text="paragraph 2"/>
+							</outline>
+						</outline>
+					<outline text="The RFC" created="Wed, 17 Nov 2021 22:15:26 GMT">
+						<outline text="If you want to discuss, &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14&quot;&gt;here's an RFC&lt;/a&gt;. I would love to have a collegial discussion about this stuff with people who know both Markdown and how to use Drummer. We should be having these discussions. Come on -- don't be shy! :-)" created="Wed, 17 Nov 2021 22:13:55 GMT"/>
+						</outline>
+					</outline>
 				<outline text="Markdown nodes" created="Wed, 17 Nov 2021 18:46:53 GMT" type="outline">
 					<outline text="I was experimenting a few weeks ago with Markdown nodes, but didn't get anything I liked or wanted anyone to use. " created="Wed, 17 Nov 2021 18:46:58 GMT"/>
 					<outline text="Some people have noticed, which is fine. If you like, start an RFC thread on it, but right now I don't promise the whole thing won't completely change or even go away, so it wouldn't be wise to use it expecting what you do will continue to work. 😀" created="Wed, 17 Nov 2021 18:47:18 GMT"/>
-					<outline text="One of the reasons btw I don't pursue these things is because there's no interaction. I can't design something like this without real users in the loop. If you want new features like this you have to be ready to participate. " created="Wed, 17 Nov 2021 18:48:26 GMT"/>
+					<outline text="One of the reasons btw I don't pursue these things is because there's &lt;s&gt;no&lt;/s&gt; not enough interaction. I can't design something like this without real users in the loop. If you want new features like this you have to be ready to participate. " created="Wed, 17 Nov 2021 18:48:26 GMT"/>
 					</outline>
 				<outline text="Project Glorp" created="Wed, 17 Nov 2021 15:22:42 GMT" type="outline">
 					<outline text="The next Drummer-related project is called Glorp." created="Wed, 17 Nov 2021 15:22:47 GMT"/>
 					<outline text="The &lt;a href=&quot;http://scripting.com/2021/11/17/151247.html?title=projectGlorp&quot;&gt;blog post&lt;/a&gt;. " created="Wed, 17 Nov 2021 15:23:08 GMT"/>
-					<outline text="A &lt;a href=&quot;http://scripting.com/2021/11/17/projectGlorp.m4a&quot;&gt;podcast&lt;/a&gt; about  Project Glorp." created="Wed, 17 Nov 2021 16:02:47 GMT" type="outline" enclosure="http://scripting.com/2021/11/17/projectGlorp.m4a" enclosureType="audio/mpeg" enclosureLength="30320086"/>
+					<outline text="A &lt;a href=&quot;http://scripting.com/2021/11/17/projectGlorp.m4a&quot;&gt;podcast&lt;/a&gt; about  El Glorp-o." created="Wed, 17 Nov 2021 16:02:47 GMT" type="outline" enclosure="http://scripting.com/2021/11/17/projectGlorp.m4a" enclosureType="audio/mpeg" enclosureLength="30320086"/>
 					</outline>
 				</outline>
 			<outline text="November 16" created="Tue, 16 Nov 2021 13:12:04 GMT" type="calendarDay" name="16">
