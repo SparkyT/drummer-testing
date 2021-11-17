@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 14:37:26 GMT</dateModified>
+		<dateModified>Wed, 17 Nov 2021 18:14:40 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 17" type="calendarDay" name="17" >
+				<outline text="I accidentally tuned into this station of very old pop songs that are gorgeously memorable.  &lt;a href=&quot;https://www.wnyc.org/shows/new-standards&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 18:14:38 GMT" tweetId="1461035063190212611" urltweet="https://twitter.com/davewiner/status/1461035063190212611" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="If this ridiculous insurrectionist gets four years what does Trump get? &lt;a href=&quot;https://twitter.com/Reuters/status/1460950917713379333&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 18:08:08 GMT" tweetId="1461033428611121159" urltweet="https://twitter.com/davewiner/status/1461033428611121159" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Miramax Sues Quentin Tarantino Over Planned ‘Pulp Fiction’ NFTs. &lt;a href=&quot;https://www.nytimes.com/2021/11/17/business/miramax-tarantino-nft-pulp-fiction.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohlSVUaBCbfQMMmqBCdnr_KwaY1g3buaTScUz9E0-UTBM2G9VuIfbdnf5493j-HRdhHdr8zQfg4hsluA3tQcSj66J2VhMZCZCwvtYO4Wm5x08zBUOtnqG6vNGKwdaIinLDj-hvcPjL1XaWM1iYqJQ0z9MRuZkjqjSJTvt&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 17:58:49 GMT" tweetId="1461031084209152014" urltweet="https://twitter.com/davewiner/status/1461031084209152014" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Jorg Kantel, one  of the stars of early blogging, is doing an experiment with Drummer.  https://t.co/wPUf8iWLNW" type="tweet" created="Wed, 17 Nov 2021 14:36:58 GMT" tweetId="1460980286573920256" urltweet="https://twitter.com/davewiner/status/1460980286573920256" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Congress may require women to register for the Selective Service. &lt;a href=&quot;https://www.axios.com/mandatory-draft-registration-women-74f20132-e733-4c90-9c21-07dca512fba0.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 11:53:01 GMT" tweetId="1460939028451237890" urltweet="https://twitter.com/davewiner/status/1460939028451237890" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Three choices new Logseq users have to make. &lt;a href=&quot;https://discuss.logseq.com/t/three-choices-new-users-need-to-make/3411&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 09:05:17 GMT" tweetId="1460896813922275331" urltweet="https://twitter.com/davewiner/status/1460896813922275331" inReplyToId="" tweetUserName="davewiner" />
