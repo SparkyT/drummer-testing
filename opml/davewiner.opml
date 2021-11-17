@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 11:53:15 GMT</dateModified>
+		<dateModified>Wed, 17 Nov 2021 14:37:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 17" type="calendarDay" name="17" >
+				<outline text="Jorg Kantel, one  of the stars of early blogging, is doing an experiment with Drummer.  https://t.co/wPUf8iWLNW" type="tweet" created="Wed, 17 Nov 2021 14:36:58 GMT" tweetId="1460980286573920256" urltweet="https://twitter.com/davewiner/status/1460980286573920256" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Congress may require women to register for the Selective Service. &lt;a href=&quot;https://www.axios.com/mandatory-draft-registration-women-74f20132-e733-4c90-9c21-07dca512fba0.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 11:53:01 GMT" tweetId="1460939028451237890" urltweet="https://twitter.com/davewiner/status/1460939028451237890" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Three choices new Logseq users have to make. &lt;a href=&quot;https://discuss.logseq.com/t/three-choices-new-users-need-to-make/3411&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 09:05:17 GMT" tweetId="1460896813922275331" urltweet="https://twitter.com/davewiner/status/1460896813922275331" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Best Bagels In NYC. &lt;a href=&quot;https://www.theinfatuation.com/new-york/guides/best-bagels-nyc?utm_source=fbig&amp;utm_medium=social&amp;utm_campaign=novtraffic&amp;utm_content=nycbagels_broad&amp;fbclid=IwAR3AqdhYDN4-MtdV6CVfXxegnBextbEADSTZIKZfkVe_kKhy2-9j0DOR2kA&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 08:58:58 GMT" tweetId="1460895227196157954" urltweet="https://twitter.com/davewiner/status/1460895227196157954" inReplyToId="" tweetUserName="davewiner" />
