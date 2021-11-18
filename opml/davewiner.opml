@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 18 Nov 2021 00:54:06 GMT</dateModified>
+		<dateModified>Thu, 18 Nov 2021 08:10:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 18" type="calendarDay" name="18" >
+				<outline text="I told you so. There are no Nets fans in NYC to give a shit about the superteam. And anyone who depended on Kylie wasn’t paying attention. &lt;a href=&quot;https://nypost.com/2021/11/17/stephen-a-smith-to-kevin-durant-kyrie-irving-betrayed-you/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 18 Nov 2021 08:09:54 GMT" tweetId="1461245265084661760" urltweet="https://twitter.com/davewiner/status/1461245265084661760" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 17" type="calendarDay" name="17" >
 				<outline text="Tesla Model 3: The Complete Guide. &lt;a href=&quot;https://www.caranddriver.com/reviews/a31401312/tesla-model-3-complete-guide/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 18 Nov 2021 00:54:03 GMT" tweetId="1461135580633477126" urltweet="https://twitter.com/davewiner/status/1461135580633477126" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="we have a president who likes muscle cars. &lt;a href=&quot;https://twitter.com/KellyO/status/1461077551007289358&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 17 Nov 2021 21:35:07 GMT" tweetId="1461085517441908736" urltweet="https://twitter.com/davewiner/status/1461085517441908736" inReplyToId="" tweetUserName="davewiner" />
