@@ -14,13 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 17:38:37 GMT</dateModified>
-		<expansionState>1,2,3,5,25,33,34,43,52,53</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 19 Nov 2021 22:08:40 GMT</dateModified>
+		<expansionState>1,2,3,6,8,28,36,37,46,55,56</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 19" created="Fri, 19 Nov 2021 15:50:16 GMT" type="calendarDay" name="19">
+				<outline text="rss.readFeed" created="Fri, 19 Nov 2021 21:58:03 GMT" type="outline">
+					<outline text="New &lt;a href=&quot;http://docserver.scripting.com/?verb=rss.readFeed&quot;&gt;Drummer verb&lt;/a&gt;, reads an RSS feed, returns a JavaScript object. " created="Fri, 19 Nov 2021 21:58:07 GMT"/>
+					<outline text="Be sure to read the &lt;a href=&quot;http://scripting.com/2021/11/19.html#a215857&quot;&gt;blog post&lt;/a&gt; on Scripting News. " created="Fri, 19 Nov 2021 22:08:26 GMT"/>
+					</outline>
 				<outline text="Radio3.io" created="Fri, 19 Nov 2021 17:37:58 GMT" type="outline">
 					<outline text="I missed the renewal notices for the domain, so it's out now, but I expect it'll be back shortly. Sorry! :-(" created="Fri, 19 Nov 2021 17:38:01 GMT"/>
 					</outline>
