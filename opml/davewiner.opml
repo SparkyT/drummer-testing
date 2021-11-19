@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 18:39:47 GMT</dateModified>
+		<dateModified>Fri, 19 Nov 2021 19:36:50 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
@@ -18,7 +18,21 @@
 					</outline>
 				<outline text="I think  I may be entering a phase where every good idea I have begins with this: &quot;Fuck you but..&quot;
 
-attn @dsearls" type="tweet" created="Fri, 19 Nov 2021 17:31:26 GMT" tweetId="1461748968560467970" urltweet="https://twitter.com/davewiner/status/1461748968560467970" inReplyToId="" tweetUserName="davewiner" />
+attn @dsearls" type="tweet" created="Fri, 19 Nov 2021 17:31:26 GMT" tweetId="1461748968560467970" urltweet="https://twitter.com/davewiner/status/1461748968560467970" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="The funny thing about this, and why I cc'd Doc who is from New Jersey, that where we come from saying &quot;Fuck you&quot; is not necessarily not a term of endearment.
+
+That's why yesterday my experience at Tesla of Mount Kisco, NY, a suburb of NYC was so disconcerting." type="tweet" created="Fri, 19 Nov 2021 19:36:18 GMT" tweetId="1461780390633517060" urltweet="https://twitter.com/davewiner/status/1461780390633517060" inReplyToId="1461748968560467970" tweetUserName="davewiner" >
+						<outline text="At the diner we went to before picking up the car, we were clearly under the Fuck You Dear philosophy of NY.
+
+But Tesla? They're the super sensitive types who say &quot;Thank you for your patience.&quot; To which I could barely restrain myself from saying fuck of you asshole." type="tweet" created="Fri, 19 Nov 2021 19:36:18 GMT" tweetId="1461780391669518338" urltweet="https://twitter.com/davewiner/status/1461780391669518338" inReplyToId="1461780390633517060" tweetUserName="davewiner" >
+							<outline text="Translated for non-New Yorkers, shit I have to deal with this, where does this asshole think he is, Berkeley? 
+
+I mean I know it's not the end of the world that you are delayed and things are boiling over. Stop worrying about my feelings and get me my fucking car." type="tweet" created="Fri, 19 Nov 2021 19:36:18 GMT" tweetId="1461780392634167304" urltweet="https://twitter.com/davewiner/status/1461780392634167304" inReplyToId="1461780391669518338" tweetUserName="davewiner" >
+								<outline text="Thanks for listening." type="tweet" created="Fri, 19 Nov 2021 19:36:19 GMT" tweetId="1461780393670193157" urltweet="https://twitter.com/davewiner/status/1461780393670193157" inReplyToId="1461780392634167304" tweetUserName="davewiner" />
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="1/7 Something I've been hearing from employees of big tech companies for my entire career, going back to the late 70s --&amp;gt; &quot;Who the fuck are you?&quot;" type="tweet" created="Fri, 19 Nov 2021 16:32:34 GMT" tweetId="1461734152491970570" urltweet="https://twitter.com/davewiner/status/1461734152491970570" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/7 That's what they say and do. So many examples. And almost all of them are gone. They were significant, maybe, for a few weeks. Then poof, some other asshole at some other tech giant comes along, and gets his or her (mostly his) few minutes to be a super asshole." type="tweet" created="Fri, 19 Nov 2021 16:32:35 GMT" tweetId="1461734156556193792" urltweet="https://twitter.com/davewiner/status/1461734156556193792" inReplyToId="1461734152491970570" tweetUserName="davewiner" >
 						<outline text="3/7 How much more would we get done if we lived up to the hype about supporting innovation. You can't do a lot of that as some random putz inside of a bigco." type="tweet" created="Fri, 19 Nov 2021 16:32:36 GMT" tweetId="1461734160943435779" urltweet="https://twitter.com/davewiner/status/1461734160943435779" inReplyToId="1461734156556193792" tweetUserName="davewiner" >
