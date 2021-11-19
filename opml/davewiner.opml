@@ -6,11 +6,24 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 16:14:37 GMT</dateModified>
+		<dateModified>Fri, 19 Nov 2021 16:33:39 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 19" type="calendarDay" name="19" >
+				<outline text="1/7 Something I've been hearing from employees of big tech companies for my entire career, going back to the late 70s --&amp;gt; &quot;Who the fuck are you?&quot;" type="tweet" created="Fri, 19 Nov 2021 16:32:34 GMT" tweetId="1461734152491970570" urltweet="https://twitter.com/davewiner/status/1461734152491970570" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/7 That's what they say and do. So many examples. And almost all of them are gone. They were significant, maybe, for a few weeks. Then poof, some other asshole at some other tech giant comes along, and gets his or her (mostly his) few minutes to be a super asshole." type="tweet" created="Fri, 19 Nov 2021 16:32:35 GMT" tweetId="1461734156556193792" urltweet="https://twitter.com/davewiner/status/1461734156556193792" inReplyToId="1461734152491970570" tweetUserName="davewiner" >
+						<outline text="3/7 How much more would we get done if we lived up to the hype about supporting innovation. You can't do a lot of that as some random putz inside of a bigco." type="tweet" created="Fri, 19 Nov 2021 16:32:36 GMT" tweetId="1461734160943435779" urltweet="https://twitter.com/davewiner/status/1461734160943435779" inReplyToId="1461734156556193792" tweetUserName="davewiner" >
+							<outline text="4/7 You pretty much have to do what I've done, which is stay out of those monstrous structures, that is, if you want to actually do anything." type="tweet" created="Fri, 19 Nov 2021 16:32:38 GMT" tweetId="1461734169139163136" urltweet="https://twitter.com/davewiner/status/1461734169139163136" inReplyToId="1461734160943435779" tweetUserName="davewiner" >
+								<outline text="5/7 And then of course the jerks come along and kick over your sand castle." type="tweet" created="Fri, 19 Nov 2021 16:32:39 GMT" tweetId="1461734173329309702" urltweet="https://twitter.com/davewiner/status/1461734173329309702" inReplyToId="1461734169139163136" tweetUserName="davewiner" >
+									<outline text="6/7 And then they're gone in a few weeks." type="tweet" created="Fri, 19 Nov 2021 16:32:40 GMT" tweetId="1461734177544486913" urltweet="https://twitter.com/davewiner/status/1461734177544486913" inReplyToId="1461734173329309702" tweetUserName="davewiner" >
+										<outline text="7/7 So far I've survived them all. Knock wood, praise murph, etc." type="tweet" created="Fri, 19 Nov 2021 16:32:42 GMT" tweetId="1461734185857650694" urltweet="https://twitter.com/davewiner/status/1461734185857650694" inReplyToId="1461734177544486913" tweetUserName="davewiner" />
+										</outline>
+									</outline>
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="When I type in &quot;RSS 2.0 specification&quot; the actual spec isn't even in the first page of results. 
 
 That can't be an accident. 
