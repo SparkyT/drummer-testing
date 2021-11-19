@@ -6,11 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 14:54:41 GMT</dateModified>
+		<dateModified>Fri, 19 Nov 2021 16:14:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 19" type="calendarDay" name="19" >
+				<outline text="When I type in &quot;RSS 2.0 specification&quot; the actual spec isn't even in the first page of results. 
+
+That can't be an accident. 
+
+&lt;a href=&quot;https://www.google.com/search?q=rss+2.0+specification&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 19 Nov 2021 16:12:52 GMT" tweetId="1461729194480709640" urltweet="https://twitter.com/davewiner/status/1461729194480709640" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="BTW, this is not open to discussion. 
+
+&lt;a href=&quot;https://cyber.harvard.edu/rss/rss.html&quot;&gt;[link]&lt;/a&gt;
+
+That's the actual RSS 2.0 spec." type="tweet" created="Fri, 19 Nov 2021 16:14:17 GMT" tweetId="1461729552858857480" urltweet="https://twitter.com/davewiner/status/1461729552858857480" inReplyToId="1461729194480709640" tweetUserName="davewiner" />
+					</outline>
 				<outline text="2007: The unedited voice of a person. https://t.co/0WytgzzpnI" type="tweet" created="Fri, 19 Nov 2021 14:52:22 GMT" tweetId="1461708935132495872" urltweet="https://twitter.com/davewiner/status/1461708935132495872" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I am now a Tesla owner/driver." type="tweet" created="Fri, 19 Nov 2021 13:51:38 GMT" tweetId="1461693651403345921" urltweet="https://twitter.com/davewiner/status/1461693651403345921" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
