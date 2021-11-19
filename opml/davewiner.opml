@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 17:41:43 GMT</dateModified>
+		<dateModified>Fri, 19 Nov 2021 18:39:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 19" type="calendarDay" name="19" >
+				<outline text="Kyle Rittenhouse found not guilty on all charges. &lt;a href=&quot;https://www.cnn.com/us/live-news/kyle-rittenhouse-trial-verdict-watch-11-19-21/h_26e243992b089bdd5f822c8347a8c6a4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 19 Nov 2021 18:39:12 GMT" tweetId="1461766022810193928" urltweet="https://twitter.com/davewiner/status/1461766022810193928" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="New verb coming soon to Drummer scripting. &lt;a href=&quot;https://twitter.com/davewiner/status/1461764602711228420/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 19 Nov 2021 18:33:34 GMT" tweetId="1461764602711228420" urltweet="https://twitter.com/davewiner/status/1461764602711228420" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Meanwhile the Cleveland Indians have changed their name to the Cleveland Guardians." type="tweet" created="Fri, 19 Nov 2021 17:39:44 GMT" tweetId="1461751056854142981" urltweet="https://twitter.com/davewiner/status/1461751056854142981" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="I hope the Washington Football Team has the good sense to change their name to the &quot;Washington Americans.&quot;" type="tweet" created="Fri, 19 Nov 2021 17:40:50 GMT" tweetId="1461751333896208385" urltweet="https://twitter.com/davewiner/status/1461751333896208385" inReplyToId="1461751056854142981" tweetUserName="davewiner" />
 					</outline>
