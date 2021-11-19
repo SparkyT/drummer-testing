@@ -14,12 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 22:15:34 GMT</dateModified>
-		<expansionState>1,2,3,24,32,33,42,51,52</expansionState>
+		<dateModified>Fri, 19 Nov 2021 15:51:59 GMT</dateModified>
+		<expansionState>1,2,3,23,31,32,41,50,51</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 19" created="Fri, 19 Nov 2021 15:50:16 GMT" type="calendarDay" name="19">
+				<outline text="Great discussion on Markdown" created="Fri, 19 Nov 2021 15:50:17 GMT" type="outline">
+					<outline text="This is great stuff, what I was hoping for -- that you guys would push the edges, find the problems and even suggest workarounds. " created="Fri, 19 Nov 2021 15:50:55 GMT"/>
+					<outline text="My latest &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-974157255&quot;&gt;comment&lt;/a&gt;." created="Fri, 19 Nov 2021 15:50:30 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 17" created="Wed, 17 Nov 2021 15:22:41 GMT" type="calendarDay" name="17">
 				<outline text="An example of a Markdown node and an RFC" created="Wed, 17 Nov 2021 22:13:24 GMT" type="outline">
 					<outline text="The example" created="Wed, 17 Nov 2021 22:09:35 GMT" type="markdown">
