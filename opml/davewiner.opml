@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 01:37:51 GMT</dateModified>
+		<dateModified>Fri, 19 Nov 2021 13:52:28 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 19" type="calendarDay" name="19" >
+				<outline text="I am now a Tesla owner/driver." type="tweet" created="Fri, 19 Nov 2021 13:51:38 GMT" tweetId="1461693651403345921" urltweet="https://twitter.com/davewiner/status/1461693651403345921" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 18" type="calendarDay" name="18" >
 				<outline text="I’m dreaming of a simple XML viewer built into the browser, like this.
 
