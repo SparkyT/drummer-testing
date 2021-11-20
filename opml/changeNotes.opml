@@ -14,13 +14,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 20 Nov 2021 13:42:50 GMT</dateModified>
-		<expansionState>1,2,3,24,32,33,42,51,52</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sat, 20 Nov 2021 15:06:47 GMT</dateModified>
+		<expansionState>1,2,3,5,30,38,39,48,57,58</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 20" created="Sat, 20 Nov 2021 13:41:27 GMT" type="calendarDay" name="20">
+				<outline text="Comments on markdown posts?" created="Sat, 20 Nov 2021 15:01:55 GMT" type="outline">
+					<outline text="I made a big change to the way markdown posts are rendered. " created="Sat, 20 Nov 2021 15:02:08 GMT"/>
+					<outline text="If you have an experimental post, now would be a great time to try re-rendering it and.." created="Sat, 20 Nov 2021 15:02:20 GMT">
+						<outline text="1. Evaluate -- how does it look? " created="Sat, 20 Nov 2021 15:02:36 GMT"/>
+						<outline text="2. Does it make more sense this way, from a markdown point of view?" created="Sat, 20 Nov 2021 15:02:44 GMT"/>
+						<outline text="3. Should we leave it this way -- ie indentation is ignored, you can use it any way you like and 2. we add one newline for every headline, not two." created="Sat, 20 Nov 2021 15:02:55 GMT"/>
+						<outline text="4. Please provide a link to the rendered page. I'd like to see how you're using it.
+" created="Sat, 20 Nov 2021 15:06:35 GMT"/>
+						</outline>
+					<outline text="Comments &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-974662566&quot;&gt;here&lt;/a&gt;." created="Sat, 20 Nov 2021 15:03:36 GMT"/>
+					</outline>
 				<outline text="Expandable RSS nodes" created="Sat, 20 Nov 2021 13:41:28 GMT" type="outline">
 					<outline text="If you expand a node of type &quot;rss&quot; it fills in the items from the feed, whose address is in the &lt;i&gt;xmlUrl&lt;/i&gt; attribute. " created="Sat, 20 Nov 2021 13:41:46 GMT"/>
 					<outline text="Here's a &lt;a href=&quot;https://www.youtube.com/watch?v=MCy-nmdGBz8&quot;&gt;video demo&lt;/a&gt; that illustrates. " created="Sat, 20 Nov 2021 13:42:18 GMT"/>
