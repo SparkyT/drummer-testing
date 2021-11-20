@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 22:09:10 GMT</dateModified>
+		<dateModified>Sat, 20 Nov 2021 00:34:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 19" type="calendarDay" name="19" >
+				<outline text="When a company representative says “thanks for your patience” do you" type="tweet" created="Sat, 20 Nov 2021 00:33:34 GMT" tweetId="1461855199488839681" urltweet="https://twitter.com/davewiner/status/1461855199488839681" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="https://t.co/AoloSR6Mgc https://t.co/yYOY5UZEhD" type="tweet" created="Fri, 19 Nov 2021 22:06:57 GMT" tweetId="1461818302922215433" urltweet="https://twitter.com/davewiner/status/1461818302922215433" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Kyle Rittenhouse found not guilty on all charges. &lt;a href=&quot;https://www.cnn.com/us/live-news/kyle-rittenhouse-trial-verdict-watch-11-19-21/h_26e243992b089bdd5f822c8347a8c6a4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 19 Nov 2021 18:39:12 GMT" tweetId="1461766022810193928" urltweet="https://twitter.com/davewiner/status/1461766022810193928" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="New verb coming soon to Drummer scripting. &lt;a href=&quot;https://twitter.com/davewiner/status/1461764602711228420/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 19 Nov 2021 18:33:34 GMT" tweetId="1461764602711228420" urltweet="https://twitter.com/davewiner/status/1461764602711228420" inReplyToId="" tweetUserName="davewiner" />
