@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 20 Nov 2021 09:36:44 GMT</dateModified>
+		<dateModified>Sat, 20 Nov 2021 12:04:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 20" type="calendarDay" name="20" >
+				<outline text="The Amazon lobbyists who kill U.S. consumer privacy protections. &lt;a href=&quot;https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 20 Nov 2021 12:04:49 GMT" tweetId="1462029159882965006" urltweet="https://twitter.com/davewiner/status/1462029159882965006" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Dutch police fire warning shots as Covid riots hit Rotterdam. &lt;a href=&quot;https://news.yahoo.com/dutch-police-fire-warning-shots-005917598.html?fr=sycsrp_catchall&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 20 Nov 2021 09:36:42 GMT" tweetId="1461991883274698754" urltweet="https://twitter.com/davewiner/status/1461991883274698754" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Tesla drivers left unable to start their cars after outage. &lt;a href=&quot;https://www.bbc.com/news/technology-59357306?xtor=AL-72-[partner]-[bbc.news.twitter]-[headline]-[news]-[bizdev]-[isapi]&amp;at_campaign=64&amp;at_medium=custom7&amp;at_custom2=twitter&amp;at_custom4=77DC29E6-49BE-11EC-AC97-32FB4744363C&amp;at_custom1=[post+type]&amp;at_custom3=@BBCWorld&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 20 Nov 2021 08:41:54 GMT" tweetId="1461978094970060804" urltweet="https://twitter.com/davewiner/status/1461978094970060804" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="It’s true, apples podcast app became unusable. Familiar story, Google reader dominated rss readers but Google never cared about it. Big tech companies are poison to open platforms. &lt;a href=&quot;https://twitter.com/keleftheriou/status/1460856187595804676&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 20 Nov 2021 07:20:29 GMT" tweetId="1461957605803315200" urltweet="https://twitter.com/davewiner/status/1461957605803315200" inReplyToId="" tweetUserName="davewiner" />
