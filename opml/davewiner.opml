@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 18:16:51 GMT</dateModified>
+		<dateModified>Sun, 21 Nov 2021 22:41:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 21" type="calendarDay" name="21" >
+				<outline text="El Salvador to Create Bitcoin City, &lt;a href=&quot;https://www.coindesk.com/business/2021/11/21/el-salvador-to-create-bitcoin-city-use-500m-of-planned-1b-bond-offering-to-buy-more-crypto/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 22:40:18 GMT" tweetId="1462551471040475136" urltweet="https://twitter.com/davewiner/status/1462551471040475136" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Here’s a thread reader integrated into Twitter. Now all they have to do is eliminate the numbers, and links, simple styling, let me give it a title (optional) and we’re ready to rock. Think they’ll have that by say 2030? &lt;a href=&quot;https://mobile.twitter.com/davewiner/thread/1462460088946409474&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 18:16:13 GMT" tweetId="1462485015074414595" urltweet="https://twitter.com/davewiner/status/1462485015074414595" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Dozens Of Looters Ransack Walnut Creek Nordstrom Store. &lt;a href=&quot;https://sanfrancisco.cbslocal.com/2021/11/21/it-was-insane-dozens-of-looters-ransack-walnut-creek-nordstrom-store/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 18:11:56 GMT" tweetId="1462483935548657672" urltweet="https://twitter.com/davewiner/status/1462483935548657672" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Drummer, an outliner, now allows you to write blog posts in Markdown.
