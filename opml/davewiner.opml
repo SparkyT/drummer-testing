@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 12:36:29 GMT</dateModified>
+		<dateModified>Sun, 21 Nov 2021 13:21:32 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 21" type="calendarDay" name="21" >
+				<outline text="I love my new Tesla. I'm looking for excuses to drive places. I haven't felt this way about driving since I was a teenager with a new license." type="tweet" created="Sun, 21 Nov 2021 13:21:02 GMT" tweetId="1462410727361294345" urltweet="https://twitter.com/davewiner/status/1462410727361294345" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1462399332716625929/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 12:35:45 GMT" tweetId="1462399332716625929" urltweet="https://twitter.com/davewiner/status/1462399332716625929" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Too many streaming services. &lt;a href=&quot;https://arstechnica.com/gaming/2021/11/star-trek-discovery-is-tearing-the-streaming-world-apart/?utm_brand=arstechnica&amp;utm_source=twitter&amp;utm_social-type=owned&amp;utm_medium=social&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 12:27:08 GMT" tweetId="1462397163514781706" urltweet="https://twitter.com/davewiner/status/1462397163514781706" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="“Rittenhouse is no hero, as some of his defenders pretend. He behaved like a vigilante and didn’t deserve to walk free, given his recklessness. Yet the law, unfortunately, skews in favor of shooters who claim self-defense. That needs to change.” &lt;a href=&quot;https://madison.com/wsj/opinion/editorial/kyle-rittenhouse-verdict-sends-a-chilling-message-to-wisconsin-and-the-rest-of-the-country/article_7299e869-82f2-5a38-b7b2-2f078a57b0ab.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 11:46:17 GMT" tweetId="1462386883749634051" urltweet="https://twitter.com/davewiner/status/1462386883749634051" inReplyToId="" tweetUserName="davewiner" />
