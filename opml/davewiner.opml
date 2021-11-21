@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 02:19:49 GMT</dateModified>
+		<dateModified>Sun, 21 Nov 2021 11:46:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 21" type="calendarDay" name="21" >
+				<outline text="“Rittenhouse is no hero, as some of his defenders pretend. He behaved like a vigilante and didn’t deserve to walk free, given his recklessness. Yet the law, unfortunately, skews in favor of shooters who claim self-defense. That needs to change.” &lt;a href=&quot;https://madison.com/wsj/opinion/editorial/kyle-rittenhouse-verdict-sends-a-chilling-message-to-wisconsin-and-the-rest-of-the-country/article_7299e869-82f2-5a38-b7b2-2f078a57b0ab.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 11:46:17 GMT" tweetId="1462386883749634051" urltweet="https://twitter.com/davewiner/status/1462386883749634051" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 20" type="calendarDay" name="20" >
 				<outline text="Jay Last, One of the Rebels Who Founded Silicon Valley, Dies at 92. &lt;a href=&quot;https://www.nytimes.com/2021/11/20/technology/jay-last-dead.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohlSVUZAybJUNMnqBqCgvfeh741lzr6JTOJDDpPxuhTA5SF_w2FQ5tfUOYJ_mbRQs5dYvhoTeZuz-RbMgtjEgDw-MSNw9ELcn5o7N_iVW1z1cuTB_U1rjO0ZDG1I-sgmuz19wiLPzmRLa_e0XAmIg1isMElIQnsgSpUs_-DRu1l2dB-3eMiBoR6R&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 02:19:04 GMT" tweetId="1462244137932050432" urltweet="https://twitter.com/davewiner/status/1462244137932050432" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="More People Have Died of COVID This Year Than Last. &lt;a href=&quot;https://www.motherjones.com/politics/2021/11/more-people-have-died-of-covid-this-year-than-last/?scrolla=5eb6d68b7fedc32c19ef33b4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 02:10:00 GMT" tweetId="1462241858587971587" urltweet="https://twitter.com/davewiner/status/1462241858587971587" inReplyToId="" tweetUserName="davewiner" />
