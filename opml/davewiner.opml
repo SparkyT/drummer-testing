@@ -6,11 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 16:37:45 GMT</dateModified>
+		<dateModified>Sun, 21 Nov 2021 17:02:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 21" type="calendarDay" name="21" >
+				<outline text="Drummer, an outliner, now allows you to write blog posts in Markdown.
+
+The question was -- how? 
+
+This is what we came up with:
+
+* One newline per outline node.
+
+* Indentation belongs to the author, generates nothing. 
+
+I think this works and is true to the philosophy of MD." type="tweet" created="Sun, 21 Nov 2021 17:01:52 GMT" tweetId="1462466303151812608" urltweet="https://twitter.com/davewiner/status/1462466303151812608" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="1/5 There are so many interesting things about the Tesla, and I'm just getting started learning about them. It's as if I didn't get a PC until the IBM PC came out. Or maybe later." type="tweet" created="Sun, 21 Nov 2021 16:37:05 GMT" tweetId="1462460063839399948" urltweet="https://twitter.com/davewiner/status/1462460063839399948" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="2/5 Here's something I figured out the other night, driving on a mountain road with lots of turns and ups and downs, a road I'm quite familiar with -- the Tesla makes you a better driver." type="tweet" created="Sun, 21 Nov 2021 16:37:06 GMT" tweetId="1462460067874324488" urltweet="https://twitter.com/davewiner/status/1462460067874324488" inReplyToId="1462460063839399948" tweetUserName="davewiner" >
 						<outline text="3/5 This is something my Subaru does too, you only have to hold the steering wheel loosely while navigating the turns and ups and downs. The road is well-marked and the car knows what to do. The Tesla even more so." type="tweet" created="Sun, 21 Nov 2021 16:37:08 GMT" tweetId="1462460076162174980" urltweet="https://twitter.com/davewiner/status/1462460076162174980" inReplyToId="1462460067874324488" tweetUserName="davewiner" >
