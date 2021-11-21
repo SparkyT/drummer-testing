@@ -6,11 +6,19 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 13:32:33 GMT</dateModified>
+		<dateModified>Sun, 21 Nov 2021 14:31:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 21" type="calendarDay" name="21" >
+				<outline text="I am 100 percent sure this is such a stretch as to be 100 percent clickbait. &lt;a href=&quot;https://twitter.com/techreview/status/1462160295288266760&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 14:30:49 GMT" tweetId="1462428289000251395" urltweet="https://twitter.com/davewiner/status/1462428289000251395" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="We're finishing Drummer's support for Markdown when used for blogging.
+
+https://t.co/qWRazzDvxV
+
+Might be of interest to Obsidian and LogSeq devs, as well as the founder of Markdown, @gruber. 
+
+You all are totally welcome to review this." type="tweet" created="Sun, 21 Nov 2021 14:27:24 GMT" tweetId="1462427430132588549" urltweet="https://twitter.com/davewiner/status/1462427430132588549" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The first time I open Twitter in the morning there's often a picture of a beautiful woman for me to look at and just as I'm reaching for the mouse, boom -- the picture is gone." type="tweet" created="Sun, 21 Nov 2021 13:32:01 GMT" tweetId="1462413492997267459" urltweet="https://twitter.com/davewiner/status/1462413492997267459" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I love my new Tesla. I'm looking for excuses to drive places. I haven't felt this way about driving since I was a teenager with a new license." type="tweet" created="Sun, 21 Nov 2021 13:21:02 GMT" tweetId="1462410727361294345" urltweet="https://twitter.com/davewiner/status/1462410727361294345" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1462399332716625929/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 21 Nov 2021 12:35:45 GMT" tweetId="1462399332716625929" urltweet="https://twitter.com/davewiner/status/1462399332716625929" inReplyToId="" tweetUserName="davewiner" />
