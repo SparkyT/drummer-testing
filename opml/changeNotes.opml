@@ -14,12 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 20 Nov 2021 16:40:29 GMT</dateModified>
-		<expansionState>1,2,24,32,33,42,51,52</expansionState>
+		<dateModified>Sun, 21 Nov 2021 14:17:14 GMT</dateModified>
+		<expansionState>1,2,3,7,29,37,38,47,56,57</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 21" created="Sun, 21 Nov 2021 14:14:49 GMT" type="calendarDay" name="21">
+				<outline text="Markdown work" created="Sun, 21 Nov 2021 14:14:50 GMT" type="outline">
+					<outline text="Going to do some more cleanup work on Markdown in Old School. " created="Sun, 21 Nov 2021 14:14:53 GMT"/>
+					<outline text="In the meantime, &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-974824472&quot;&gt;the thread continues&lt;/a&gt;. If you're planning on using Markdown to write blog posts in Drummer, you might want to tune in, because things are being locked down today. " created="Sun, 21 Nov 2021 14:15:06 GMT"/>
+					<outline text="I sent a private note to Gruber letting him know this discussion is going on. As far as I know we are setting prior art for outliners being used to generate Markdown for publishing. This is different from the LogSeq/Obsidian model -- which uses Markdown as a file format for outlines. If there is prior art, I would love to know about it now, asap. " created="Sun, 21 Nov 2021 14:15:51 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 20" created="Sat, 20 Nov 2021 13:41:27 GMT" type="calendarDay" name="20">
 				<outline text="Oooops -- mea culpa" created="Sat, 20 Nov 2021 16:39:05 GMT" type="outline">
 					<outline text="If you tried to load Drummer in the last hour (betweeen 10:40 and 11:40AM in the Eastern US), it probably didn;'t work very well." created="Sat, 20 Nov 2021 16:39:11 GMT"/>
