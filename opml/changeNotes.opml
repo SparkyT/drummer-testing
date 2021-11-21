@@ -14,13 +14,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 14:17:14 GMT</dateModified>
-		<expansionState>1,2,3,7,29,37,38,47,56,57</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 21 Nov 2021 15:40:16 GMT</dateModified>
+		<expansionState>1,2,3,4,13,35,43,44,53,62,63</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 21" created="Sun, 21 Nov 2021 14:14:49 GMT" type="calendarDay" name="21">
+				<outline text="Updates to Markdown support" created="Sun, 21 Nov 2021 15:38:25 GMT" type="markdown">
+					<outline text="#### A list of changes/fixes." created="Sun, 21 Nov 2021 15:38:47 GMT">
+						<outline text="- Fixed a bug where it would generate an HTML &amp;lt;p&gt; for a singular post that had type markdown. This would cause the purple pound sign to appear below the headline, instead of to the right of the headline, in the rendering." created="Sun, 21 Nov 2021 15:39:03 GMT"/>
+						<outline text="" created="Sun, 21 Nov 2021 15:39:16 GMT"/>
+						<outline text="- For titled posts of type markdown, enclose the generated markdown text in a div not a span, because that's what it is. The type is divMarkdownText. " created="Sun, 21 Nov 2021 15:39:10 GMT"/>
+						<outline text="" created="Sun, 21 Nov 2021 15:39:20 GMT"/>
+						<outline text="- Did a few CSS tweaks for Markdown posts, to increase the spacing between headings, and to make the paragraph spacing follow the same rules as non-markdown Old School paragraphs. Checked in the &lt;a href=&quot;https://github.com/scripting/drummerCms/commit/a5167219d3431cecf4d43b2a5bc6dd2ffb32f969#diff-b635dfda36c1e5ee1254f708dfef0d7a022a3bf7bae0ef140f3de971cfcba34a&quot;&gt;changes&lt;/a&gt;. " created="Sun, 21 Nov 2021 15:39:12 GMT"/>
+						<outline text="" created="Sun, 21 Nov 2021 15:39:22 GMT"/>
+						<outline text="- New release of Old School, v0.7.16. Checked in the &lt;a href=&quot;https://github.com/scripting/oldSchoolBlog/commit/2f012e569559fe356376329f553bd48f9b7673c8#diff-6092d893e6cd200a15f505bae5dd10712baa24191e61896e4cc720794d286c3f&quot;&gt;changes&lt;/a&gt;." created="Sun, 21 Nov 2021 15:39:13 GMT"/>
+						</outline>
+					</outline>
 				<outline text="Markdown work" created="Sun, 21 Nov 2021 14:14:50 GMT" type="outline">
 					<outline text="Going to do some more cleanup work on Markdown in Old School. " created="Sun, 21 Nov 2021 14:14:53 GMT"/>
 					<outline text="In the meantime, &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-974824472&quot;&gt;the thread continues&lt;/a&gt;. If you're planning on using Markdown to write blog posts in Drummer, you might want to tune in, because things are being locked down today. " created="Sun, 21 Nov 2021 14:15:06 GMT"/>
