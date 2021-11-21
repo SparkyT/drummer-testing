@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 15:49:53 GMT</dateModified>
-		<expansionState>1,2,3,4,13,35,43,44,53,62,63</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Sun, 21 Nov 2021 16:18:39 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
@@ -50,8 +50,7 @@
 						<outline text="1. Evaluate -- how does it look? " created="Sat, 20 Nov 2021 15:02:36 GMT"/>
 						<outline text="2. Does it make more sense this way, from a markdown point of view?" created="Sat, 20 Nov 2021 15:02:44 GMT"/>
 						<outline text="3. Should we leave it this way -- ie indentation is ignored, you can use it any way you like and 2. we add one newline for every headline, not two." created="Sat, 20 Nov 2021 15:02:55 GMT"/>
-						<outline text="4. Please provide a link to the rendered page. I'd like to see how you're using it.
-" created="Sat, 20 Nov 2021 15:06:35 GMT"/>
+						<outline text="4. Please provide a link to the rendered page. I'd like to see how you're using it. " created="Sat, 20 Nov 2021 15:06:35 GMT"/>
 						</outline>
 					<outline text="Comments &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-974662566&quot;&gt;here&lt;/a&gt;." created="Sat, 20 Nov 2021 15:03:36 GMT"/>
 					</outline>
