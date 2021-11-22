@@ -14,13 +14,20 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 22 Nov 2021 14:56:51 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 22 Nov 2021 15:42:50 GMT</dateModified>
+		<expansionState>1,2,3,4,8</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 22" created="Mon, 22 Nov 2021 14:55:31 GMT" type="calendarDay" name="22">
+				<outline text="Markdown is not a settled issue as I hoped it would be" created="Mon, 22 Nov 2021 15:34:43 GMT" type="outline">
+					<outline text="I was doing some work on a project related to PagePark, and opened up the docs outline, and what I saw reminded me that I can't work with the one-newline per headline rule. You can have a look at the file yourself, choose Open URL from the File menu, and  enter this URL." created="Mon, 22 Nov 2021 15:34:54 GMT">
+						<outline text="&lt;a href=&quot;http://scripting.com/publicfolder/misc/pageParkDocs.opml&quot;&gt;http://scripting.com/publicfolder/misc/pageParkDocs.opml&lt;/a&gt;" created="Mon, 22 Nov 2021 15:36:33 GMT"/>
+						</outline>
+					<outline text="That's the way I write, using an outliner, in Markdown, and how I've been doing it for years. " created="Mon, 22 Nov 2021 15:36:56 GMT"/>
+					<outline text="So my current thinking is that it's going to have to be a per-user choice, and it will have to result in a new head-level attribute to communicate the choice between Drummer and Old School, via the OPML." created="Mon, 22 Nov 2021 15:37:22 GMT"/>
+					</outline>
 				<outline text="New Electric Drummer build" created="Mon, 22 Nov 2021 14:55:32 GMT" type="outline">
 					<outline text="Download from the &lt;a href=&quot;http://docserver.scripting.com/drummer/electricDrummer.opml&quot;&gt;docs page&lt;/a&gt;. " created="Mon, 22 Nov 2021 14:55:40 GMT"/>
 					<outline text="Previous version was from November 11." created="Mon, 22 Nov 2021 14:56:16 GMT"/>
