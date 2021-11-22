@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 22 Nov 2021 14:10:08 GMT</dateModified>
+		<dateModified>Mon, 22 Nov 2021 17:56:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 22" type="calendarDay" name="22" >
+				<outline text="If a teen like the rittenhouse kid shows up at your house with an assault rifle (his mom dropped him off), and you had a skate board in your hand would it be ok if he killed you?" type="tweet" created="Mon, 22 Nov 2021 17:56:18 GMT" tweetId="1462842387798052867" urltweet="https://twitter.com/davewiner/status/1462842387798052867" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Last night's Succession was excellent. I wasn't expecting much after the previous episode which was a  drag." type="tweet" created="Mon, 22 Nov 2021 14:09:12 GMT" tweetId="1462785235809193997" urltweet="https://twitter.com/davewiner/status/1462785235809193997" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="November 21" type="calendarDay" name="21" >
