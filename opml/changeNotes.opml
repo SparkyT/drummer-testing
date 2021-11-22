@@ -14,12 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 21 Nov 2021 16:18:39 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Mon, 22 Nov 2021 14:56:51 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 22" created="Mon, 22 Nov 2021 14:55:31 GMT" type="calendarDay" name="22">
+				<outline text="New Electric Drummer build" created="Mon, 22 Nov 2021 14:55:32 GMT" type="outline">
+					<outline text="Download from the &lt;a href=&quot;http://docserver.scripting.com/drummer/electricDrummer.opml&quot;&gt;docs page&lt;/a&gt;. " created="Mon, 22 Nov 2021 14:55:40 GMT"/>
+					<outline text="Previous version was from November 11." created="Mon, 22 Nov 2021 14:56:16 GMT"/>
+					<outline text="So all the changes between the 12th and 21st are included in this build." created="Mon, 22 Nov 2021 14:56:24 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 21" created="Sun, 21 Nov 2021 14:14:49 GMT" type="calendarDay" name="21">
 				<outline text="Updates to Markdown support" created="Sun, 21 Nov 2021 15:38:25 GMT" type="markdown">
 					<outline text="#### A list of changes/fixes." created="Sun, 21 Nov 2021 15:38:47 GMT">
