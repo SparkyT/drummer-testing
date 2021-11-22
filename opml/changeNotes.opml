@@ -14,13 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 22 Nov 2021 20:34:11 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Mon, 22 Nov 2021 22:03:34 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 22" created="Mon, 22 Nov 2021 14:55:31 GMT" type="calendarDay" name="22">
+				<outline text="Drumkit verb list" created="Mon, 22 Nov 2021 21:55:24 GMT" type="outline">
+					<outline text="A &lt;a href=&quot;https://gist.github.com/scripting/8e0b74bc144e88ab6c38e6d0be3ab049&quot;&gt;script&lt;/a&gt; that generates &lt;a href=&quot;http://drummer.scripting.com/davewiner/verblist.opml&quot;&gt;the list&lt;/a&gt; of Drumkit verbs." created="Mon, 22 Nov 2021 21:55:31 GMT"/>
+					<outline text="I will try to run the script every time a verb is added to the list." created="Mon, 22 Nov 2021 21:56:12 GMT"/>
+					</outline>
 				<outline text="Markdown is not a settled issue as I hoped it would be" created="Mon, 22 Nov 2021 15:34:43 GMT" type="outline">
 					<outline text="I was doing some work on a project related to PagePark, and opened up the docs outline, and what I saw reminded me that I can't work with the one-newline per headline rule. You can have a look at the file yourself, choose Open URL from the File menu, and  enter this URL." created="Mon, 22 Nov 2021 15:34:54 GMT">
 						<outline text="&lt;a href=&quot;http://scripting.com/publicfolder/misc/pageParkDocs.opml&quot;&gt;http://scripting.com/publicfolder/misc/pageParkDocs.opml&lt;/a&gt;" created="Mon, 22 Nov 2021 15:36:33 GMT"/>
