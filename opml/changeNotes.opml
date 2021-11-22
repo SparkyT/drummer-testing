@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 22 Nov 2021 15:42:50 GMT</dateModified>
-		<expansionState>1,2,3,4,8</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Mon, 22 Nov 2021 20:34:11 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
