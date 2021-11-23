@@ -14,15 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 17:52:19 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 23 Nov 2021 17:52:59 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 23" created="Tue, 23 Nov 2021 12:59:21 GMT" type="calendarDay" name="23">
 				<outline text="File/New fix" created="Tue, 23 Nov 2021 17:51:37 GMT" type="outline">
 					<outline text="If you created a new file with the same name as an existing file, it could overwrite the existing file without warning. " created="Tue, 23 Nov 2021 17:51:47 GMT"/>
+					<outline text="This should now be fixed. It will not create a file with the same name as an existing file. If you delete the file first, you should be able to do it. " created="Tue, 23 Nov 2021 17:52:20 GMT"/>
 					</outline>
 				<outline text="New version of Public Folder app" created="Tue, 23 Nov 2021 16:19:03 GMT" type="outline">
 					<outline text="There's a new option that allows you to turn off the feature where PF deletes files from S3 when they are deleted from the watched folder." created="Tue, 23 Nov 2021 16:19:11 GMT"/>
