@@ -14,13 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 13:02:41 GMT</dateModified>
-		<expansionState>1,2,3,6,7</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 23 Nov 2021 16:20:18 GMT</dateModified>
+		<expansionState>1,2,3,7,10,11</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 23" created="Tue, 23 Nov 2021 12:59:21 GMT" type="calendarDay" name="23">
+				<outline text="New version of Public Folder app" created="Tue, 23 Nov 2021 16:19:03 GMT" type="outline">
+					<outline text="There's a new option that allows you to turn off the feature where PF deletes files from S3 when they are deleted from the watched folder." created="Tue, 23 Nov 2021 16:19:11 GMT"/>
+					<outline text="This is useful if you're uploading files from more than one location to the folder on S3. " created="Tue, 23 Nov 2021 16:19:42 GMT"/>
+					<outline text="Details &lt;a href=&quot;http://this.how/publicFolder/#1637683953000&quot;&gt;here&lt;/a&gt;. " created="Tue, 23 Nov 2021 16:20:01 GMT"/>
+					</outline>
 				<outline text="Updated the verb list script" created="Tue, 23 Nov 2021 12:59:22 GMT" type="outline">
 					<outline text="I needed to account for sub-categories of verbs, such as op.attributes. " created="Tue, 23 Nov 2021 12:59:29 GMT"/>
 					<outline text="Ran the &lt;a href=&quot;https://gist.github.com/scripting/8e0b74bc144e88ab6c38e6d0be3ab049&quot;&gt;script&lt;/a&gt; again, so the &lt;a href=&quot;http://drummer.scripting.com/davewiner/verblist.opml&quot;&gt;outline&lt;/a&gt; should be updated. " created="Tue, 23 Nov 2021 12:59:47 GMT"/>
