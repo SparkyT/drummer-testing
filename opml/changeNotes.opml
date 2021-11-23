@@ -14,13 +14,24 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 18:21:20 GMT</dateModified>
+		<dateModified>Tue, 23 Nov 2021 19:29:00 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 23" created="Tue, 23 Nov 2021 12:59:21 GMT" type="calendarDay" name="23">
+				<outline text="Next iteration on Markdown-in-an-outline" created="Tue, 23 Nov 2021 19:23:42 GMT" type="outline">
+					<outline text="This time I think I have it, for real. I swear. ;-)" created="Tue, 23 Nov 2021 19:24:01 GMT"/>
+					<outline text="Here's the deal..." created="Tue, 23 Nov 2021 19:24:30 GMT">
+						<outline text="All the action is in Old School." created="Tue, 23 Nov 2021 19:24:34 GMT"/>
+						<outline text="A new head-level attribute, flSinglespaceMarkdown." created="Tue, 23 Nov 2021 19:24:43 GMT"/>
+						<outline text="Default: false -- which means we generate two newlines per outline node, with one exception." created="Tue, 23 Nov 2021 19:25:01 GMT"/>
+						<outline text="If a node has an flSinglespaceMarkdown att set true, its subs are single-spaced.  " created="Tue, 23 Nov 2021 19:25:20 GMT"/>
+						<outline text="The assumption is that most often people will write in the outliner one paragraph per headline. but there are exceptional cases where you need more control over the markdown text we generate, and need to do your own double spacing, so you tell Old School to just do one." created="Tue, 23 Nov 2021 19:25:42 GMT"/>
+						</outline>
+					<outline text="Comment &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-976973912&quot;&gt;here&lt;/a&gt;. " created="Tue, 23 Nov 2021 19:24:13 GMT"/>
+					</outline>
 				<outline text="File/New fix" created="Tue, 23 Nov 2021 17:51:37 GMT" type="outline">
 					<outline text="If you created a new file with the same name as an existing file, it could overwrite the existing file without warning. " created="Tue, 23 Nov 2021 17:51:47 GMT"/>
 					<outline text="This should now be fixed. It will not create a file with the same name as an existing file. If you delete the file first, you should be able to do it. " created="Tue, 23 Nov 2021 17:52:20 GMT"/>
