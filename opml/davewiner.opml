@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 11:50:31 GMT</dateModified>
+		<dateModified>Tue, 23 Nov 2021 12:00:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 23" type="calendarDay" name="23" >
+				<outline text="Grateful Dead Movie From Scorsese, Jonah Hill to Play Jerry Garcia. &lt;a href=&quot;https://variety.com/2021/film/news/martin-scorsese-grateful-dead-biopic-jonah-hill-1235115213/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 23 Nov 2021 11:59:48 GMT" tweetId="1463115060683972618" urltweet="https://twitter.com/davewiner/status/1463115060683972618" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Carmelo Anthony heaps praise on Knicks ahead of Lakers return. &lt;a href=&quot;https://nypost.com/2021/11/22/carmelo-anthony-heaps-praise-on-knicks-ahead-of-lakers-return/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 23 Nov 2021 11:49:55 GMT" tweetId="1463112573394591744" urltweet="https://twitter.com/davewiner/status/1463112573394591744" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Sports fans are being sidelined as RSNs fight the decay of pay TV. &lt;a href=&quot;https://www.cnbc.com/2021/11/21/sports-fans-are-being-sidelined-as-rsns-fight-the-decay-of-pay-tv.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 23 Nov 2021 09:26:01 GMT" tweetId="1463076358779723779" urltweet="https://twitter.com/davewiner/status/1463076358779723779" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
