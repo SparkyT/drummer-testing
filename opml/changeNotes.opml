@@ -14,12 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 22 Nov 2021 22:18:28 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 23 Nov 2021 13:02:41 GMT</dateModified>
+		<expansionState>1,2,3,6,7</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 23" created="Tue, 23 Nov 2021 12:59:21 GMT" type="calendarDay" name="23">
+				<outline text="Updated the verb list script" created="Tue, 23 Nov 2021 12:59:22 GMT" type="outline">
+					<outline text="I needed to account for sub-categories of verbs, such as op.attributes. " created="Tue, 23 Nov 2021 12:59:29 GMT"/>
+					<outline text="Ran the &lt;a href=&quot;https://gist.github.com/scripting/8e0b74bc144e88ab6c38e6d0be3ab049&quot;&gt;script&lt;/a&gt; again, so the &lt;a href=&quot;http://drummer.scripting.com/davewiner/verblist.opml&quot;&gt;outline&lt;/a&gt; should be updated. " created="Tue, 23 Nov 2021 12:59:47 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 22" created="Mon, 22 Nov 2021 14:55:31 GMT" type="calendarDay" name="22">
 				<outline text="Drumkit verb list" created="Mon, 22 Nov 2021 21:55:24 GMT" type="outline">
 					<outline text="A &lt;a href=&quot;https://gist.github.com/scripting/8e0b74bc144e88ab6c38e6d0be3ab049&quot;&gt;script&lt;/a&gt; that generates &lt;a href=&quot;http://drummer.scripting.com/davewiner/verblist.opml&quot;&gt;the list&lt;/a&gt; of Drumkit verbs." created="Mon, 22 Nov 2021 21:55:31 GMT"/>
