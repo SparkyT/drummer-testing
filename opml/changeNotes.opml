@@ -14,8 +14,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 19:29:00 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Tue, 23 Nov 2021 21:39:17 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
@@ -31,6 +31,7 @@
 						<outline text="The assumption is that most often people will write in the outliner one paragraph per headline. but there are exceptional cases where you need more control over the markdown text we generate, and need to do your own double spacing, so you tell Old School to just do one." created="Tue, 23 Nov 2021 19:25:42 GMT"/>
 						</outline>
 					<outline text="Comment &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/14#issuecomment-976973912&quot;&gt;here&lt;/a&gt;. " created="Tue, 23 Nov 2021 19:24:13 GMT"/>
+					<outline text="Update: I deployed the new version of Old School, so this change is available for testing. " created="Tue, 23 Nov 2021 21:38:53 GMT"/>
 					</outline>
 				<outline text="File/New fix" created="Tue, 23 Nov 2021 17:51:37 GMT" type="outline">
 					<outline text="If you created a new file with the same name as an existing file, it could overwrite the existing file without warning. " created="Tue, 23 Nov 2021 17:51:47 GMT"/>
