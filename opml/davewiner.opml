@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 02:49:28 GMT</dateModified>
+		<dateModified>Wed, 24 Nov 2021 03:00:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 23" type="calendarDay" name="23" >
+				<outline text="Thanksgiving is a huge carbon party. &lt;a href=&quot;https://twitter.com/davewiner/status/1463341646993629193/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 03:00:10 GMT" tweetId="1463341646993629193" urltweet="https://twitter.com/davewiner/status/1463341646993629193" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Today feels like a Friday." type="tweet" created="Wed, 24 Nov 2021 02:48:29 GMT" tweetId="1463338703510806530" urltweet="https://twitter.com/davewiner/status/1463338703510806530" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Sources:Jan. 6 WH Rally Team Used Burner Phones to talk to White House. &lt;a href=&quot;https://www.rollingstone.com/politics/politics-news/jan-6-rally-organizers-trump-white-house-1262122/?scrolltoken=1ZhZAiJjPlclqNvpy-CdqXLhPZVUnVjhphoq4qFmqi-JUZKyXIGVfFsYTZOQYDWbXf8S2oEyvorLQ_3LUoF4OmUZ4xR7hcbrBs6EfBGDLVSAN_Q7utWZmg2kcotrv5HPhuk4AdY6oEegoqsM-SywbXDVYPrKg8vw4NvJZ0_h-V8DZ92uPxvbEWfWxq47HmScZvPyvtNCnb4OTLjtY5kcs2SieSp8Yw.eyJraWQiOiIyIn0&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 01:46:30 GMT" tweetId="1463323104705454081" urltweet="https://twitter.com/davewiner/status/1463323104705454081" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Grateful Dead Movie From Scorsese, Jonah Hill to Play Jerry Garcia. &lt;a href=&quot;https://variety.com/2021/film/news/martin-scorsese-grateful-dead-biopic-jonah-hill-1235115213/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 23 Nov 2021 11:59:48 GMT" tweetId="1463115060683972618" urltweet="https://twitter.com/davewiner/status/1463115060683972618" inReplyToId="" tweetUserName="davewiner" />
