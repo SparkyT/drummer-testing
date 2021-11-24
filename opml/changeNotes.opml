@@ -14,12 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 17:38:06 GMT</dateModified>
-		<expansionState></expansionState>
-		<lastCursor>0</lastCursor>
+		<dateModified>Wed, 24 Nov 2021 20:54:17 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 24" created="Wed, 24 Nov 2021 20:53:30 GMT" type="calendarDay" name="24">
+				<outline text="Alex's Awesome Drummer repo" created="Wed, 24 Nov 2021 20:53:31 GMT" type="outline">
+					<outline text="It's a &lt;a href=&quot;https://github.com/alexjj/awesome-drummer&quot;&gt;collection of links&lt;/a&gt; to stuff about Drummer. Nicely done. " created="Wed, 24 Nov 2021 20:53:41 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 23" created="Tue, 23 Nov 2021 12:59:21 GMT" type="calendarDay" name="23">
 				<outline text="Next iteration on Markdown-in-an-outline" created="Tue, 23 Nov 2021 19:23:42 GMT" type="outline">
 					<outline text="This time I think I have it, for real. I swear. ;-)" created="Tue, 23 Nov 2021 19:24:01 GMT"/>
