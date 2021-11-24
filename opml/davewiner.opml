@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 19:06:31 GMT</dateModified>
+		<dateModified>Wed, 24 Nov 2021 20:16:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 24" type="calendarDay" name="24" >
+				<outline text="GM takes on Tesla with electric cars, boats, planes, and trucks. &lt;a href=&quot;https://www.vox.com/recode/22800647/gm-electric-cars-vehicles-boats&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 20:16:14 GMT" tweetId="1463602378641444876" urltweet="https://twitter.com/davewiner/status/1463602378641444876" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="After Failure to Buy the Constitution, Crypto Fans Want to Buy an NBA Team. &lt;a href=&quot;https://www.vice.com/en/article/v7de5m/after-failure-to-buy-the-constitution-crypto-fans-want-to-buy-an-nba-team&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 20:13:48 GMT" tweetId="1463601769129328641" urltweet="https://twitter.com/davewiner/status/1463601769129328641" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Immanuel Quickley comes up big again for Knicks. &lt;a href=&quot;https://nypost.com/2021/11/24/immanuel-quickley-comes-up-big-again-for-knicks-fearless/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 19:06:19 GMT" tweetId="1463584784920231940" urltweet="https://twitter.com/davewiner/status/1463584784920231940" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Similarity, and Stark Difference, Between the Kyle Rittenhouse and Ahmaud Arbery Shootings. &lt;a href=&quot;https://thedispatch.com/p/the-similarity-and-stark-difference&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 19:02:05 GMT" tweetId="1463583718405251074" urltweet="https://twitter.com/davewiner/status/1463583718405251074" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="All 3 defendants found guilty of murdering Ahmaud Arbery. &lt;a href=&quot;https://apnews.com/article/ahmaud-arbery-georgia-brunswick-f2549024973cdcc757c02bd0a07bf5cf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 18:50:04 GMT" tweetId="1463580695817822210" urltweet="https://twitter.com/davewiner/status/1463580695817822210" inReplyToId="" tweetUserName="davewiner" />
