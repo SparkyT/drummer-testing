@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 13:52:11 GMT</dateModified>
+		<dateModified>Wed, 24 Nov 2021 14:06:11 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 24" type="calendarDay" name="24" >
+				<outline text="Tourists respond to spree of organized thefts in San Francisco; businesses worry crime will impact the industry. &lt;a href=&quot;https://abc7news.com/san-francisco-sf-theft-tourism-industry/11263853/?ex_cid=TA_KGO_TW&amp;taid=619d484cc2950300019a30bf&amp;utm_campaign=trueAnthem:+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 14:06:07 GMT" tweetId="1463509237770993666" urltweet="https://twitter.com/davewiner/status/1463509237770993666" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Opioid crisis: Ohio jury finds CVS, Walmart, Walgreens responsible in precedent-setting suit. &lt;a href=&quot;https://www.cnn.com/2021/11/23/business/pharmaceutical-chains-opioid-jury/index.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 13:54:40 GMT" tweetId="1463506354304434190" urltweet="https://twitter.com/davewiner/status/1463506354304434190" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="NPR: Books We Love. &lt;a href=&quot;https://apps.npr.org/best-books/#view=covers&amp;year=2021&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 13:51:48 GMT" tweetId="1463505633874006025" urltweet="https://twitter.com/davewiner/status/1463505633874006025" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="November 23" type="calendarDay" name="23" >
