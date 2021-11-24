@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 17:40:25 GMT</dateModified>
+		<dateModified>Wed, 24 Nov 2021 18:50:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 24" type="calendarDay" name="24" >
+				<outline text="All 3 defendants found guilty of murdering Ahmaud Arbery. &lt;a href=&quot;https://apnews.com/article/ahmaud-arbery-georgia-brunswick-f2549024973cdcc757c02bd0a07bf5cf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 18:50:04 GMT" tweetId="1463580695817822210" urltweet="https://twitter.com/davewiner/status/1463580695817822210" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="For ten points, what's weird about this? &lt;a href=&quot;https://twitter.com/davewiner/status/1463563087143915531/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 17:40:06 GMT" tweetId="1463563087143915531" urltweet="https://twitter.com/davewiner/status/1463563087143915531" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Weekly jobless claims post stunning decline to 199,000, the lowest level since 1969. &lt;a href=&quot;https://www.cnbc.com/2021/11/24/us-jobless-claims-fall-to-just-199000-the-lowest-level-since-1969.html?__source=sharebar%7Ctwitter&amp;par=sharebar&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 15:38:18 GMT" tweetId="1463532435161989130" urltweet="https://twitter.com/davewiner/status/1463532435161989130" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="All Tesla FSD Visualizations and What They Mean. &lt;a href=&quot;https://www.notateslaapp.com/news/636/all-tesla-fsd-visualizations-and-what-they-mean&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 24 Nov 2021 15:25:58 GMT" tweetId="1463529330093572101" urltweet="https://twitter.com/davewiner/status/1463529330093572101" inReplyToId="" tweetUserName="davewiner" />
