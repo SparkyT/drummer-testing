@@ -14,12 +14,37 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 20:54:17 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Thu, 25 Nov 2021 13:26:32 GMT</dateModified>
+		<expansionState>1,2,4,6</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 25" created="Thu, 25 Nov 2021 13:21:07 GMT" type="calendarDay" name="25">
+				<outline text="" created="Thu, 25 Nov 2021 13:26:31 GMT" type="outline"/>
+				<outline text="Tab with no close box?" created="Wed, 24 Nov 2021 14:27:17 GMT" type="outline">
+					<outline text="In Drummer, if you end up with a tab with no close box, you can still close the tab if you're willing to do some digging." created="Thu, 25 Nov 2021 13:12:43 GMT"/>
+					<outline text="Before you do anything..." created="Thu, 25 Nov 2021 13:16:12 GMT" flBulletedSubs="true">
+						<outline text="The reason the tab is misbehaving is probably because there was an error loading the file. " created="Thu, 25 Nov 2021 13:16:20 GMT"/>
+						<outline text="If you know how to access the JavaScript console, open it, and look for an error message. " created="Thu, 25 Nov 2021 13:16:42 GMT"/>
+						<outline text="It should offer a clue as to what's going wrong. " created="Thu, 25 Nov 2021 13:17:02 GMT"/>
+						<outline text="If there is an error, please &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues&quot;&gt;report&lt;/a&gt; the problem. " created="Thu, 25 Nov 2021 13:17:34 GMT"/>
+						</outline>
+					<outline text="Try the Close command in the File menu." created="Thu, 25 Nov 2021 13:12:56 GMT" flBulletedSubs="true">
+						<outline text="Click on the tab to activate it." created="Thu, 25 Nov 2021 13:13:06 GMT"/>
+						<outline text="Choose Close from the File menu." created="Thu, 25 Nov 2021 13:13:12 GMT"/>
+						<outline text="That will often get rid of the tab." created="Thu, 25 Nov 2021 13:18:16 GMT"/>
+						</outline>
+					<outline text="If that doesn't do it..." created="Thu, 25 Nov 2021 13:13:20 GMT" flBulletedSubs="true">
+						<outline text="These instructions are for Chrome, something similar should work in other browsers." created="Thu, 25 Nov 2021 13:13:27 GMT"/>
+						<outline text="Right-click on the tab. " created="Thu, 25 Nov 2021 13:13:53 GMT"/>
+						<outline text="Look for an element in the class spCloseBox. &lt;a href=&quot;http://scripting.com/images/2021/11/25/spCloseBox.png&quot;&gt;Screen shot&lt;/a&gt;." created="Thu, 25 Nov 2021 13:14:54 GMT"/>
+						<outline text="Edit the style section by single-clicking on the element and change hidden to visible." created="Thu, 25 Nov 2021 13:15:09 GMT"/>
+						<outline text="The close box should now appear." created="Thu, 25 Nov 2021 13:15:54 GMT"/>
+						<outline text="Click it to close the tab." created="Thu, 25 Nov 2021 13:16:03 GMT"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="November 24" created="Wed, 24 Nov 2021 20:53:30 GMT" type="calendarDay" name="24">
 				<outline text="Alex's Awesome Drummer repo" created="Wed, 24 Nov 2021 20:53:31 GMT" type="outline">
 					<outline text="It's a &lt;a href=&quot;https://github.com/alexjj/awesome-drummer&quot;&gt;collection of links&lt;/a&gt; to stuff about Drummer. Nicely done. " created="Wed, 24 Nov 2021 20:53:41 GMT"/>
