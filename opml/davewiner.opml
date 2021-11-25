@@ -6,10 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 25 Nov 2021 02:04:57 GMT</dateModified>
+		<dateModified>Thu, 25 Nov 2021 09:16:25 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 25" type="calendarDay" name="25" >
+				<outline text="“Recent reports on experiments with mice have given wide publicity to the theory that cigarette smoking is in some way linked with lung cancer in human beings.“ &lt;a href=&quot;https://www.tobaccofreekids.org/assets/factsheets/0268.pdf&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 25 Nov 2021 09:15:38 GMT" tweetId="1463798523988697091" urltweet="https://twitter.com/davewiner/status/1463798523988697091" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="How Industry Weaponizes Science and Sows Doubt to Serve Their Agenda. &lt;a href=&quot;https://thereader.mitpress.mit.edu/industry-weaponizing-science-agenda/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 25 Nov 2021 09:13:53 GMT" tweetId="1463798083163201540" urltweet="https://twitter.com/davewiner/status/1463798083163201540" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 24" type="calendarDay" name="24" >
 				<outline text="Celtics' Enes Kanter blasts Nets owner Joe Tsai: 'Spineless' &lt;a href=&quot;https://nypost.com/2021/11/24/celtics-enes-kanter-blasts-nets-owner-joe-tsai-spineless/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 25 Nov 2021 02:04:36 GMT" tweetId="1463690047409258499" urltweet="https://twitter.com/davewiner/status/1463690047409258499" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="There's a new version of my PublicFolder app for the Mac that allows you to upload from more than one location to S3. https://t.co/vaAqFvFPdc" type="tweet" created="Thu, 25 Nov 2021 00:16:53 GMT" tweetId="1463662941778104323" urltweet="https://twitter.com/davewiner/status/1463662941778104323" inReplyToId="" tweetUserName="davewiner" />
