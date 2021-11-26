@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 26 Nov 2021 19:44:36 GMT</dateModified>
+		<dateModified>Fri, 26 Nov 2021 22:24:46 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 26" type="calendarDay" name="26" >
+				<outline text="Get Back review – eight hours of TV so aimless it threatens your sanity. &lt;a href=&quot;https://www.theguardian.com/tv-and-radio/2021/nov/25/the-beatles-get-back-review-peter-jackson-eight-hours-of-tv-so-aimless-it-threatens-your-sanity&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 22:24:18 GMT" tweetId="1464359384335765513" urltweet="https://twitter.com/davewiner/status/1464359384335765513" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="One of the stars of The Great, the guy who plays emperor Peter, is a dead ringer for a young @elonmusk. Same mannerisms and look, but he’s funnier and of course a better actor. One of the tech companies or car companies should hire him to do ads. 😀" type="tweet" created="Fri, 26 Nov 2021 19:44:24 GMT" tweetId="1464319145709875203" urltweet="https://twitter.com/davewiner/status/1464319145709875203" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Wirecutter can go f themselves. Someone should start up a leaner operation that does what they used to do. And please would someone review online banking and tell us who has a competent system? Like the Tesla of online banking. Amazing that wire cutter never attempted this." type="tweet" created="Fri, 26 Nov 2021 19:41:51 GMT" tweetId="1464318502236524552" urltweet="https://twitter.com/davewiner/status/1464318502236524552" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Twitter blue gives you a pretty lame undo command. I guess it’s impossible to do it fir real with their server architecture." type="tweet" created="Fri, 26 Nov 2021 19:39:28 GMT" tweetId="1464317901234753538" urltweet="https://twitter.com/davewiner/status/1464317901234753538" inReplyToId="" tweetUserName="davewiner" />
