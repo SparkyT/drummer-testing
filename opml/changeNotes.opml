@@ -14,14 +14,13 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 25 Nov 2021 13:26:32 GMT</dateModified>
-		<expansionState>1,2,4,6</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 26 Nov 2021 14:46:32 GMT</dateModified>
+		<expansionState>1,2,3,5,13,14,16</expansionState>
+		<lastCursor>13</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 25" created="Thu, 25 Nov 2021 13:21:07 GMT" type="calendarDay" name="25">
-				<outline text="" created="Thu, 25 Nov 2021 13:26:31 GMT" type="outline"/>
 				<outline text="Tab with no close box?" created="Wed, 24 Nov 2021 14:27:17 GMT" type="outline">
 					<outline text="In Drummer, if you end up with a tab with no close box, you can still close the tab if you're willing to do some digging." created="Thu, 25 Nov 2021 13:12:43 GMT"/>
 					<outline text="Before you do anything..." created="Thu, 25 Nov 2021 13:16:12 GMT" flBulletedSubs="true">
