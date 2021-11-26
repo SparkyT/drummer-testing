@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 25 Nov 2021 18:21:59 GMT</dateModified>
+		<dateModified>Fri, 26 Nov 2021 00:18:22 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 25" type="calendarDay" name="25" >
+				<outline text="COVID-19 variant described as 'worst one yet' emerges in South Africa. &lt;a href=&quot;https://www.abc.net.au/news/2021-11-26/africa-travel-restrictions-imposed-over-new-covid-19/100652438&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 00:18:06 GMT" tweetId="1464025637102968834" urltweet="https://twitter.com/davewiner/status/1464025637102968834" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I am a NYT subscriber, but can't access Wirecutter. 
 
 It's weird, the site seems broken -- when I try to log in it just sends me back to the page that says I have run out of free articles." type="tweet" created="Thu, 25 Nov 2021 18:21:43 GMT" tweetId="1463935949591695360" urltweet="https://twitter.com/davewiner/status/1463935949591695360" inReplyToId="" tweetUserName="davewiner" />
