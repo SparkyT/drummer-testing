@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 26 Nov 2021 13:20:12 GMT</dateModified>
+		<dateModified>Fri, 26 Nov 2021 17:34:28 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 26" type="calendarDay" name="26" >
+				<outline text="I just added &quot;The Great&quot; as one of my favorites on my BingeWorthy profile. It's a funny pseudo-history dramedy in the spirit of Succession or The Death of Stalin. It's about a Russian empress who overthrows her husband the emperor.  https://t.co/ahAP2rJHG8" type="tweet" created="Fri, 26 Nov 2021 17:33:47 GMT" tweetId="1464286275721216000" urltweet="https://twitter.com/davewiner/status/1464286275721216000" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Jim Warren, who started the West Coast Computer Faire, where it all began. I demoed my first outliner there in 1979. &lt;a href=&quot;https://web.stanford.edu/~allison/JimWarren.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 13:19:39 GMT" tweetId="1464222319384141856" urltweet="https://twitter.com/davewiner/status/1464222319384141856" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="November 25" type="calendarDay" name="25" >
