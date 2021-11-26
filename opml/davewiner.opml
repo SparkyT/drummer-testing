@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 26 Nov 2021 01:39:27 GMT</dateModified>
+		<dateModified>Fri, 26 Nov 2021 13:20:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 26" type="calendarDay" name="26" >
+				<outline text="Jim Warren, who started the West Coast Computer Faire, where it all began. I demoed my first outliner there in 1979. &lt;a href=&quot;https://web.stanford.edu/~allison/JimWarren.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 13:19:39 GMT" tweetId="1464222319384141856" urltweet="https://twitter.com/davewiner/status/1464222319384141856" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 25" type="calendarDay" name="25" >
 				<outline text="North Korean to Be Executed for Smuggling Squid Game. &lt;a href=&quot;https://www.businessinsider.com/north-korea-execution-life-sentence-hard-labor-squid-game-2021-11&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 01:39:04 GMT" tweetId="1464046010074861568" urltweet="https://twitter.com/davewiner/status/1464046010074861568" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="COVID-19 variant described as 'worst one yet' emerges in South Africa. &lt;a href=&quot;https://www.abc.net.au/news/2021-11-26/africa-travel-restrictions-imposed-over-new-covid-19/100652438&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 00:18:06 GMT" tweetId="1464025637102968834" urltweet="https://twitter.com/davewiner/status/1464025637102968834" inReplyToId="" tweetUserName="davewiner" />
