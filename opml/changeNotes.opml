@@ -14,8 +14,8 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 27 Nov 2021 02:19:13 GMT</dateModified>
-		<expansionState>1</expansionState>
+		<dateModified>Sat, 27 Nov 2021 14:18:42 GMT</dateModified>
+		<expansionState>1,2</expansionState>
 		<lastCursor>1</lastCursor>
 		</head>
 	<body>
