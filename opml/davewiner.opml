@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 27 Nov 2021 17:20:59 GMT</dateModified>
+		<dateModified>Sat, 27 Nov 2021 18:09:02 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 27" type="calendarDay" name="27" >
+				<outline text="I'm Sticking With You. &lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=H5je_eK0V1w&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 27 Nov 2021 18:08:44 GMT" tweetId="1464657457154871296" urltweet="https://twitter.com/davewiner/status/1464657457154871296" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="This should really be a product offered by Netflix, metacritic, facebook, even Google. What show to watch is a question millions of people have, esp this time of year. This is what the platform should look like. Share profiles w friends. &lt;a href=&quot;https://twitter.com/davewiner/status/1464645187913715714&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 27 Nov 2021 17:53:55 GMT" tweetId="1464653729987276815" urltweet="https://twitter.com/davewiner/status/1464653729987276815" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Good binge watching from yours truly. ;-)
 
 https://t.co/ahAP2rs6hy https://t.co/DBQDxXH7zS" type="tweet" created="Sat, 27 Nov 2021 17:19:59 GMT" tweetId="1464645187913715714" urltweet="https://twitter.com/davewiner/status/1464645187913715714" inReplyToId="" tweetUserName="davewiner" />
