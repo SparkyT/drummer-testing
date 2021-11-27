@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 26 Nov 2021 22:53:48 GMT</dateModified>
+		<dateModified>Sat, 27 Nov 2021 00:56:56 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 26" type="calendarDay" name="26" >
+				<outline text="Oy they have the idiot announcing the Knicks game. &lt;a href=&quot;https://twitter.com/davewiner/status/1464397556100878343/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 27 Nov 2021 00:55:59 GMT" tweetId="1464397556100878343" urltweet="https://twitter.com/davewiner/status/1464397556100878343" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Broadway legend Stephen Sondheim dead at 91. &lt;a href=&quot;https://nypost.com/2021/11/26/broadway-legend-stephen-sondheim-dead-at-91/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 22:53:34 GMT" tweetId="1464366750624006149" urltweet="https://twitter.com/davewiner/status/1464366750624006149" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Get Back review – eight hours of TV so aimless it threatens your sanity. &lt;a href=&quot;https://www.theguardian.com/tv-and-radio/2021/nov/25/the-beatles-get-back-review-peter-jackson-eight-hours-of-tv-so-aimless-it-threatens-your-sanity&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 22:24:18 GMT" tweetId="1464359384335765513" urltweet="https://twitter.com/davewiner/status/1464359384335765513" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="One of the stars of The Great, the guy who plays emperor Peter, is a dead ringer for a young @elonmusk. Same mannerisms and look, but he’s funnier and of course a better actor. One of the tech companies or car companies should hire him to do ads. 😀" type="tweet" created="Fri, 26 Nov 2021 19:44:24 GMT" tweetId="1464319145709875203" urltweet="https://twitter.com/davewiner/status/1464319145709875203" inReplyToId="" tweetUserName="davewiner" />
