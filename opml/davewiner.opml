@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 27 Nov 2021 00:56:56 GMT</dateModified>
+		<dateModified>Sat, 27 Nov 2021 17:20:59 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 27" type="calendarDay" name="27" >
+				<outline text="Good binge watching from yours truly. ;-)
+
+https://t.co/ahAP2rs6hy https://t.co/DBQDxXH7zS" type="tweet" created="Sat, 27 Nov 2021 17:19:59 GMT" tweetId="1464645187913715714" urltweet="https://twitter.com/davewiner/status/1464645187913715714" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 26" type="calendarDay" name="26" >
 				<outline text="Oy they have the idiot announcing the Knicks game. &lt;a href=&quot;https://twitter.com/davewiner/status/1464397556100878343/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 27 Nov 2021 00:55:59 GMT" tweetId="1464397556100878343" urltweet="https://twitter.com/davewiner/status/1464397556100878343" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Broadway legend Stephen Sondheim dead at 91. &lt;a href=&quot;https://nypost.com/2021/11/26/broadway-legend-stephen-sondheim-dead-at-91/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 26 Nov 2021 22:53:34 GMT" tweetId="1464366750624006149" urltweet="https://twitter.com/davewiner/status/1464366750624006149" inReplyToId="" tweetUserName="davewiner" />
