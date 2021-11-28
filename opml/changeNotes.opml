@@ -14,13 +14,22 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 28 Nov 2021 15:06:28 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Sun, 28 Nov 2021 16:58:17 GMT</dateModified>
+		<expansionState>1,2,3,5</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 28" created="Sun, 28 Nov 2021 15:04:43 GMT" type="calendarDay" name="28">
+				<outline text="New verb opml.getMarkdown" created="Sun, 28 Nov 2021 16:57:30 GMT" type="outline">
+					<outline text="Here's the &lt;a href=&quot;http://docserver.scripting.com/?verb=opml.getMarkdown&quot;&gt;DocServer page&lt;/a&gt;." created="Sun, 28 Nov 2021 16:57:33 GMT"/>
+					<outline text="Important thing to note." created="Sun, 28 Nov 2021 16:57:38 GMT">
+						<outline text="" created="Sun, 28 Nov 2021 16:58:16 GMT"/>
+						</outline>
+					</outline>
+				<outline text="I just had a file overwrite here" created="Sun, 28 Nov 2021 16:36:26 GMT" type="outline">
+					<outline text="I wrote up what happened &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/127&quot;&gt;here&lt;/a&gt;. " created="Sun, 28 Nov 2021 16:36:33 GMT"/>
+					</outline>
 				<outline text="New optional param on op.getCursorOpml" created="Sun, 28 Nov 2021 15:04:44 GMT" type="outline">
 					<outline text="New boolean param determines whether or not the bar cursor headline is included in the OPML text it returns. " created="Sun, 28 Nov 2021 15:05:06 GMT"/>
 					<outline text="It defaults to false -- meaning the BCH text is included. This was the previous behavior, and is preserved, so no breakage." created="Sun, 28 Nov 2021 15:05:28 GMT"/>
