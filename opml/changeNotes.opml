@@ -14,18 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 28 Nov 2021 16:58:17 GMT</dateModified>
-		<expansionState>1,2,3,5</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Sun, 28 Nov 2021 17:00:32 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 28" created="Sun, 28 Nov 2021 15:04:43 GMT" type="calendarDay" name="28">
-				<outline text="New verb opml.getMarkdown" created="Sun, 28 Nov 2021 16:57:30 GMT" type="outline">
+				<outline text="New verb: opml.getMarkdown" created="Sun, 28 Nov 2021 16:57:30 GMT" type="outline">
 					<outline text="Here's the &lt;a href=&quot;http://docserver.scripting.com/?verb=opml.getMarkdown&quot;&gt;DocServer page&lt;/a&gt;." created="Sun, 28 Nov 2021 16:57:33 GMT"/>
-					<outline text="Important thing to note." created="Sun, 28 Nov 2021 16:57:38 GMT">
-						<outline text="" created="Sun, 28 Nov 2021 16:58:16 GMT"/>
-						</outline>
+					<outline text="This is the same code as was used in Old School to generate Markdown text from outlines. " created="Sun, 28 Nov 2021 16:58:16 GMT"/>
+					<outline text="It respects the flSinglespaceMarkdown attribute. " created="Sun, 28 Nov 2021 16:58:39 GMT"/>
+					<outline text="I wanted to get it into Drummer, so it could be used in lots of circumstances and everyone would not have to reinvent the wheel. " created="Sun, 28 Nov 2021 16:58:58 GMT"/>
+					<outline text="I did a new kind of example, more of a narrative, but it includes code that works. " created="Sun, 28 Nov 2021 17:00:04 GMT"/>
 					</outline>
 				<outline text="I just had a file overwrite here" created="Sun, 28 Nov 2021 16:36:26 GMT" type="outline">
 					<outline text="I wrote up what happened &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/127&quot;&gt;here&lt;/a&gt;. " created="Sun, 28 Nov 2021 16:36:33 GMT"/>
