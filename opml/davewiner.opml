@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 28 Nov 2021 00:49:37 GMT</dateModified>
+		<dateModified>Sun, 28 Nov 2021 07:24:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 28" type="calendarDay" name="28" >
+				<outline text="What we know about the Omicron variant. &lt;a href=&quot;https://www.cnn.com/2021/11/26/health/omicron-variant-what-we-know/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 28 Nov 2021 07:23:55 GMT" tweetId="1464857570066247681" urltweet="https://twitter.com/davewiner/status/1464857570066247681" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 27" type="calendarDay" name="27" >
 				<outline text="If first-graders are old enough to use racial slurs, they’re not ‘too young’ to learn about racism. &lt;a href=&quot;https://www.washingtonpost.com/opinions/2021/11/26/children-racial-slurs-teaching-about-racism/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjMxMzEzNDYzIiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTYzODA2MDUwOSwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTYzOTI3MDEwOSwiaWF0IjoxNjM4MDYwNTA5LCJqdGkiOiIzNzc2MGFiMi1iOWIzLTQ1OTYtYTA3MS0xYTc4NTFlZTE3YmIiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vb3BpbmlvbnMvMjAyMS8xMS8yNi9jaGlsZHJlbi1yYWNpYWwtc2x1cnMtdGVhY2hpbmctYWJvdXQtcmFjaXNtLyJ9.E4OmC9D6f7Wc8DDN0r3wlmuu5F2MzsLwOLN9CRF8KeE&amp;itid=gfta&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 28 Nov 2021 00:49:24 GMT" tweetId="1464758290471079944" urltweet="https://twitter.com/davewiner/status/1464758290471079944" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you could make an open Facebook without using carbon spewing blockchain tech why would you burn all that carbon? Do you care about the survival of our species?" type="tweet" created="Sun, 28 Nov 2021 00:36:27 GMT" tweetId="1464755029424979973" urltweet="https://twitter.com/davewiner/status/1464755029424979973" inReplyToId="" tweetUserName="davewiner" />
