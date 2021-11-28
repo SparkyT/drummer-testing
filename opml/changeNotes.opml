@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 28 Nov 2021 17:00:32 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 28 Nov 2021 22:13:17 GMT</dateModified>
+		<expansionState>1,2,3,9</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
@@ -30,6 +30,7 @@
 					</outline>
 				<outline text="I just had a file overwrite here" created="Sun, 28 Nov 2021 16:36:26 GMT" type="outline">
 					<outline text="I wrote up what happened &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/127&quot;&gt;here&lt;/a&gt;. " created="Sun, 28 Nov 2021 16:36:33 GMT"/>
+					<outline text="One reason I'm sharing it is that I was surprised that the problem appears not to have been caused by an instant outline updating, rather it may be connected to editing the Scripts menu. I'm wondering if people who experienced this kind of data loss are the kind of people who do that, or even know what it means to edit the Scripts menu. " created="Sun, 28 Nov 2021 22:12:07 GMT"/>
 					</outline>
 				<outline text="New optional param on op.getCursorOpml" created="Sun, 28 Nov 2021 15:04:44 GMT" type="outline">
 					<outline text="New boolean param determines whether or not the bar cursor headline is included in the OPML text it returns. " created="Sun, 28 Nov 2021 15:05:06 GMT"/>
