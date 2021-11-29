@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 29 Nov 2021 14:24:52 GMT</dateModified>
+		<dateModified>Mon, 29 Nov 2021 15:35:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 29" type="calendarDay" name="29" >
+				<outline text="CVS is closing 900 stores. &lt;a href=&quot;https://www.cnn.com/2021/11/18/investing/cvs-store-closures/index.html?fbclid=IwAR0ENYnoKymGsv7TbwhIhN46TrILaSrkJIpXTl2cXikHRTzgc1ZmIj2FcBo&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 15:35:45 GMT" tweetId="1465343733394776064" urltweet="https://twitter.com/davewiner/status/1465343733394776064" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Please don't mount your TV above the fireplace. &lt;a href=&quot;https://www.cnet.com/google-amp/news/please-dont-mount-your-tv-above-the-fireplace/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 14:23:56 GMT" tweetId="1465325659413262338" urltweet="https://twitter.com/davewiner/status/1465325659413262338" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I remember when a Republican president spent hundreds of millions of taxpayer dollars visiting his own resorts. Of course that was far from his worst abuse." type="tweet" created="Mon, 29 Nov 2021 14:20:51 GMT" tweetId="1465324882980446217" urltweet="https://twitter.com/davewiner/status/1465324882980446217" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Is omicron in the US already? &lt;a href=&quot;https://qz.com/2095601/is-omicron-in-the-us-already/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 14:13:40 GMT" tweetId="1465323078423035910" urltweet="https://twitter.com/davewiner/status/1465323078423035910" inReplyToId="" tweetUserName="davewiner" />
