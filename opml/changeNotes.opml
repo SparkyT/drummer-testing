@@ -14,12 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 28 Nov 2021 22:13:17 GMT</dateModified>
-		<expansionState>1,2,3,9</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Mon, 29 Nov 2021 16:07:40 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 29" created="Mon, 29 Nov 2021 16:06:43 GMT" type="calendarDay" name="29">
+				<outline text="Ken Booth on using CloudFront with Drummer" created="Mon, 29 Nov 2021 16:06:44 GMT" type="outline">
+					<outline text="&lt;a href=&quot;http://www.dailymiscellany.com/2021/11/29/153122.html?title=usingCloudfrontToSetUpCustomDomainForDrummer&quot;&gt;He writes&lt;/a&gt;: &quot;I was able to set up a reverse Proxy using AWS CloudFront. This is a pretty easy method for using a custom domain on a Drummer blog and doesn't require setting up a server.&quot;" created="Mon, 29 Nov 2021 16:07:03 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 28" created="Sun, 28 Nov 2021 15:04:43 GMT" type="calendarDay" name="28">
 				<outline text="New verb: opml.getMarkdown" created="Sun, 28 Nov 2021 16:57:30 GMT" type="outline">
 					<outline text="Here's the &lt;a href=&quot;http://docserver.scripting.com/?verb=opml.getMarkdown&quot;&gt;DocServer page&lt;/a&gt;." created="Sun, 28 Nov 2021 16:57:33 GMT"/>
