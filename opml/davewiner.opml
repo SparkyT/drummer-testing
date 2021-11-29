@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 29 Nov 2021 00:56:00 GMT</dateModified>
+		<dateModified>Mon, 29 Nov 2021 07:36:26 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
+			<outline text="November 29" type="calendarDay" name="29" >
+				<outline text="Humans have broken a fundamental law of the ocean. &lt;a href=&quot;https://arstechnica.com/science/2021/11/humans-have-broken-a-fundamental-law-of-the-ocean/?fbclid=IwAR1IYHlo6y5IdPzWW47mOKd_BAnL_RDIiy6sa3kkKpwj7y754QowrJMKdw0&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 07:35:53 GMT" tweetId="1465222969643487237" urltweet="https://twitter.com/davewiner/status/1465222969643487237" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="November 28" type="calendarDay" name="28" >
 				<outline text="The Lincoln Project’s expiration date was Election Day 2020. &lt;a href=&quot;https://www.politico.com/news/2021/11/28/lincoln-project-anymore-523409&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 00:55:38 GMT" tweetId="1465122243772436483" urltweet="https://twitter.com/davewiner/status/1465122243772436483" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="NYC Has Regained Three-Quarters Of Residents Who Fled During COVID. &lt;a href=&quot;https://gothamist.com/news/nyc-has-regained-three-quarters-residents-who-fled-during-covid-data-suggests&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 28 Nov 2021 19:49:15 GMT" tweetId="1465045142289723400" urltweet="https://twitter.com/davewiner/status/1465045142289723400" inReplyToId="" tweetUserName="davewiner" />
