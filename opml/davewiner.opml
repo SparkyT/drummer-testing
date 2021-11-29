@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 29 Nov 2021 13:06:47 GMT</dateModified>
+		<dateModified>Mon, 29 Nov 2021 14:13:51 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 29" type="calendarDay" name="29" >
+				<outline text="Is omicron in the US already? &lt;a href=&quot;https://qz.com/2095601/is-omicron-in-the-us-already/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 14:13:40 GMT" tweetId="1465323078423035910" urltweet="https://twitter.com/davewiner/status/1465323078423035910" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This should be in Drummer. &lt;a href=&quot;https://twitter.com/nodepractices/status/1465305808648949763&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 13:06:33 GMT" tweetId="1465306186488684548" urltweet="https://twitter.com/davewiner/status/1465306186488684548" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="What will US’s future look like if abortion becomes a crime again? &lt;a href=&quot;https://www.theguardian.com/us-news/2021/nov/29/us-abortion-supreme-court-roe-v-wade&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 08:49:56 GMT" tweetId="1465241607284969472" urltweet="https://twitter.com/davewiner/status/1465241607284969472" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Humans have broken a fundamental law of the ocean. &lt;a href=&quot;https://arstechnica.com/science/2021/11/humans-have-broken-a-fundamental-law-of-the-ocean/?fbclid=IwAR1IYHlo6y5IdPzWW47mOKd_BAnL_RDIiy6sa3kkKpwj7y754QowrJMKdw0&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 07:35:53 GMT" tweetId="1465222969643487237" urltweet="https://twitter.com/davewiner/status/1465222969643487237" inReplyToId="" tweetUserName="davewiner" />
