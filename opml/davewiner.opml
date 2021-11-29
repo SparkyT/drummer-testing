@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 29 Nov 2021 17:44:05 GMT</dateModified>
+		<dateModified>Mon, 29 Nov 2021 19:10:10 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 29" type="calendarDay" name="29" >
+				<outline text="MLB: Mets sign Max Scherzer in record $130M deal, per report. &lt;a href=&quot;https://sports.yahoo.com/report-mets-agree-to-deal-with-max-scherzer-make-biggest-splash-in-mlb-spending-frenzy-171122252.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 19:09:47 GMT" tweetId="1465397598139858944" urltweet="https://twitter.com/davewiner/status/1465397598139858944" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Jack Dorsey Has Stepped Down As Twitter CEO. &lt;a href=&quot;https://www.buzzfeednews.com/article/katienotopoulos/jack-dorsey-steps-down-as-twitter-ceo?bftwnews&amp;utm_term=4ldqpgc&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 17:43:50 GMT" tweetId="1465375966763622400" urltweet="https://twitter.com/davewiner/status/1465375966763622400" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="CVS is closing 900 stores. &lt;a href=&quot;https://www.cnn.com/2021/11/18/investing/cvs-store-closures/index.html?fbclid=IwAR0ENYnoKymGsv7TbwhIhN46TrILaSrkJIpXTl2cXikHRTzgc1ZmIj2FcBo&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 15:35:45 GMT" tweetId="1465343733394776064" urltweet="https://twitter.com/davewiner/status/1465343733394776064" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Please don't mount your TV above the fireplace. &lt;a href=&quot;https://www.cnet.com/google-amp/news/please-dont-mount-your-tv-above-the-fireplace/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 14:23:56 GMT" tweetId="1465325659413262338" urltweet="https://twitter.com/davewiner/status/1465325659413262338" inReplyToId="" tweetUserName="davewiner" />
