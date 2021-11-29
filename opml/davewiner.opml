@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 29 Nov 2021 21:32:19 GMT</dateModified>
+		<dateModified>Mon, 29 Nov 2021 22:05:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 29" type="calendarDay" name="29" >
+				<outline text="'Get Back' Is A How-To Manual For All Creatives. &lt;a href=&quot;https://www.grammy.com/grammys/news/the-beatles-get-back-peter-jackson-disney-plus-what-we-can-learn-about-let-it-be-sessions&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 22:04:30 GMT" tweetId="1465441566697435141" urltweet="https://twitter.com/davewiner/status/1465441566697435141" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The VP Harris frying pan kerfuffle is almost certainly the result of focus group testing, not old white guys being clueless, as my friend @espiers postulated earlier today.
 
 Here's my blog post. &lt;a href=&quot;https://twitter.com/davewiner/status/1465433460638720001/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 29 Nov 2021 21:32:18 GMT" tweetId="1465433460638720001" urltweet="https://twitter.com/davewiner/status/1465433460638720001" inReplyToId="" tweetUserName="davewiner" />
