@@ -14,14 +14,20 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 29 Nov 2021 21:56:49 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 30 Nov 2021 15:43:31 GMT</dateModified>
+		<expansionState>1,2,3,6,7</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 14:15:07 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 30" created="Tue, 30 Nov 2021 15:42:25 GMT" type="calendarDay" name="30">
+				<outline text="HTTPS and PagePark -- via Caddy" created="Tue, 30 Nov 2021 15:42:26 GMT" type="outline">
+					<outline text="Scott Hanson has been working on the connection between PP and HTTPS, via the remarkably simple Caddy server. " created="Tue, 30 Nov 2021 15:42:52 GMT"/>
+					<outline text="The &lt;a href=&quot;https://github.com/papascott/DrummerNotes/blob/main/caddy.md?fbclid=IwAR306VbSFPFTYERSoxad7ertbJYcxWBaJ0uQKgvAHT2kvzjfEUiH4LN9N1M&quot;&gt;docs&lt;/a&gt; are here. " created="Tue, 30 Nov 2021 15:43:20 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 29" created="Mon, 29 Nov 2021 16:06:43 GMT" type="calendarDay" name="29">
-				<outline text="A new project" created="Mon, 29 Nov 2021 21:56:02 GMT" type="outline">
+				<outline text="Daytona: A new project" created="Mon, 29 Nov 2021 21:56:02 GMT" type="outline">
 					<outline text="I have a new project in the works that hooks up to Drummer outlines (really any outlines in OPML) and puts all the items in a relational database and lets you do searches. I have a few applications in mind for this stuff. The codename of the project is Daytona. Coming soon to a theater near you. 😀" created="Mon, 29 Nov 2021 21:56:12 GMT"/>
 					</outline>
 				<outline text="Ken Booth on using CloudFront with Drummer" created="Mon, 29 Nov 2021 16:06:44 GMT" type="outline">
