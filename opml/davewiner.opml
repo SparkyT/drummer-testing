@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 30 Nov 2021 00:57:32 GMT</dateModified>
+		<dateModified>Tue, 30 Nov 2021 02:24:38 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 29" type="calendarDay" name="29" >
+				<outline text="I've been watching the series, slowly -- and it is amazing to hear these hits come to life, everyone contributes. And there are all these idiots buzzing around them, screwing it up. They lost their manager a year earlier. &lt;a href=&quot;https://twitter.com/tedgioia/status/1465049482933030913&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 30 Nov 2021 02:23:50 GMT" tweetId="1465506830159859718" urltweet="https://twitter.com/davewiner/status/1465506830159859718" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Watching the Beatles and these mediocre promoters, arguing with the Beatles, not listening to them.
 
 Reminds of yesterday’s Succesion party." type="tweet" created="Tue, 30 Nov 2021 00:57:05 GMT" tweetId="1465484995913465862" urltweet="https://twitter.com/davewiner/status/1465484995913465862" inReplyToId="" tweetUserName="davewiner" />
