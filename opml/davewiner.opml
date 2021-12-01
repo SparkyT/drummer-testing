@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 01 Dec 2021 12:26:49 GMT</dateModified>
+		<dateModified>Wed, 01 Dec 2021 12:29:49 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 1" type="calendarDay" name="01" >
+				<outline text="SP 500 Twitter Sentiment Index. #bizarre &lt;a href=&quot;https://developer.twitter.com/en/use-cases/build-for-businesses/sp-500-twitter-sentiment-index?ref=ps-tw-7014w000001mxomAAA&amp;utm_source=tw&amp;utm_medium=ps&amp;utm_campaign=7014w000001mxomAAA&amp;utm_content=websiteb&amp;twclid=11466020975494025219&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 01 Dec 2021 12:29:02 GMT" tweetId="1466021518861873152" urltweet="https://twitter.com/davewiner/status/1466021518861873152" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I’d love to see “Get Back” like video of Trump on Jan 6 while the Capitol attack was raging. Who did he call and what threats did he make." type="tweet" created="Wed, 01 Dec 2021 12:23:15 GMT" tweetId="1466020066126962695" urltweet="https://twitter.com/davewiner/status/1466020066126962695" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="The Beatles have been such an important part of my life going back to the 60s, but we knew so little about them,  compared to what’s revealed in “Get Back.” 
 
