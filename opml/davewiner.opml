@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 30 Nov 2021 19:36:44 GMT</dateModified>
+		<dateModified>Wed, 01 Dec 2021 00:13:02 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="November 2021" type="calendarMonth" name="november2021" >
 			<outline text="November 30" type="calendarDay" name="30" >
+				<outline text="Twitter bans sharing 'private' images and videos without consent. &lt;a href=&quot;https://www.engadget.com/twitter-private-photos-videos-personal-information-privacy-145228097.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly90ZWNobWVtZS5jb20v&amp;guce_referrer_sig=AQAAANstYLHwnTLB8xD_Ok5uQotAUermN_FLb2TMa1NPdznMnPNN1s7u90mws5OFHWpUSoe0kLc0bBWaEkoP7xKWyh2_bhIMe_gDxS5DxPdxTI_4awE1stm68JGsBDN8LkuCD9yv1gF8RUwwU6bb3bzEK2Y0hDG_w50v8ZSTt9KhupqN&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 01 Dec 2021 00:12:24 GMT" tweetId="1465836140997533697" urltweet="https://twitter.com/davewiner/status/1465836140997533697" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Concern over Twitter's messy new image-posting rules. &lt;a href=&quot;https://www.fastcompany.com/90701453/people-are-already-ripping-apart-twitters-messy-new-rules-about-tweeting-images?partner=feedburner&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=feedburner+fastcompany&amp;utm_content=feedburner&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 30 Nov 2021 19:36:18 GMT" tweetId="1465766655909404676" urltweet="https://twitter.com/davewiner/status/1465766655909404676" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="When will you watch &quot;Get Back&quot;?" type="tweet" created="Tue, 30 Nov 2021 15:29:08 GMT" tweetId="1465704456528400390" urltweet="https://twitter.com/davewiner/status/1465704456528400390" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Why the Beatles' 'Get Back' May Go Down as the Most Essential Rock Doc. &lt;a href=&quot;https://variety.com/2021/music/opinion/get-back-beatles-essential-rock-documentary-peter-jackson-1235120784/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 30 Nov 2021 14:20:06 GMT" tweetId="1465687083423518730" urltweet="https://twitter.com/davewiner/status/1465687083423518730" inReplyToId="" tweetUserName="davewiner" />
