@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 01 Dec 2021 06:29:26 GMT</dateModified>
+		<dateModified>Wed, 01 Dec 2021 12:26:49 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 1" type="calendarDay" name="01" >
+				<outline text="I’d love to see “Get Back” like video of Trump on Jan 6 while the Capitol attack was raging. Who did he call and what threats did he make." type="tweet" created="Wed, 01 Dec 2021 12:23:15 GMT" tweetId="1466020066126962695" urltweet="https://twitter.com/davewiner/status/1466020066126962695" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="The Beatles have been such an important part of my life going back to the 60s, but we knew so little about them,  compared to what’s revealed in “Get Back.” 
+
+It’s practically biblical.
+
+Makes you wonder what else is out there waiting 50 years fir the pieces to be put together." type="tweet" created="Wed, 01 Dec 2021 12:26:13 GMT" tweetId="1466020809760198656" urltweet="https://twitter.com/davewiner/status/1466020809760198656" inReplyToId="1466020066126962695" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Alice Cooper group on the making of 1971's 'Killer': An oral history. &lt;a href=&quot;https://www.azcentral.com/story/entertainment/music/2021/11/28/alice-cooper-group-making-1971-killer-oral-history/8764997002/?fbclid=IwAR3TYatZqlHb6-z1mDIEK1LsiTBccSmH2pL6DTio0-_pNJqLgRVgdG_bDzI&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 01 Dec 2021 06:28:58 GMT" tweetId="1465930906800201733" urltweet="https://twitter.com/davewiner/status/1465930906800201733" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			</outline>
