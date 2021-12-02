@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 01 Dec 2021 21:07:22 GMT</dateModified>
+		<dateModified>Thu, 02 Dec 2021 01:21:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 1" type="calendarDay" name="01" >
+				<outline text="Square is changing its name to Block. &lt;a href=&quot;https://techcrunch.com/2021/12/01/square-is-changing-its-name-to-block/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 02 Dec 2021 01:21:17 GMT" tweetId="1466215862231310348" urltweet="https://twitter.com/davewiner/status/1466215862231310348" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Stacey Abrams is running for Georgia governor in 2022. &lt;a href=&quot;https://www.ajc.com/politics/politics-blog/breaking-stacey-abrams-is-running-for-georgia-governor-in-2022/VRUXXJSQWBBAXAZQZV72FLP4LM/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 01 Dec 2021 21:06:43 GMT" tweetId="1466151800923430920" urltweet="https://twitter.com/davewiner/status/1466151800923430920" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I'm sure others have noticed that today is a symmetric day -- 12/1/21. It might be the last one in this century? Have to think about this. 😀" type="tweet" created="Wed, 01 Dec 2021 15:54:37 GMT" tweetId="1466073257111654403" urltweet="https://twitter.com/davewiner/status/1466073257111654403" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="SP 500 Twitter Sentiment Index. #bizarre &lt;a href=&quot;https://developer.twitter.com/en/use-cases/build-for-businesses/sp-500-twitter-sentiment-index?ref=ps-tw-7014w000001mxomAAA&amp;utm_source=tw&amp;utm_medium=ps&amp;utm_campaign=7014w000001mxomAAA&amp;utm_content=websiteb&amp;twclid=11466020975494025219&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 01 Dec 2021 12:29:02 GMT" tweetId="1466021518861873152" urltweet="https://twitter.com/davewiner/status/1466021518861873152" inReplyToId="" tweetUserName="davewiner" />
