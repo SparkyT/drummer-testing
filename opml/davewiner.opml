@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 03 Dec 2021 02:35:14 GMT</dateModified>
+		<dateModified>Fri, 03 Dec 2021 04:03:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 2" type="calendarDay" name="02" >
+				<outline text="About boxes from vintage Mac applications. &lt;a href=&quot;https://systemfolder.wordpress.com/2015/01/17/about-box/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 03 Dec 2021 04:02:19 GMT" tweetId="1466618778540777473" urltweet="https://twitter.com/davewiner/status/1466618778540777473" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Tesla needs to run Apple Car Play." type="tweet" created="Fri, 03 Dec 2021 02:25:27 GMT" tweetId="1466594398230106113" urltweet="https://twitter.com/davewiner/status/1466594398230106113" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Tesla doesn’t have an app ecosystem. This isn’t a competitive problem now, but if car manufacturers copy their design, with the entire UI on a screen, no hard dashboard, they could plug in Apple, or Google ecosystems." type="tweet" created="Fri, 03 Dec 2021 02:34:29 GMT" tweetId="1466596672452976641" urltweet="https://twitter.com/davewiner/status/1466596672452976641" inReplyToId="1466594398230106113" tweetUserName="davewiner" />
 					</outline>
