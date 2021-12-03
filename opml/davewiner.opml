@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 03 Dec 2021 14:18:00 GMT</dateModified>
+		<dateModified>Fri, 03 Dec 2021 15:06:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 3" type="calendarDay" name="03" >
+				<outline text="Tesla's missing app ecosystem. https://t.co/Rt9bFWqVfB" type="tweet" created="Fri, 03 Dec 2021 15:03:24 GMT" tweetId="1466785143813816324" urltweet="https://twitter.com/davewiner/status/1466785143813816324" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I like it when legislators think like legislators. &lt;a href=&quot;https://twitter.com/amyklobuchar/status/1466772361928220673&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 03 Dec 2021 14:17:31 GMT" tweetId="1466773596190171140" urltweet="https://twitter.com/davewiner/status/1466773596190171140" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Breyer’s questions during oral arguments over Roe played into conservatives’ hands. &lt;a href=&quot;https://slate.com/news-and-politics/2021/12/supreme-court-abortion-breyer-barrett-roberts.html?scrolla=5eb6d68b7fedc32c19ef33b4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 03 Dec 2021 12:37:59 GMT" tweetId="1466748547139833856" urltweet="https://twitter.com/davewiner/status/1466748547139833856" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Amid narcotics reform, Thai cooks replace MSG with cannabis. &lt;a href=&quot;https://theworld.org/stories/2021-04-23/amid-narcotics-reform-thai-cooks-replace-msg-cannabis&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 03 Dec 2021 09:58:53 GMT" tweetId="1466708508263710720" urltweet="https://twitter.com/davewiner/status/1466708508263710720" inReplyToId="" tweetUserName="davewiner" />
@@ -18,7 +19,11 @@
 			<outline text="December 2" type="calendarDay" name="02" >
 				<outline text="About boxes from vintage Mac applications. &lt;a href=&quot;https://systemfolder.wordpress.com/2015/01/17/about-box/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 03 Dec 2021 04:02:19 GMT" tweetId="1466618778540777473" urltweet="https://twitter.com/davewiner/status/1466618778540777473" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Tesla needs to run Apple Car Play." type="tweet" created="Fri, 03 Dec 2021 02:25:27 GMT" tweetId="1466594398230106113" urltweet="https://twitter.com/davewiner/status/1466594398230106113" inReplyToId="" tweetUserName="davewiner" >
-					<outline text="Tesla doesn’t have an app ecosystem. This isn’t a competitive problem now, but if car manufacturers copy their design, with the entire UI on a screen, no hard dashboard, they could plug in Apple, or Google ecosystems." type="tweet" created="Fri, 03 Dec 2021 02:34:29 GMT" tweetId="1466596672452976641" urltweet="https://twitter.com/davewiner/status/1466596672452976641" inReplyToId="1466594398230106113" tweetUserName="davewiner" />
+					<outline text="Tesla doesn’t have an app ecosystem. This isn’t a competitive problem now, but if car manufacturers copy their design, with the entire UI on a screen, no hard dashboard, they could plug in Apple, or Google ecosystems." type="tweet" created="Fri, 03 Dec 2021 02:34:29 GMT" tweetId="1466596672452976641" urltweet="https://twitter.com/davewiner/status/1466596672452976641" inReplyToId="1466594398230106113" tweetUserName="davewiner" >
+						<outline text="Here's the blog post that explains.
+
+https://t.co/Rt9bFWqVfB" type="tweet" created="Fri, 03 Dec 2021 14:48:40 GMT" tweetId="1466781435424034821" urltweet="https://twitter.com/davewiner/status/1466781435424034821" inReplyToId="1466596672452976641" tweetUserName="davewiner" />
+						</outline>
 					</outline>
 				<outline text="I think Craft is an outliner. Someone ought to keep a good updated and detailed list of how the products compare, and please include Drummer. Thanks! :-) &lt;a href=&quot;https://www.craft.do/s/lEjdSXBpq9jSgg&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 02 Dec 2021 16:50:42 GMT" tweetId="1466449758411800581" urltweet="https://twitter.com/davewiner/status/1466449758411800581" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Wonderful World of Robert Crumb is a Facebook group that's endlessly inspiring, funny and nostalgic.  &lt;a href=&quot;https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2096244853754287%2F&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 02 Dec 2021 16:48:45 GMT" tweetId="1466449267770335235" urltweet="https://twitter.com/davewiner/status/1466449267770335235" inReplyToId="" tweetUserName="davewiner" />
