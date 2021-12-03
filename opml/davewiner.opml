@@ -6,11 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 02 Dec 2021 16:51:37 GMT</dateModified>
+		<dateModified>Fri, 03 Dec 2021 02:35:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 2" type="calendarDay" name="02" >
+				<outline text="Tesla needs to run Apple Car Play." type="tweet" created="Fri, 03 Dec 2021 02:25:27 GMT" tweetId="1466594398230106113" urltweet="https://twitter.com/davewiner/status/1466594398230106113" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Tesla doesn’t have an app ecosystem. This isn’t a competitive problem now, but if car manufacturers copy their design, with the entire UI on a screen, no hard dashboard, they could plug in Apple, or Google ecosystems." type="tweet" created="Fri, 03 Dec 2021 02:34:29 GMT" tweetId="1466596672452976641" urltweet="https://twitter.com/davewiner/status/1466596672452976641" inReplyToId="1466594398230106113" tweetUserName="davewiner" />
+					</outline>
 				<outline text="I think Craft is an outliner. Someone ought to keep a good updated and detailed list of how the products compare, and please include Drummer. Thanks! :-) &lt;a href=&quot;https://www.craft.do/s/lEjdSXBpq9jSgg&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 02 Dec 2021 16:50:42 GMT" tweetId="1466449758411800581" urltweet="https://twitter.com/davewiner/status/1466449758411800581" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The Wonderful World of Robert Crumb is a Facebook group that's endlessly inspiring, funny and nostalgic.  &lt;a href=&quot;https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2096244853754287%2F&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 02 Dec 2021 16:48:45 GMT" tweetId="1466449267770335235" urltweet="https://twitter.com/davewiner/status/1466449267770335235" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="After watching just part of Get Back, I get so much more meaning from the video of the band playing Don't Let Me Down on the roof. What if they had stuck together and did shows like this whenever they had a new song? &lt;a href=&quot;https://www.youtube.com/watch?v=NCtzkaL2t_Y&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 02 Dec 2021 16:05:02 GMT" tweetId="1466438268451540994" urltweet="https://twitter.com/davewiner/status/1466438268451540994" inReplyToId="" tweetUserName="davewiner" />
