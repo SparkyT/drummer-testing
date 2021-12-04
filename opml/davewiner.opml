@@ -6,11 +6,24 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 04 Dec 2021 15:16:36 GMT</dateModified>
+		<dateModified>Sat, 04 Dec 2021 15:35:37 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 4" type="calendarDay" name="04" >
+				<outline text="Doc Searls: Remembering Kim Cameron. &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/12/03/remembering-kim-cameron/?fbclid=IwAR1mXqNOAInqYAbRSj5vRwTrAkaV64GkFM1urRpGY_KKDpOgcBRJsnmeQHE&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 04 Dec 2021 15:34:57 GMT" tweetId="1467155471089950721" urltweet="https://twitter.com/davewiner/status/1467155471089950721" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Twitter Blue is a user-hostile thing.
+
+I have lost so many tweets that way. 
+
+It has this ridiculous undo feature that requires you babysit a tweet, if you don't (apparently) it gets deleted?
+
+I paid $ for this!
+
+And I tried to turn it off and it didn't.
+
+Twitter, no good!" type="tweet" created="Sat, 04 Dec 2021 15:29:08 GMT" tweetId="1467154006225178628" urltweet="https://twitter.com/davewiner/status/1467154006225178628" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="My Tesla endorsement: I haven't had a car that was this much fun to drive since I had a Mazda Miata in the early 90s." type="tweet" created="Sat, 04 Dec 2021 15:19:58 GMT" tweetId="1467151700242882563" urltweet="https://twitter.com/davewiner/status/1467151700242882563" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This is why listening to users is so important. 
 
 Sometimes they give you the idea that puts your product over the top.
