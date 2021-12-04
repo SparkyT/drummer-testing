@@ -6,11 +6,21 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 04 Dec 2021 15:51:38 GMT</dateModified>
+		<dateModified>Sat, 04 Dec 2021 18:41:48 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 4" type="calendarDay" name="04" >
+				<outline text="Andrew Sullivan wrote a piece where he wonders why men don't have much at stake in abortion as women.
+
+This is like imho &quot;all lives matter.&quot;
+
+Fact: You and I have already been born, not aborted, so we do not have a personal interest in abortion.
+
+Thanks for listening." type="tweet" created="Sat, 04 Dec 2021 18:38:15 GMT" tweetId="1467201599919607809" urltweet="https://twitter.com/davewiner/status/1467201599919607809" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Does your mouse have a scroll wheel? Do you use it?" type="tweet" created="Sat, 04 Dec 2021 18:34:28 GMT" tweetId="1467200646852096002" urltweet="https://twitter.com/davewiner/status/1467200646852096002" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="The reason I wondered is that I got a new Chromebook and there's no way to get it to reliably display vertical scrollbars, so I had to get a mouse and it had a scroll wheel and I like it, so now I want one for my Mac desktop which doesn't have a scroll wheel." type="tweet" created="Sat, 04 Dec 2021 18:40:52 GMT" tweetId="1467202257183821831" urltweet="https://twitter.com/davewiner/status/1467202257183821831" inReplyToId="1467200646852096002" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Do you think the United States should pay reparations to descendants of slaves?" type="tweet" created="Sat, 04 Dec 2021 15:51:15 GMT" tweetId="1467159571726802949" urltweet="https://twitter.com/davewiner/status/1467159571726802949" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Doc Searls: Remembering Kim Cameron. &lt;a href=&quot;https://blogs.harvard.edu/doc/2021/12/03/remembering-kim-cameron/?fbclid=IwAR1mXqNOAInqYAbRSj5vRwTrAkaV64GkFM1urRpGY_KKDpOgcBRJsnmeQHE&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 04 Dec 2021 15:34:57 GMT" tweetId="1467155471089950721" urltweet="https://twitter.com/davewiner/status/1467155471089950721" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Twitter Blue is a user-hostile thing.
