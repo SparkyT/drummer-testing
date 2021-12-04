@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 04 Dec 2021 19:30:52 GMT</dateModified>
+		<dateModified>Sat, 04 Dec 2021 20:17:04 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 4" type="calendarDay" name="04" >
+				<outline text="Western U.S. could become nearly snowless due to climate change. &lt;a href=&quot;https://www.washingtonpost.com/weather/2021/12/03/snow-water-resources-california/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 04 Dec 2021 20:16:48 GMT" tweetId="1467226400134422528" urltweet="https://twitter.com/davewiner/status/1467226400134422528" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Trump social media group raises $1 billion from undisclosed investors. &lt;a href=&quot;https://www.axios.com/trump-social-media-group-raises-1-billion-undisclosed-investors-798f947c-cdd6-416e-bb10-bf537087a4c9.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 04 Dec 2021 19:29:54 GMT" tweetId="1467214598063509508" urltweet="https://twitter.com/davewiner/status/1467214598063509508" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Andrew Sullivan wrote a piece where he wonders why men don't have much at stake in abortion as women.
 
