@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 05 Dec 2021 02:23:18 GMT</dateModified>
+		<dateModified>Sun, 05 Dec 2021 09:58:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
+			<outline text="December 5" type="calendarDay" name="05" >
+				<outline text="Kingston, N.Y.: A Historic Hudson City ‘Preparing for Better Opportunities’. &lt;a href=&quot;https://www.nytimes.com/2021/12/01/realestate/kingston-ny-a-historic-hudson-city-preparing-for-better-opportunities.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohlSlUbAibPUNEjowaajOTCh789gHDlMC-TDDBTiu1QA4mb50DXZKEmZ8Y_xDOdAdRALK5qXOZ_1uZFPkpiDgevuN6OlYgZLj9wrpqrWXkqwpTMQbE16nnqcmy9Yq9Z9&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 05 Dec 2021 09:57:51 GMT" tweetId="1467433025097154562" urltweet="https://twitter.com/davewiner/status/1467433025097154562" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="December 4" type="calendarDay" name="04" >
 				<outline text="Facing Economic Collapse, Afghanistan Is Gripped by Starvation. &lt;a href=&quot;https://www.nytimes.com/2021/12/04/world/asia/afghanistan-starvation-crisis.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 05 Dec 2021 02:22:18 GMT" tweetId="1467318380910854145" urltweet="https://twitter.com/davewiner/status/1467318380910854145" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Western U.S. could become nearly snowless due to climate change. &lt;a href=&quot;https://www.washingtonpost.com/weather/2021/12/03/snow-water-resources-california/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 04 Dec 2021 20:16:48 GMT" tweetId="1467226400134422528" urltweet="https://twitter.com/davewiner/status/1467226400134422528" inReplyToId="" tweetUserName="davewiner" />
