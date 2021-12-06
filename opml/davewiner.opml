@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 06 Dec 2021 18:48:01 GMT</dateModified>
+		<dateModified>Mon, 06 Dec 2021 18:54:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 6" type="calendarDay" name="06" >
+				<outline text="&lt;a href=&quot;https://micro.blog/&quot;&gt;[link]&lt;/a&gt; now has email newsletter subscriptions. https://t.co/44ICcgniOC" type="tweet" created="Mon, 06 Dec 2021 18:53:59 GMT" tweetId="1467930337032511490" urltweet="https://twitter.com/davewiner/status/1467930337032511490" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Right wing builds its own echo chamber. &lt;a href=&quot;https://www.axios.com/conservative-social-media-crypto-publishing-internet-56a77cbd-89c6-480a-a8a4-6092b7eea481.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 18:52:30 GMT" tweetId="1467929961625538561" urltweet="https://twitter.com/davewiner/status/1467929961625538561" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Nurses are leaving staff jobs during covid and tripling salaries to travel. &lt;a href=&quot;https://www.washingtonpost.com/health/covid-travel-nurses/2021/12/05/550b15fc-4c71-11ec-a1b9-9f12bd39487a_story.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 18:47:41 GMT" tweetId="1467928748708225036" urltweet="https://twitter.com/davewiner/status/1467928748708225036" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="In journalism there's conventional wisdom and there's what everyone knows.
 
