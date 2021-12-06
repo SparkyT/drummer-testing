@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 06 Dec 2021 02:24:50 GMT</dateModified>
+		<dateModified>Mon, 06 Dec 2021 03:35:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 5" type="calendarDay" name="05" >
+				<outline text="What good is blockchain if the earth is uninhabitable by humans." type="tweet" created="Mon, 06 Dec 2021 03:35:28 GMT" tweetId="1467699183083741196" urltweet="https://twitter.com/davewiner/status/1467699183083741196" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Does the Twitter CEO’s departure signal a platform identity crisis?  &lt;a href=&quot;https://www.theguardian.com/commentisfree/2021/dec/04/does-the-twitter-ceos-departure-signal-a-platform-identity-crisis&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 02:24:22 GMT" tweetId="1467681292439502855" urltweet="https://twitter.com/davewiner/status/1467681292439502855" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Redistricting Has Maintained The Status Quo So Far. That’s Good For Republicans. &lt;a href=&quot;https://fivethirtyeight.com/features/redistricting-has-maintained-the-status-quo-so-far-thats-good-for-republicans/?ex_cid=538twitter&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 05 Dec 2021 23:22:33 GMT" tweetId="1467635535812378629" urltweet="https://twitter.com/davewiner/status/1467635535812378629" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Someday maybe the NYT will run an article about men that isn’t written by a woman. &lt;a href=&quot;https://www.nytimes.com/2021/12/04/opinion/josh-hawley-republican-manliness.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 05 Dec 2021 20:26:30 GMT" tweetId="1467591229454045194" urltweet="https://twitter.com/davewiner/status/1467591229454045194" inReplyToId="" tweetUserName="davewiner" />
