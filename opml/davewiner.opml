@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 06 Dec 2021 21:36:03 GMT</dateModified>
+		<dateModified>Mon, 06 Dec 2021 22:58:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 6" type="calendarDay" name="06" >
+				<outline text="Web2 vs Web3. &lt;a href=&quot;https://ethereum.org/en/developers/docs/web2-vs-web3/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 22:57:31 GMT" tweetId="1467991621212024838" urltweet="https://twitter.com/davewiner/status/1467991621212024838" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The front page of the NYT on the day I was born. &lt;a href=&quot;https://twitter.com/davewiner/status/1467970969839050762/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 21:35:27 GMT" tweetId="1467970969839050762" urltweet="https://twitter.com/davewiner/status/1467970969839050762" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="My one-tweet manifesto for users of note-taking outliners. &lt;a href=&quot;https://twitter.com/davewiner/status/1467875330216112128&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 19:41:46 GMT" tweetId="1467942360608870418" urltweet="https://twitter.com/davewiner/status/1467942360608870418" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="DOJ sues Texas over redistricting plans. &lt;a href=&quot;https://www.axios.com/doj-sues-texas-voting-rights-redistricting-3ff3e7be-fdf6-484c-8c3f-ac9548514fdd.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=editorial&amp;utm_content=politics-dojtexas&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 19:24:10 GMT" tweetId="1467937929481883649" urltweet="https://twitter.com/davewiner/status/1467937929481883649" inReplyToId="" tweetUserName="davewiner" />
