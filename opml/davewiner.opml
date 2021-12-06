@@ -6,14 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 06 Dec 2021 12:30:37 GMT</dateModified>
+		<dateModified>Mon, 06 Dec 2021 13:05:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 6" type="calendarDay" name="06" >
+				<outline text="How Donald Trump Could Subvert the 2024 Election. &lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2022/01/january-6-insurrection-trump-coup-2024-election/620843/?scrolla=5eb6d68b7fedc32c19ef33b4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 13:05:24 GMT" tweetId="1467842612426067972" urltweet="https://twitter.com/davewiner/status/1467842612426067972" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Following Trump’s reckless coronavirus trail. &lt;a href=&quot;https://www.washingtonpost.com/politics/trump-coronavirus-positive/2021/12/05/b1a55fda-544f-11ec-8927-c396fa861a71_story.html?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjMxMzEzNDYzIiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTYzODc5Mzc0NiwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY0MDAwMzM0NiwiaWF0IjoxNjM4NzkzNzQ2LCJqdGkiOiIwNGNkNzM2Yy0yNzNiLTQ0YjEtOWVlZS0yZmIzY2YyYTk2NzciLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvdHJ1bXAtY29yb25hdmlydXMtcG9zaXRpdmUvMjAyMS8xMi8wNS9iMWE1NWZkYS01NDRmLTExZWMtODkyNy1jMzk2ZmE4NjFhNzFfc3RvcnkuaHRtbCJ9.PTXHi7RbibV6TVOKzXm_xla21lFIh4978g0LDRru9SY&amp;itid=gfta&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 12:29:53 GMT" tweetId="1467833675471540228" urltweet="https://twitter.com/davewiner/status/1467833675471540228" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Web3 is Bullshit. &lt;a href=&quot;https://www.stephendiehl.com/blog/web3-bullshit.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 12:14:30 GMT" tweetId="1467829801843142660" urltweet="https://twitter.com/davewiner/status/1467829801843142660" inReplyToId="" tweetUserName="davewiner" >
-					<outline text="We should at least insist that they stop using the name “web“until they prove that there’s something of value to withstand they’re doing that has something to do with the actual web." type="tweet" created="Mon, 06 Dec 2021 12:15:52 GMT" tweetId="1467830144379273218" urltweet="https://twitter.com/davewiner/status/1467830144379273218" inReplyToId="1467829801843142660" tweetUserName="davewiner" />
+					<outline text="We should at least insist that they stop using the name “web“until they prove that there’s something of value to withstand they’re doing that has something to do with the actual web." type="tweet" created="Mon, 06 Dec 2021 12:15:52 GMT" tweetId="1467830144379273218" urltweet="https://twitter.com/davewiner/status/1467830144379273218" inReplyToId="1467829801843142660" tweetUserName="davewiner" >
+						<outline text="“Withstand” 👉 “what”" type="tweet" created="Mon, 06 Dec 2021 13:01:46 GMT" tweetId="1467841696893489158" urltweet="https://twitter.com/davewiner/status/1467841696893489158" inReplyToId="1467830144379273218" tweetUserName="davewiner" />
+						</outline>
 					</outline>
 				</outline>
 			<outline text="December 5" type="calendarDay" name="05" >
