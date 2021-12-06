@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 06 Dec 2021 18:13:50 GMT</dateModified>
+		<dateModified>Mon, 06 Dec 2021 18:48:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 6" type="calendarDay" name="06" >
+				<outline text="Nurses are leaving staff jobs during covid and tripling salaries to travel. &lt;a href=&quot;https://www.washingtonpost.com/health/covid-travel-nurses/2021/12/05/550b15fc-4c71-11ec-a1b9-9f12bd39487a_story.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 18:47:41 GMT" tweetId="1467928748708225036" urltweet="https://twitter.com/davewiner/status/1467928748708225036" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="In journalism there's conventional wisdom and there's what everyone knows.
 
 Sometimes they are at odds.
