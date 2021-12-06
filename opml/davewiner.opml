@@ -6,10 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 06 Dec 2021 03:35:54 GMT</dateModified>
+		<dateModified>Mon, 06 Dec 2021 12:16:28 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
+			<outline text="December 6" type="calendarDay" name="06" >
+				<outline text="Web3 is Bullshit. &lt;a href=&quot;https://www.stephendiehl.com/blog/web3-bullshit.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 12:14:30 GMT" tweetId="1467829801843142660" urltweet="https://twitter.com/davewiner/status/1467829801843142660" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="We should at least insist that they stop using the name “web“until they prove that there’s something of value to withstand they’re doing that has something to do with the actual web." type="tweet" created="Mon, 06 Dec 2021 12:15:52 GMT" tweetId="1467830144379273218" urltweet="https://twitter.com/davewiner/status/1467830144379273218" inReplyToId="1467829801843142660" tweetUserName="davewiner" />
+					</outline>
+				</outline>
 			<outline text="December 5" type="calendarDay" name="05" >
 				<outline text="What good is blockchain if the earth is uninhabitable by humans." type="tweet" created="Mon, 06 Dec 2021 03:35:28 GMT" tweetId="1467699183083741196" urltweet="https://twitter.com/davewiner/status/1467699183083741196" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Does the Twitter CEO’s departure signal a platform identity crisis?  &lt;a href=&quot;https://www.theguardian.com/commentisfree/2021/dec/04/does-the-twitter-ceos-departure-signal-a-platform-identity-crisis&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 06 Dec 2021 02:24:22 GMT" tweetId="1467681292439502855" urltweet="https://twitter.com/davewiner/status/1467681292439502855" inReplyToId="" tweetUserName="davewiner" />
