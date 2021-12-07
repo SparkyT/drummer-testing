@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 07 Dec 2021 19:17:27 GMT</dateModified>
+		<dateModified>Tue, 07 Dec 2021 19:54:30 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 7" type="calendarDay" name="07" >
+				<outline text="Inside Tesla: How Elon Musk Pushed His Vision for Autopilot. &lt;a href=&quot;https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 19:53:37 GMT" tweetId="1468307730574331909" urltweet="https://twitter.com/davewiner/status/1468307730574331909" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Twitter buys up (and shuts down) Slack competitor Quill. &lt;a href=&quot;https://9to5mac.com/2021/12/07/twitter-buys-up-and-shuts-down-slack-competitor-quill/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 19:17:19 GMT" tweetId="1468298597280239623" urltweet="https://twitter.com/davewiner/status/1468298597280239623" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A New Tesla Safety Concern: Drivers Can Play Video Games in Moving Cars. &lt;a href=&quot;https://www.nytimes.com/2021/12/07/business/tesla-video-game-driving.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 18:14:45 GMT" tweetId="1468282849111560193" urltweet="https://twitter.com/davewiner/status/1468282849111560193" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="If you're a #toolsforthought person here's an example of a blogger who shares her list of favorite blogs in both Markdown and OPML. I know a lot of you haven't heard about OPML, but it is the standard for subscription lists of feeds. 
