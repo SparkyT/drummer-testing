@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 07 Dec 2021 19:54:30 GMT</dateModified>
+		<dateModified>Tue, 07 Dec 2021 22:51:41 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 7" type="calendarDay" name="07" >
+				<outline text="I need a regex that searches for abc and replaces it with  
+
+&amp;lt;span&amp;gt;Abc&amp;lt;span&amp;gt;
+
+it  must  be  case  insensitive,  and  the  string  abc  must  match  the  case  of  the  string  in  the  source  text." type="tweet" created="Tue, 07 Dec 2021 22:51:27 GMT" tweetId="1468352485094047746" urltweet="https://twitter.com/davewiner/status/1468352485094047746" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Inside Tesla: How Elon Musk Pushed His Vision for Autopilot. &lt;a href=&quot;https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 19:53:37 GMT" tweetId="1468307730574331909" urltweet="https://twitter.com/davewiner/status/1468307730574331909" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Twitter buys up (and shuts down) Slack competitor Quill. &lt;a href=&quot;https://9to5mac.com/2021/12/07/twitter-buys-up-and-shuts-down-slack-competitor-quill/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 19:17:19 GMT" tweetId="1468298597280239623" urltweet="https://twitter.com/davewiner/status/1468298597280239623" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A New Tesla Safety Concern: Drivers Can Play Video Games in Moving Cars. &lt;a href=&quot;https://www.nytimes.com/2021/12/07/business/tesla-video-game-driving.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 18:14:45 GMT" tweetId="1468282849111560193" urltweet="https://twitter.com/davewiner/status/1468282849111560193" inReplyToId="" tweetUserName="davewiner" />
