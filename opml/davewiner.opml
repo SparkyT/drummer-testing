@@ -6,13 +6,29 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 08 Dec 2021 16:24:49 GMT</dateModified>
+		<dateModified>Wed, 08 Dec 2021 16:31:50 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 8" type="calendarDay" name="08" >
 				<outline text="Probably the worst thing to happen to the web is the gradual degradation of Google's search engine." type="tweet" created="Wed, 08 Dec 2021 15:22:50 GMT" tweetId="1468601971670237185" urltweet="https://twitter.com/davewiner/status/1468601971670237185" inReplyToId="" tweetUserName="davewiner" >
-					<outline text="Ever since I started in tech, I assumed everyone was at least trying to move forward. Then it hit me, quite the opposite. The biggest companies monetize the de-upgrading of tech. It's about as evil as it gets." type="tweet" created="Wed, 08 Dec 2021 16:24:42 GMT" tweetId="1468617541912305664" urltweet="https://twitter.com/davewiner/status/1468617541912305664" inReplyToId="1468601971670237185" tweetUserName="davewiner" />
+					<outline text="Ever since I started in tech, I assumed everyone was at least trying to move forward. Then it hit me, quite the opposite. The biggest companies monetize the de-upgrading of tech. It's about as evil as it gets." type="tweet" created="Wed, 08 Dec 2021 16:24:42 GMT" tweetId="1468617541912305664" urltweet="https://twitter.com/davewiner/status/1468617541912305664" inReplyToId="1468601971670237185" tweetUserName="davewiner" >
+						<outline text="Reminds me of that great Dale Bumpers interpretation of the great HL Mencken saying during Clinton's impeachment.
+
+When they say it's not about money, it's about money.
+
+When they say it's not about sex, it's about sex.
+
+When they say don't be evil, they're being evil." type="tweet" created="Wed, 08 Dec 2021 16:27:13 GMT" tweetId="1468618175449337862" urltweet="https://twitter.com/davewiner/status/1468618175449337862" inReplyToId="1468617541912305664" tweetUserName="davewiner" >
+							<outline text="Here's the Bumpers speech. It's great. 
+
+&lt;a href=&quot;https://www.c-span.org/video/?118981-101/senator-dale-bumpers-defense-president-clinton&amp;event=118981&amp;playEvent&quot;&gt;[link]&lt;/a&gt;
+
+And here's the exact quote.
+
+https://t.co/L3P3Hc6yCH" type="tweet" created="Wed, 08 Dec 2021 16:30:56 GMT" tweetId="1468619111852920835" urltweet="https://twitter.com/davewiner/status/1468619111852920835" inReplyToId="1468618175449337862" tweetUserName="davewiner" />
+							</outline>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="December 7" type="calendarDay" name="07" >
