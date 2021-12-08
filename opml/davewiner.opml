@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 08 Dec 2021 16:31:50 GMT</dateModified>
+		<dateModified>Wed, 08 Dec 2021 17:18:53 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 8" type="calendarDay" name="08" >
+				<outline text="Font Awesome v6 Beta. &lt;a href=&quot;https://fontawesome.com/v6.0?utm_source=ea&amp;utm_medium=email&amp;utm_campaign=v6-coming&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 08 Dec 2021 17:18:14 GMT" tweetId="1468631013593075715" urltweet="https://twitter.com/davewiner/status/1468631013593075715" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Probably the worst thing to happen to the web is the gradual degradation of Google's search engine." type="tweet" created="Wed, 08 Dec 2021 15:22:50 GMT" tweetId="1468601971670237185" urltweet="https://twitter.com/davewiner/status/1468601971670237185" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Ever since I started in tech, I assumed everyone was at least trying to move forward. Then it hit me, quite the opposite. The biggest companies monetize the de-upgrading of tech. It's about as evil as it gets." type="tweet" created="Wed, 08 Dec 2021 16:24:42 GMT" tweetId="1468617541912305664" urltweet="https://twitter.com/davewiner/status/1468617541912305664" inReplyToId="1468601971670237185" tweetUserName="davewiner" >
 						<outline text="Reminds me of that great Dale Bumpers interpretation of the great HL Mencken saying during Clinton's impeachment.
