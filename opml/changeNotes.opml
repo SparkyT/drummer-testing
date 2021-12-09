@@ -14,12 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 04 Dec 2021 22:08:56 GMT</dateModified>
-		<expansionState>1,2,3,8</expansionState>
-		<lastCursor>0</lastCursor>
+		<dateModified>Thu, 09 Dec 2021 23:05:26 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 9" created="Thu, 09 Dec 2021 23:02:04 GMT" type="calendarDay" name="09">
+				<outline text="Something new!" created="Thu, 09 Dec 2021 23:02:05 GMT" type="outline">
+					<outline text="It's not every day you get a new top-level &lt;a href=&quot;http://docserver.scripting.com/drummer/search.opml&quot;&gt;Drummer doc&lt;/a&gt;. " created="Thu, 09 Dec 2021 23:02:10 GMT"/>
+					<outline text="Questions, comments, kudos and love go &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/128&quot;&gt;here&lt;/a&gt;. ❤️" created="Thu, 09 Dec 2021 23:04:51 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 4" created="Sat, 04 Dec 2021 22:03:28 GMT" type="calendarDay" name="04">
 				<outline text="Fixed bug in File/New" created="Sat, 04 Dec 2021 22:03:42 GMT" type="outline">
 					<outline text="If you tried to create a new file but had no public files, the creation would fail. " created="Sat, 04 Dec 2021 22:03:49 GMT"/>
