@@ -6,11 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 10 Dec 2021 22:14:16 GMT</dateModified>
+		<dateModified>Fri, 10 Dec 2021 22:33:17 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 10" type="calendarDay" name="10" >
+				<outline text="This is the cutest picture I've seen in a long time. ;-) &lt;a href=&quot;https://twitter.com/mollyfication/status/1469432138449793028&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 10 Dec 2021 22:32:51 GMT" tweetId="1469434966635393045" urltweet="https://twitter.com/davewiner/status/1469434966635393045" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Daytona plus any OPML-compatible outliners, will make an incredible information tool for lawyers, scientists, all kinds of researchers. 
+
+https://t.co/sSKhjI9XQ9" type="tweet" created="Fri, 10 Dec 2021 22:16:43 GMT" tweetId="1469430904863010827" urltweet="https://twitter.com/davewiner/status/1469430904863010827" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I was telling friends in 2016, as the election was getting closer, that if Trump won, there was no way President Obama would let the transition take place." type="tweet" created="Fri, 10 Dec 2021 22:13:29 GMT" tweetId="1469430094938755081" urltweet="https://twitter.com/davewiner/status/1469430094938755081" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The official Daytona docs.
 
