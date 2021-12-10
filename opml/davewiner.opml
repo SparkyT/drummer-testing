@@ -6,7 +6,7 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 10 Dec 2021 11:55:36 GMT</dateModified>
+		<dateModified>Fri, 10 Dec 2021 14:48:47 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
@@ -73,7 +73,11 @@ https://t.co/L3P3Hc6yCH" type="tweet" created="Wed, 08 Dec 2021 16:30:56 GMT" tw
 
 it  must  be  case  insensitive,  and  the  string  abc  must  match  the  case  of  the  string  in  the  source  text." type="tweet" created="Tue, 07 Dec 2021 22:51:27 GMT" tweetId="1468352485094047746" urltweet="https://twitter.com/davewiner/status/1468352485094047746" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="I got it working. I ended up using a feature that JS in the browser has, you can specify a function to determine the substitution string, and its first param is the string that was matched. &lt;a href=&quot;https://twitter.com/davewiner/status/1468606014056456194/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 08 Dec 2021 15:38:53 GMT" tweetId="1468606014056456194" urltweet="https://twitter.com/davewiner/status/1468606014056456194" inReplyToId="1468352485094047746" tweetUserName="davewiner" >
-						<outline text="Next question, suppose I want this search to not apply to matches inside HTML elements. So it wouldn’t find abc in this string &amp;lt;a href=“&lt;a href=&quot;https://abc.com/&quot;&gt;[link]&lt;/a&gt;“&amp;gt; but it would find it when not in angle https://t.co/qxLHML6iFh seems to me this is something regex can do?" type="tweet" created="Fri, 10 Dec 2021 00:19:05 GMT" tweetId="1469099314920267779" urltweet="https://twitter.com/davewiner/status/1469099314920267779" inReplyToId="1468606014056456194" tweetUserName="davewiner" />
+						<outline text="Next question, suppose I want this search to not apply to matches inside HTML elements. So it wouldn’t find abc in this string &amp;lt;a href=“&lt;a href=&quot;https://abc.com/&quot;&gt;[link]&lt;/a&gt;“&amp;gt; but it would find it when not in angle https://t.co/qxLHML6iFh seems to me this is something regex can do?" type="tweet" created="Fri, 10 Dec 2021 00:19:05 GMT" tweetId="1469099314920267779" urltweet="https://twitter.com/davewiner/status/1469099314920267779" inReplyToId="1468606014056456194" tweetUserName="davewiner" >
+							<outline text="My next Regex query, more carefully written up.
+
+&lt;a href=&quot;https://github.com/scripting/Scripting-News/issues/215#issuecomment-991016165&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 10 Dec 2021 14:48:42 GMT" tweetId="1469318161011036164" urltweet="https://twitter.com/davewiner/status/1469318161011036164" inReplyToId="1469099314920267779" tweetUserName="davewiner" />
+							</outline>
 						</outline>
 					</outline>
 				<outline text="Inside Tesla: How Elon Musk Pushed His Vision for Autopilot. &lt;a href=&quot;https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 07 Dec 2021 19:53:37 GMT" tweetId="1468307730574331909" urltweet="https://twitter.com/davewiner/status/1468307730574331909" inReplyToId="" tweetUserName="davewiner" />
