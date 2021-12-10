@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 10 Dec 2021 18:37:02 GMT</dateModified>
+		<dateModified>Fri, 10 Dec 2021 20:30:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 10" type="calendarDay" name="10" >
+				<outline text="Michael Nesmith, the Monkee for All Seasons, Dies at 78. &lt;a href=&quot;https://www.snopes.com/ap/2021/12/10/michael-nesmith-the-monkee-for-all-seasons-dies-at-78/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 10 Dec 2021 20:29:43 GMT" tweetId="1469403978479898634" urltweet="https://twitter.com/davewiner/status/1469403978479898634" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Journalism is the problem, not Trump.
 
 He's been an enemy of the US since he started running, and has only been learning how to steal more and do more harm.
