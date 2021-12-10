@@ -14,12 +14,34 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 10 Dec 2021 15:39:09 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>0</lastCursor>
+		<dateModified>Fri, 10 Dec 2021 16:47:29 GMT</dateModified>
+		<expansionState>1,2,3,5,15</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 10" created="Fri, 10 Dec 2021 16:28:58 GMT" type="calendarDay" name="10">
+				<outline text="The workflow problem" created="Fri, 10 Dec 2021 16:38:54 GMT" type="outline">
+					<outline text="I did a podcast yesterday, pointed to from the new &lt;a href=&quot;http://docserver.scripting.com/drummer/search.opml&quot;&gt;Search page&lt;/a&gt;, outlining the remaining problem, how to manage search for new stuff that's eventually going to be archived but temporarily is on the home page. I have that problem with Scripting News, and you all will have the problem with your blog too, starting January 1. " created="Fri, 10 Dec 2021 16:39:08 GMT"/>
+					<outline text="But -- I figured it out -- and here's how it'll work (not implemented yet)." created="Fri, 10 Dec 2021 16:40:26 GMT" flBulletedSubs="true">
+						<outline text="There needs to be a way to tell Daytona to forget about an URL. " created="Fri, 10 Dec 2021 16:40:47 GMT"/>
+						<outline text="You'd do that at the beginning of the month, and the URL would be to your blog.opml file." created="Fri, 10 Dec 2021 16:41:02 GMT"/>
+						<outline text="This would have the effect of deleting every record in the database from that URL." created="Fri, 10 Dec 2021 16:41:19 GMT"/>
+						<outline text="Then you move all the stuff that was in blog.opml into a permanent archive outline. " created="Fri, 10 Dec 2021 16:41:41 GMT"/>
+						<outline text="And you tell Daytona to index that file (another verb). " created="Fri, 10 Dec 2021 16:42:01 GMT"/>
+						<outline text="Then you start posting to blog.opml, and since it is a public file it will be indexed again, every time you post something new." created="Fri, 10 Dec 2021 16:42:17 GMT"/>
+						<outline text="Until the beginning of the next month when you do it all again. (Or year, depending on how much you post and how big you're willing to let the blog.opml file get.)" created="Fri, 10 Dec 2021 16:42:43 GMT"/>
+						</outline>
+					<outline text="What's needed is a verb or two for Daytona that allow you to do this from a menu item." created="Fri, 10 Dec 2021 16:43:26 GMT"/>
+					<outline text="BTW, this is a classic example of how scripting applies to creative work. Most of the time you're being a poet but every once in a while you do some plumbing to keep moving forward. " created="Fri, 10 Dec 2021 16:43:54 GMT"/>
+					</outline>
+				<outline text="Let's search for Tesla" created="Fri, 10 Dec 2021 16:28:59 GMT" type="outline">
+					<outline text="This is how you search for Tesla on my blog." created="Fri, 10 Dec 2021 16:29:04 GMT"/>
+					<outline text="&lt;a href=&quot;http://daytona.scripting.com/?q=tesla&amp;collection=scriptingnews&quot;&gt;http://daytona.scripting.com/?q=tesla&amp;collection=scriptingnews&lt;/a&gt;" created="Fri, 10 Dec 2021 16:29:08 GMT"/>
+					<outline text="Outliner fans check out, it's all outlines. "/>
+					<outline text="How did that work? 😀" created="Fri, 10 Dec 2021 16:29:30 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 9" created="Thu, 09 Dec 2021 23:02:04 GMT" type="calendarDay" name="09">
 				<outline text="Something new!" created="Thu, 09 Dec 2021 23:02:05 GMT" type="outline">
 					<outline text="It's not every day you get a new top-level &lt;a href=&quot;http://docserver.scripting.com/drummer/search.opml&quot;&gt;Drummer doc&lt;/a&gt;. " created="Thu, 09 Dec 2021 23:02:10 GMT"/>
