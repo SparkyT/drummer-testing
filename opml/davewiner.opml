@@ -6,10 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 11 Dec 2021 01:40:30 GMT</dateModified>
+		<dateModified>Sat, 11 Dec 2021 08:08:54 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
+			<outline text="December 11" type="calendarDay" name="11" >
+				<outline text="Web creator Tim Berners-Lee’s startup Inrupt raises $30 million. &lt;a href=&quot;https://techcrunch.com/2021/12/09/tim-berners-lee-inrupt-fundraise/?fbclid=IwAR1BfMHCjIZNEqWWpk9v-SjfbK-KDinyGoEaASy0RjjvMvz9UvjjLhdCe1s&amp;guccounter=1&amp;guce_referrer=aHR0cHM6Ly9tLmZhY2Vib29rLmNvbS8&amp;guce_referrer_sig=AQAAAJZLX3RVDKS5ZgEmpeCHzIV4fAxb3tN1l_Mwv_Q9Ii3_o41Rdg__Y3g7Rsk5ftVPe1Lbb-Em0lCPiHgoVk13hhlj4DQoQNQ-aECfAItNwJMi5OLRT-JFQWaHjDUQZKmpuwdyfAXmqf9bP5mGffTNyWbr3M0ZdU_JFEP--aHFumJW&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 11 Dec 2021 08:08:03 GMT" tweetId="1469579722107625472" urltweet="https://twitter.com/davewiner/status/1469579722107625472" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="The Texas SCOTUS ruling reveals that John Roberts has lost control. &lt;a href=&quot;https://slate.com/news-and-politics/2021/12/texas-abortion-john-roberts-lost-control-supreme-court.html?scrolla=5eb6d68b7fedc32c19ef33b4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 11 Dec 2021 07:53:39 GMT" tweetId="1469576096970596356" urltweet="https://twitter.com/davewiner/status/1469576096970596356" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="December 10" type="calendarDay" name="10" >
 				<outline text="Future Cars Worth Waiting For: 2022–2025. &lt;a href=&quot;https://www.caranddriver.com/features/g28985154/future-cars/?utm_campaign=dda_fb_CD_N_m_i_g28985154&amp;utm_medium=cpm&amp;utm_source=facebook_dda&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 11 Dec 2021 01:39:31 GMT" tweetId="1469481941456273409" urltweet="https://twitter.com/davewiner/status/1469481941456273409" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="This is the cutest picture I've seen in a long time. ;-) &lt;a href=&quot;https://twitter.com/mollyfication/status/1469432138449793028&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 10 Dec 2021 22:32:51 GMT" tweetId="1469434966635393045" urltweet="https://twitter.com/davewiner/status/1469434966635393045" inReplyToId="" tweetUserName="davewiner" />
