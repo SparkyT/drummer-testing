@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 11 Dec 2021 17:18:29 GMT</dateModified>
+		<dateModified>Sat, 11 Dec 2021 18:40:35 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 11" type="calendarDay" name="11" >
+				<outline text="1/3 The Democrats need someone who can be counted on to say &quot;The Republicans are full of shit&quot; when called on by the press." type="tweet" created="Sat, 11 Dec 2021 18:40:23 GMT" tweetId="1469738854496325640" urltweet="https://twitter.com/davewiner/status/1469738854496325640" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2/3 Too bad we had one, in Al Franken -- well, now we need another one." type="tweet" created="Sat, 11 Dec 2021 18:40:24 GMT" tweetId="1469738858434732034" urltweet="https://twitter.com/davewiner/status/1469738858434732034" inReplyToId="1469738854496325640" tweetUserName="davewiner" >
+						<outline text="3/3 It's really simple, most of the things they say are BS, so it needs to be said apparently because journalists seem largely unable to say it themselves." type="tweet" created="Sat, 11 Dec 2021 18:40:26 GMT" tweetId="1469738866865287170" urltweet="https://twitter.com/davewiner/status/1469738866865287170" inReplyToId="1469738858434732034" tweetUserName="davewiner" />
+						</outline>
+					</outline>
 				<outline text="John Lennon on working with Paul McCartney. &lt;a href=&quot;https://www.youtube.com/watch?v=ps_O7munVTI&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 11 Dec 2021 17:18:03 GMT" tweetId="1469718133560811530" urltweet="https://twitter.com/davewiner/status/1469718133560811530" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="BTW, to #toolsforthought aficionados, I don't think there's anything tagging can do that Daytona can't, and it doesn't require any planning. 
 
