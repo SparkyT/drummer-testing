@@ -14,13 +14,16 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 11 Dec 2021 18:31:31 GMT</dateModified>
-		<expansionState>1,2,3,4</expansionState>
+		<dateModified>Sat, 11 Dec 2021 21:46:55 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 11" created="Sat, 11 Dec 2021 16:57:23 GMT" type="calendarDay" name="11">
+				<outline text="Electric Drummer build" created="Sat, 11 Dec 2021 21:46:26 GMT" type="outline">
+					<outline text="Fresh build. Download link on this &lt;a href=&quot;http://docserver.scripting.com/drummer/electricDrummer.opml&quot;&gt;page&lt;/a&gt;." created="Sat, 11 Dec 2021 21:46:32 GMT"/>
+					</outline>
 				<outline text="BTW, this is really cool" created="Sat, 11 Dec 2021 18:30:34 GMT" type="outline">
 					<outline text="You can see all the Daytona docs, using Daytona." created="Sat, 11 Dec 2021 18:30:40 GMT">
 						<outline text="&lt;a href=&quot;http://daytona.scripting.com/?q=daytona&amp;collection=drummerdocs&quot;&gt;http://daytona.scripting.com/?q=daytona&amp;collection=drummerdocs&lt;/a&gt;" created="Sat, 11 Dec 2021 18:30:52 GMT"/>
