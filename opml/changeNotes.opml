@@ -14,13 +14,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 11 Dec 2021 16:57:58 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
+		<dateModified>Sat, 11 Dec 2021 18:08:34 GMT</dateModified>
+		<expansionState>1,2,3,4,9</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 11" created="Sat, 11 Dec 2021 16:57:23 GMT" type="calendarDay" name="11">
+				<outline text="Daytona verbs" created="Sat, 11 Dec 2021 18:06:33 GMT" type="outline">
+					<outline text="Four new verbs:" created="Sat, 11 Dec 2021 18:06:38 GMT">
+						<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=daytona.ping&quot;&gt;daytona.ping&lt;/a&gt;" created="Sat, 11 Dec 2021 18:06:42 GMT"/>
+						<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=daytona.query&quot;&gt;daytona.query&lt;/a&gt;" created="Sat, 11 Dec 2021 18:06:58 GMT"/>
+						<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=daytona.resetMyIndex&quot;&gt;daytona.resetMyIndex&lt;/a&gt;" created="Sat, 11 Dec 2021 18:07:10 GMT"/>
+						<outline text="&lt;a href=&quot;http://docserver.scripting.com/?verb=daytona.removeOutlineRefs&quot;&gt;daytona.removeOutlineRefs&lt;/a&gt;" created="Sat, 11 Dec 2021 18:07:20 GMT"/>
+						</outline>
+					</outline>
 				<outline text="The address bar in Daytona" created="Sat, 11 Dec 2021 16:57:24 GMT" type="outline">
 					<outline text="Made a small change to Daytona. When you enter a search string, it constructs a URL for the search and redirects to it. That way the address bar has a link that's ready to be shared. This is something Google does that's quite useful. It works if you're searching Scripting News or the Drummer Docs, but sharing searches into your own public writing doesn't make sense, because they will search in the other person's public writing, not yours. For now you're the only person who can search your public writing. But I had it redirect because you might want to remember the URL for your own use." created="Sat, 11 Dec 2021 16:57:42 GMT"/>
 					</outline>
