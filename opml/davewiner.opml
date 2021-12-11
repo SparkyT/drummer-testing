@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 11 Dec 2021 16:37:27 GMT</dateModified>
+		<dateModified>Sat, 11 Dec 2021 17:18:29 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 11" type="calendarDay" name="11" >
+				<outline text="John Lennon on working with Paul McCartney. &lt;a href=&quot;https://www.youtube.com/watch?v=ps_O7munVTI&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 11 Dec 2021 17:18:03 GMT" tweetId="1469718133560811530" urltweet="https://twitter.com/davewiner/status/1469718133560811530" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="BTW, to #toolsforthought aficionados, I don't think there's anything tagging can do that Daytona can't, and it doesn't require any planning. 
 
 https://t.co/LHJkE9vT4f
