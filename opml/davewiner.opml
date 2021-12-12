@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 12 Dec 2021 18:18:05 GMT</dateModified>
+		<dateModified>Sun, 12 Dec 2021 18:44:07 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 12" type="calendarDay" name="12" >
+				<outline text="Chris Wallace Announces Exit From Fox News, Will Join CNN. &lt;a href=&quot;https://deadline.com/2021/12/chris-wallace-leaves-fox-news-1234889585/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 12 Dec 2021 18:43:13 GMT" tweetId="1470101953132777490" urltweet="https://twitter.com/davewiner/status/1470101953132777490" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Chris Wallace leaves Fox News for CNN. &lt;a href=&quot;https://www.poynter.org/business-work/2021/chris-wallace-leaves-fox-news-for-cnn/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 12 Dec 2021 18:17:25 GMT" tweetId="1470095459276529665" urltweet="https://twitter.com/davewiner/status/1470095459276529665" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Here's an idea. I have a drone that communicates with my peloton via satellite, so it's not constrained by range. 
 
