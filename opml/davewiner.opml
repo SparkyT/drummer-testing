@@ -6,12 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 12 Dec 2021 12:19:42 GMT</dateModified>
+		<dateModified>Sun, 12 Dec 2021 12:35:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 12" type="calendarDay" name="12" >
-				<outline text="Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law. &lt;a href=&quot;https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 12 Dec 2021 12:19:03 GMT" tweetId="1470005272995319809" urltweet="https://twitter.com/davewiner/status/1470005272995319809" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Newsom Calls for Gun Legislation Modeled on the Texas Abortion Law. &lt;a href=&quot;https://www.nytimes.com/2021/12/12/us/politics/newsom-texas-abortion-law-guns.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 12 Dec 2021 12:19:03 GMT" tweetId="1470005272995319809" urltweet="https://twitter.com/davewiner/status/1470005272995319809" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Newsom would make a good president." type="tweet" created="Sun, 12 Dec 2021 12:35:23 GMT" tweetId="1470009383966945284" urltweet="https://twitter.com/davewiner/status/1470009383966945284" inReplyToId="1470005272995319809" tweetUserName="davewiner" />
+					</outline>
 				</outline>
 			<outline text="December 11" type="calendarDay" name="11" >
 				<outline text="What is OPML? https://t.co/MdaLeqLlk1" type="tweet" created="Sat, 11 Dec 2021 20:07:09 GMT" tweetId="1469760688210030595" urltweet="https://twitter.com/davewiner/status/1469760688210030595" inReplyToId="" tweetUserName="davewiner" />
