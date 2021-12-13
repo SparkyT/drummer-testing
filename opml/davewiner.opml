@@ -6,10 +6,14 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 13 Dec 2021 04:11:43 GMT</dateModified>
+		<dateModified>Mon, 13 Dec 2021 13:45:20 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
+			<outline text="December 13" type="calendarDay" name="13" >
+				<outline text="Ken Smith: Index, concordance, and beyond. https://t.co/1sYT0jLKNM" type="tweet" created="Mon, 13 Dec 2021 13:45:08 GMT" tweetId="1470389325212917760" urltweet="https://twitter.com/davewiner/status/1470389325212917760" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Elon Musk: Time Person of the Year 2021. &lt;a href=&quot;https://time.com/person-of-the-year-2021-elon-musk/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=person-of-the-year&amp;utm_term=_&amp;linkId=144098689&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 13:43:40 GMT" tweetId="1470388957204602882" urltweet="https://twitter.com/davewiner/status/1470388957204602882" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="December 12" type="calendarDay" name="12" >
 				<outline text="The File System Access API: simplifying access to local files. &lt;a href=&quot;https://web.dev/file-system-access/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 04:11:23 GMT" tweetId="1470244938772320263" urltweet="https://twitter.com/davewiner/status/1470244938772320263" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="U.S. COVID-19 deaths reach 800,000 as Delta ravaged in 2021. &lt;a href=&quot;https://www.reuters.com/business/healthcare-pharmaceuticals/us-covid-19-deaths-approach-800000-delta-ravaged-2021-2021-12-12/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 04:06:30 GMT" tweetId="1470243709514141697" urltweet="https://twitter.com/davewiner/status/1470243709514141697" inReplyToId="" tweetUserName="davewiner" />
