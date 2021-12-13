@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Mon, 13 Dec 2021 03:23:40 GMT</dateModified>
+		<dateModified>Mon, 13 Dec 2021 04:11:43 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 12" type="calendarDay" name="12" >
+				<outline text="The File System Access API: simplifying access to local files. &lt;a href=&quot;https://web.dev/file-system-access/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 04:11:23 GMT" tweetId="1470244938772320263" urltweet="https://twitter.com/davewiner/status/1470244938772320263" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="U.S. COVID-19 deaths reach 800,000 as Delta ravaged in 2021. &lt;a href=&quot;https://www.reuters.com/business/healthcare-pharmaceuticals/us-covid-19-deaths-approach-800000-delta-ravaged-2021-2021-12-12/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 04:06:30 GMT" tweetId="1470243709514141697" urltweet="https://twitter.com/davewiner/status/1470243709514141697" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="It’s interesting seeing Dave Winer playing with search as a new primitive on his “blog” (I put it in quotes because his blog is a mega-archive and leviathan body of work). &lt;a href=&quot;https://notes.tomcritchlow.com/2021/12/12/its-interesting-seeing.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 03:22:50 GMT" tweetId="1470232718663462916" urltweet="https://twitter.com/davewiner/status/1470232718663462916" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Professional maintainers: a wake-up call. &lt;a href=&quot;https://blog.filippo.io/professional-maintainers/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Mon, 13 Dec 2021 01:39:51 GMT" tweetId="1470206801396342789" urltweet="https://twitter.com/davewiner/status/1470206801396342789" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Chris Wallace Announces Exit From Fox News, Will Join CNN. &lt;a href=&quot;https://deadline.com/2021/12/chris-wallace-leaves-fox-news-1234889585/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 12 Dec 2021 18:43:13 GMT" tweetId="1470101953132777490" urltweet="https://twitter.com/davewiner/status/1470101953132777490" inReplyToId="" tweetUserName="davewiner" />
