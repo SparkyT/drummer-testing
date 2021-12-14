@@ -14,12 +14,48 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 13 Dec 2021 14:17:50 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 14 Dec 2021 23:16:00 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 14" created="Tue, 14 Dec 2021 23:06:02 GMT" type="calendarDay" name="14">
+				<outline text="tweets.opml.org" created="Tue, 14 Dec 2021 23:06:03 GMT" type="outline">
+					<outline text="Background" created="Tue, 14 Dec 2021 22:55:11 GMT">
+						<outline text="A new service is coming online, and I want Drummer users to be the first to have a chance to try it out." created="Tue, 14 Dec 2021 22:51:35 GMT"/>
+						<outline text="For people who were part of the initial test group this will be familiar. It was initially developed inside Drummer, but I figured out that it would work better if it ran on a server, so I punted on the feature, to get back to it after the product shipped." created="Tue, 14 Dec 2021 22:51:52 GMT"/>
+						<outline text="Here was the initial &lt;a href=&quot;http://scripting.com/drummer/blog/2021/09/19/164624.html?title=newFeatureTweetsopml&quot;&gt;announcement&lt;/a&gt;. " created="Tue, 14 Dec 2021 22:54:52 GMT"/>
+						</outline>
+					<outline text="Who needs this?" created="Tue, 14 Dec 2021 22:55:17 GMT">
+						<outline text="If you write in an outliner, and use Twitter, now you can have all your original tweets (not RTs) in a calendar-structured outline, that updates on its own. " created="Tue, 14 Dec 2021 22:55:25 GMT"/>
+						<outline text="This means if you're out and about and get an idea you want to include in your writing, just write a tweet, and when you get back it'll be in Drummer." created="Tue, 14 Dec 2021 22:56:02 GMT"/>
+						</outline>
+					<outline text="Is it just for Drummer?" created="Tue, 14 Dec 2021 22:56:26 GMT">
+						<outline text="No. It's for anyone with an OPML-compatible outliner, which for now effectively means Drummer. But I want to this to be open to all, the same way RSS feeds are open to all. You didn't have to use Radio UserLand to read feeds when RSS was booting up, and the same thing is true of OPML today." created="Tue, 14 Dec 2021 22:56:31 GMT"/>
+						</outline>
+					<outline text="How to" created="Tue, 14 Dec 2021 22:57:47 GMT">
+						<outline text="Here's how to get started..." created="Tue, 14 Dec 2021 22:59:26 GMT" flBulletedSubs="true">
+							<outline text="On twitter.com make sure you're logged into the Twitter account you want to use for this. " created="Tue, 14 Dec 2021 22:58:05 GMT"/>
+							<outline text="Go to &lt;a href=&quot;http://tweets.opml.org/&quot;&gt;tweets.opml.org&lt;/a&gt; and sign in. " created="Tue, 14 Dec 2021 22:57:49 GMT"/>
+							<outline text="On the home page there will be a link to your OPML file, grab the link, switch into Drummer and enter the address into the &lt;i&gt;Open URL&lt;/i&gt; command in the File menu." created="Tue, 14 Dec 2021 22:58:34 GMT"/>
+							</outline>
+						<outline text="That's all you have to do to set it up." created="Tue, 14 Dec 2021 23:00:43 GMT"/>
+						<outline text="Next time you tweet, after as much as three minutes (that's the interval between checks, it may go up over time as more people use the service) the tweet should show up in the outline on GitHub, and in Drummer. " created="Tue, 14 Dec 2021 23:00:51 GMT"/>
+						</outline>
+					<outline text="Questions/suggestions" created="Tue, 14 Dec 2021 23:01:41 GMT">
+						<outline text="There are still a few things I want to add to this, but the service is fairly complete. I think it works. But in case it doesn't or if you just want to ask questions about the design, or what it can be used for, I started a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/130&quot;&gt;thread&lt;/a&gt; on the Support site. " created="Tue, 14 Dec 2021 23:01:46 GMT"/>
+						<outline text="Hope you like it!" created="Tue, 14 Dec 2021 23:02:57 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Extra copies of Drummer left around" created="Tue, 14 Dec 2021 23:14:55 GMT" type="outline">
+					<outline text="The next problem I want to tackle, left over from before shipping, is making Drummer able to recognize that there's a copy of itself running on another machine, and sending it message to turn itself off, so as to avoid version problems. " created="Tue, 14 Dec 2021 23:08:23 GMT"/>
+					<outline text="I've got new code in the server that sends a &quot;goodnight&quot; message to such extraneous copies of Drummer. To be clear, not just on the same machine (as it currently works) -- no matter where it is. " created="Tue, 14 Dec 2021 23:09:23 GMT"/>
+					<outline text="Also I want it to do something more appropriate than switching to the About Drummer page from the docs. I think I figured out how to do that too." created="Tue, 14 Dec 2021 23:12:46 GMT"/>
+					<outline text="This is a tricky corner-turn. If for some reason it doesn't work properly, and of course Murphy's Law says that it won't, mayhem could result and that would suck.  " created="Tue, 14 Dec 2021 23:10:07 GMT"/>
+					<outline text="So here's the deal, if you want to help validate this, let me know by responding to &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/131&quot;&gt;this item&lt;/a&gt;, and in a couple of days we can start testing this functionality. Once it appears to work properly, then I can &quot;arm&quot; the feature. But I want to be extra-extra careful with this fix. " created="Tue, 14 Dec 2021 23:10:54 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 13" created="Mon, 13 Dec 2021 14:16:37 GMT" type="calendarDay" name="13">
 				<outline text="Minor Daytona UI change" created="Mon, 13 Dec 2021 14:16:38 GMT" type="outline">
 					<outline text="When you choose a different collection, and there's a string in the query box, we re-run the query against the newly chosen collection." created="Mon, 13 Dec 2021 14:16:46 GMT"/>
