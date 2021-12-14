@@ -6,11 +6,16 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 14 Dec 2021 19:54:16 GMT</dateModified>
+		<dateModified>Tue, 14 Dec 2021 21:11:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 14" type="calendarDay" name="14" >
+				<outline text="Pet peeve: Saying Trump wanted to overthrow the election.
+
+Truth: He was trying to overthrow the government." type="tweet" created="Tue, 14 Dec 2021 21:10:15 GMT" tweetId="1470863731609546752" urltweet="https://twitter.com/davewiner/status/1470863731609546752" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="&lt;a href=&quot;https://twitter.com/davewiner/status/1470863980482736140/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 14 Dec 2021 21:11:14 GMT" tweetId="1470863980482736140" urltweet="https://twitter.com/davewiner/status/1470863980482736140" inReplyToId="1470863731609546752" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Coverage of Chris Wallace's split downplayed Fox's function as a vector for disinformation and death. &lt;a href=&quot;https://presswatchers.org/2021/12/coverage-of-chris-wallaces-split-downplayed-foxs-function-as-a-vector-for-disinformation-and-death/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 14 Dec 2021 19:53:59 GMT" tweetId="1470844537912573956" urltweet="https://twitter.com/davewiner/status/1470844537912573956" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="#toolsforthought users want fluidity of their data, and independence from any single vendor.
 
