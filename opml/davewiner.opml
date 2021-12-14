@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Tue, 14 Dec 2021 11:55:46 GMT</dateModified>
+		<dateModified>Tue, 14 Dec 2021 13:08:50 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 14" type="calendarDay" name="14" >
+				<outline text="George Washington’s Hard Death Shows the Limits of Medicine in His Time. &lt;a href=&quot;https://www.smithsonianmag.com/smart-news/george-washingtons-hard-death-shows-limits-medicine-his-time-180967531/?utm_source=twitter.com&amp;utm_medium=socialmedia&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 14 Dec 2021 13:08:44 GMT" tweetId="1470742554773794818" urltweet="https://twitter.com/davewiner/status/1470742554773794818" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Across the World, Covid Anxiety and Depression Take Hold. &lt;a href=&quot;https://www.nytimes.com/2021/12/13/world/europe/covid-anxiety-depression-omicron.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 14 Dec 2021 11:55:23 GMT" tweetId="1470724094811418628" urltweet="https://twitter.com/davewiner/status/1470724094811418628" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Pfizer Omicron study points to tidal wave of U.S. cases. &lt;a href=&quot;https://www.axios.com/omicron-coronavirus-cases-europe-us-c85be94d-8edf-4d61-9f05-de924bff6760.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Tue, 14 Dec 2021 11:37:47 GMT" tweetId="1470719666490429440" urltweet="https://twitter.com/davewiner/status/1470719666490429440" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
