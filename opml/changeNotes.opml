@@ -14,13 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 15 Dec 2021 14:08:25 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Wed, 15 Dec 2021 21:06:45 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 15" created="Wed, 15 Dec 2021 14:01:49 GMT" type="calendarDay" name="15">
+				<outline text="Matt Mower" created="Wed, 15 Dec 2021 21:05:53 GMT" type="outline">
+					<outline text="Matt is trying to use Drummer as a reader app, which it is. " created="Wed, 15 Dec 2021 21:05:56 GMT"/>
+					<outline text="I wonder if someone could pitch in and help him navigate through the docs." created="Wed, 15 Dec 2021 21:06:06 GMT"/>
+					<outline text="I'm thinking he should either create an I/O or use Concord Reader." created="Wed, 15 Dec 2021 21:06:19 GMT"/>
+					<outline text="Here's the &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/134&quot;&gt;thread&lt;/a&gt;. " created="Wed, 15 Dec 2021 21:06:32 GMT"/>
+					</outline>
 				<outline text="The overwriting bug" created="Wed, 15 Dec 2021 14:01:50 GMT" type="outline">
 					<outline text="It's still with us, we're still trying to trap it, to get reproducible steps. " created="Wed, 15 Dec 2021 13:51:58 GMT"/>
 					<outline text="If it happens to you, that is, if you click on a tab to view an outline and what you see is another outline, the first thing to do is freeze. Take your hands off the keyboard, off the mouse and breathe. Make a plan. Because you want to help Drummer get over this obstacle. " created="Wed, 15 Dec 2021 13:52:13 GMT"/>
