@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 15 Dec 2021 02:21:42 GMT</dateModified>
+		<dateModified>Wed, 15 Dec 2021 08:37:06 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
+			<outline text="December 15" type="calendarDay" name="15" >
+				<outline text="The 14 Best TV Shows of 2021. &lt;a href=&quot;https://www.vanityfair.com/hollywood/2021/12/the-best-tv-shows-of-2021?twclid=11471034915814883329&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 08:36:19 GMT" tweetId="1471036385670934530" urltweet="https://twitter.com/davewiner/status/1471036385670934530" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="December 14" type="calendarDay" name="14" >
 				<outline text="They’re all guilty of treason." type="tweet" created="Wed, 15 Dec 2021 02:21:08 GMT" tweetId="1470941969300049922" urltweet="https://twitter.com/davewiner/status/1470941969300049922" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Steph Curry passes Ray Allen to set NBA 3-point record. &lt;a href=&quot;https://nypost.com/2021/12/14/steph-curry-passes-ray-allen-to-set-nba-3-point-record/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 01:31:21 GMT" tweetId="1470929440028954635" urltweet="https://twitter.com/davewiner/status/1470929440028954635" inReplyToId="" tweetUserName="davewiner" />
