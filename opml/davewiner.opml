@@ -6,11 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 15 Dec 2021 08:45:07 GMT</dateModified>
+		<dateModified>Wed, 15 Dec 2021 09:18:12 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 15" type="calendarDay" name="15" >
+				<outline text="How Shein beat Amazon at its own game — and reinvented fast fashion. &lt;a href=&quot;https://restofworld.org/2021/how-shein-beat-amazon-and-reinvented-fast-fashion/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 09:17:51 GMT" tweetId="1471046838958661636" urltweet="https://twitter.com/davewiner/status/1471046838958661636" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="A great example of being unclear about the different facebooks. https://t.co/DIpWGJScgJ https://t.co/v2QCUQEhXN" type="tweet" created="Wed, 15 Dec 2021 09:14:31 GMT" tweetId="1471045998642348035" urltweet="https://twitter.com/davewiner/status/1471045998642348035" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Chinese Youth Take Their Love for Instant Noodles to the Next Level. &lt;a href=&quot;https://radiichina.com/instant-noodles-china/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 08:44:51 GMT" tweetId="1471038533842391042" urltweet="https://twitter.com/davewiner/status/1471038533842391042" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="The 14 Best TV Shows of 2021. &lt;a href=&quot;https://www.vanityfair.com/hollywood/2021/12/the-best-tv-shows-of-2021?twclid=11471034915814883329&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 08:36:19 GMT" tweetId="1471036385670934530" urltweet="https://twitter.com/davewiner/status/1471036385670934530" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
