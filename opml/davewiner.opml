@@ -6,11 +6,15 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 15 Dec 2021 09:18:12 GMT</dateModified>
+		<dateModified>Wed, 15 Dec 2021 15:05:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 15" type="calendarDay" name="15" >
+				<outline text="I was there for the early web, it wasn't a vague VC pyramid scheme. The web was a reduction of all the crazy complexity of tech platforms, web made it so you could write a network app in an afternoon. 
+
+It was the opposite of the FUD that they're calling &quot;web3.&quot; &lt;a href=&quot;https://twitter.com/karaswisher/status/1471115846101737476&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 15:04:42 GMT" tweetId="1471134123913842691" urltweet="https://twitter.com/davewiner/status/1471134123913842691" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="&quot;POTUS needs to calm this shit down.&quot; &lt;a href=&quot;https://twitter.com/davewiner/status/1471132138623930368/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 14:56:48 GMT" tweetId="1471132138623930368" urltweet="https://twitter.com/davewiner/status/1471132138623930368" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="How Shein beat Amazon at its own game — and reinvented fast fashion. &lt;a href=&quot;https://restofworld.org/2021/how-shein-beat-amazon-and-reinvented-fast-fashion/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 09:17:51 GMT" tweetId="1471046838958661636" urltweet="https://twitter.com/davewiner/status/1471046838958661636" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="A great example of being unclear about the different facebooks. https://t.co/DIpWGJScgJ https://t.co/v2QCUQEhXN" type="tweet" created="Wed, 15 Dec 2021 09:14:31 GMT" tweetId="1471045998642348035" urltweet="https://twitter.com/davewiner/status/1471045998642348035" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Chinese Youth Take Their Love for Instant Noodles to the Next Level. &lt;a href=&quot;https://radiichina.com/instant-noodles-china/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 08:44:51 GMT" tweetId="1471038533842391042" urltweet="https://twitter.com/davewiner/status/1471038533842391042" inReplyToId="" tweetUserName="davewiner" />
