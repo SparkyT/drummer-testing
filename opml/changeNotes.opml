@@ -14,12 +14,28 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 14 Dec 2021 23:16:00 GMT</dateModified>
+		<dateModified>Wed, 15 Dec 2021 14:08:25 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 15" created="Wed, 15 Dec 2021 14:01:49 GMT" type="calendarDay" name="15">
+				<outline text="The overwriting bug" created="Wed, 15 Dec 2021 14:01:50 GMT" type="outline">
+					<outline text="It's still with us, we're still trying to trap it, to get reproducible steps. " created="Wed, 15 Dec 2021 13:51:58 GMT"/>
+					<outline text="If it happens to you, that is, if you click on a tab to view an outline and what you see is another outline, the first thing to do is freeze. Take your hands off the keyboard, off the mouse and breathe. Make a plan. Because you want to help Drummer get over this obstacle. " created="Wed, 15 Dec 2021 13:52:13 GMT"/>
+					<outline text="Now, after that..." created="Wed, 15 Dec 2021 13:53:14 GMT" flBulletedSubs="true">
+						<outline text="For the next few minutes Drummer is a crime scene in Law &amp; Order. Don't change anything until you've had a chance to look around and take screen shots. " created="Wed, 15 Dec 2021 13:59:41 GMT"/>
+						<outline text="Create &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/new&quot;&gt;an issue&lt;/a&gt; in the support site. " created="Wed, 15 Dec 2021 13:58:32 GMT"/>
+						<outline text="In Drummer, open the JavaScript console and have a look. I have put code in the app that supposedly detects the problem before you notice it, and it puts some diagnostic information in the console. Take a screen shot. Include it in your report." created="Wed, 15 Dec 2021 13:53:22 GMT"/>
+						<outline text="What files did you have open? A screen shot of the tabs in Drummer could be helpful." created="Wed, 15 Dec 2021 13:58:01 GMT"/>
+						<outline text="Try to remember what you were doing immediately before the problem surfaced. Were you editing a script? Opening another file? Honestly I don't have any information on what leads up to the problem, so it might be random, but maybe it's related to something a lot of people do. " created="Wed, 15 Dec 2021 13:54:26 GMT"/>
+						<outline text="It has happened to me once, and when it happened &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/127&quot;&gt;I wrote it up&lt;/a&gt;. You don't have to write something so detailed, but just try to remember. " created="Wed, 15 Dec 2021 13:55:28 GMT"/>
+						<outline text="I know it's distressing, but how you felt is not part of this report. Including personal feelings makes it harder to figure out what the facts are. " created="Wed, 15 Dec 2021 14:05:26 GMT"/>
+						</outline>
+					<outline text="And before it happens, make sure to use the &lt;i&gt;Download my files&lt;/i&gt; command in the Tools menu liberally so you don't lose a lot of work if it happens. " created="Wed, 15 Dec 2021 14:01:05 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 14" created="Tue, 14 Dec 2021 23:06:02 GMT" type="calendarDay" name="14">
 				<outline text="tweets.opml.org" created="Tue, 14 Dec 2021 23:06:03 GMT" type="outline">
 					<outline text="Background" created="Tue, 14 Dec 2021 22:55:11 GMT">
