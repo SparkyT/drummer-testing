@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 16 Dec 2021 19:11:48 GMT</dateModified>
-		<expansionState>1,2,3,5,8,11</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 16 Dec 2021 19:15:06 GMT</dateModified>
+		<expansionState>1,2,3,5,8,11,16</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
@@ -37,7 +37,9 @@
 						<outline text="Choose Open URL from the File menu." created="Thu, 16 Dec 2021 19:09:29 GMT"/>
 						<outline text="Enter the &lt;a href=&quot;http://pingmonster.scripting.com/cluelessnewbie/pingmonster.opml&quot;&gt;URL&lt;/a&gt; and press OK." created="Thu, 16 Dec 2021 19:09:37 GMT"/>
 						</outline>
-					<outline text="Wait." created="Thu, 16 Dec 2021 19:11:32 GMT"/>
+					<outline text="Wait.." created="Thu, 16 Dec 2021 19:11:32 GMT">
+						<outline text="Here's a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/139&quot;&gt;place&lt;/a&gt; to report problems." created="Thu, 16 Dec 2021 19:14:39 GMT"/>
+						</outline>
 					</outline>
 				<outline text="Two fixes" created="Thu, 16 Dec 2021 17:41:17 GMT" type="outline">
 					<outline text="If you try to Open URL with an invalid OPML file you get an error message and it doesn't go any further. " created="Thu, 16 Dec 2021 17:03:20 GMT">
