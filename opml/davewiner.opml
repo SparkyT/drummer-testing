@@ -6,11 +6,28 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 16 Dec 2021 14:58:04 GMT</dateModified>
+		<dateModified>Thu, 16 Dec 2021 15:54:08 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 16" type="calendarDay" name="16" >
+				<outline text="@nakedjen -- I looked up &quot;runway&quot; in Daytona.
+
+https://t.co/n2OV617Tjj
+
+Look at how cool it is to have all that so accessible." type="tweet" created="Thu, 16 Dec 2021 15:52:37 GMT" tweetId="1471508572483710987" urltweet="https://twitter.com/davewiner/status/1471508572483710987" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="BTW, I'd add to the list of things you'll have on your runway -- a Peloton. I will have one too of course. And a Tesla. ;-)" type="tweet" created="Thu, 16 Dec 2021 15:53:26 GMT" tweetId="1471508775957712903" urltweet="https://twitter.com/davewiner/status/1471508775957712903" inReplyToId="1471508572483710987" tweetUserName="davewiner" />
+					</outline>
+				<outline text="When did we give up going for the gusto? https://t.co/slDU4gGvG5" type="tweet" created="Thu, 16 Dec 2021 15:49:10 GMT" tweetId="1471507705072218114" urltweet="https://twitter.com/davewiner/status/1471507705072218114" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="This is how tagging works in Drummer, now that we have Daytona. ;-)
+
+https://t.co/Eg22xmyMEh
+
+It's all public and open, the index is built from OPML files." type="tweet" created="Thu, 16 Dec 2021 15:43:41 GMT" tweetId="1471506325477617675" urltweet="https://twitter.com/davewiner/status/1471506325477617675" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="I find it really interesting to watch the evolution as you go back in time. 
+
+First there were &quot;glossary entries&quot; -- then we used [[tagging]], now forget all that pre-thought. It's all just indexed, so you can make up a tag after the fact." type="tweet" created="Thu, 16 Dec 2021 15:45:12 GMT" tweetId="1471506706446184464" urltweet="https://twitter.com/davewiner/status/1471506706446184464" inReplyToId="1471506325477617675" tweetUserName="davewiner" />
+					</outline>
 				<outline text="America Can't Beat Omicron One Booster at a Time. &lt;a href=&quot;https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 16 Dec 2021 14:57:06 GMT" tweetId="1471494600170749969" urltweet="https://twitter.com/davewiner/status/1471494600170749969" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="@sandbags -- if you really want to try to use Drummer, here's how to do it.
 
