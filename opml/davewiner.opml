@@ -6,11 +6,24 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 16 Dec 2021 12:52:56 GMT</dateModified>
+		<dateModified>Thu, 16 Dec 2021 14:09:01 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 16" type="calendarDay" name="16" >
+				<outline text="@sandbags -- if you really want to try to use Drummer, here's how to do it.
+
+1. Allocate some time to explore the product. You came in wanting full knowledge of what the product can do, for something no one else uses it for as far as i know. That can't happen in a few hours." type="tweet" created="Thu, 16 Dec 2021 14:08:13 GMT" tweetId="1471482298038169600" urltweet="https://twitter.com/davewiner/status/1471482298038169600" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="2. I suggest using the RFC site to initiate your query, and start with a brief intro of what you're trying to do to get people interested. 
+
+3. From there, once you're on a track that's likely to work, start documenting problems you hit, in one thread on the support site, not 19." type="tweet" created="Thu, 16 Dec 2021 14:08:13 GMT" tweetId="1471482299644616709" urltweet="https://twitter.com/davewiner/status/1471482299644616709" inReplyToId="1471482298038169600" tweetUserName="davewiner" >
+						<outline text="4. If no one shows up to help, so be it. I find for a lot of the projects I want to do, no one shows up to help. People are busy. You know what I mean, you didn't participate in the test group even though you had access." type="tweet" created="Thu, 16 Dec 2021 14:08:14 GMT" tweetId="1471482300890296324" urltweet="https://twitter.com/davewiner/status/1471482300890296324" inReplyToId="1471482299644616709" tweetUserName="davewiner" >
+							<outline text="5. I was out all day yesterday and got home to an onslaught of Matt Mower. Even so, I did try to concentrate your query for you, and posted a note in the change notes outline. But I suspect all anyone saw when they looked was confusion so they hit the Back button." type="tweet" created="Thu, 16 Dec 2021 14:08:14 GMT" tweetId="1471482302433841160" urltweet="https://twitter.com/davewiner/status/1471482302433841160" inReplyToId="1471482300890296324" tweetUserName="davewiner" >
+								<outline text="6. I can't be your personal consultant. I'm just one person and I have projects of my own. But I want to help to the extent I can." type="tweet" created="Thu, 16 Dec 2021 14:08:14 GMT" tweetId="1471482303637508102" urltweet="https://twitter.com/davewiner/status/1471482303637508102" inReplyToId="1471482302433841160" tweetUserName="davewiner" />
+								</outline>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Omicron Is About to Overwhelm Us. &lt;a href=&quot;https://nymag.com/intelligencer/2021/12/omicron-is-about-to-overwhelm-us.html&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 16 Dec 2021 12:52:13 GMT" tweetId="1471463173299617794" urltweet="https://twitter.com/davewiner/status/1471463173299617794" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
 			<outline text="December 15" type="calendarDay" name="15" >
