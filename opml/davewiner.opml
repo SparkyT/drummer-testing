@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Wed, 15 Dec 2021 15:05:31 GMT</dateModified>
+		<dateModified>Thu, 16 Dec 2021 00:34:09 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 15" type="calendarDay" name="15" >
+				<outline text="The Capitol riot happened because President Donald Trump simply lied, and lied, and lied. &lt;a href=&quot;https://www.nationalreview.com/2021/12/gone-too-far/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Thu, 16 Dec 2021 00:33:09 GMT" tweetId="1471277178813923331" urltweet="https://twitter.com/davewiner/status/1471277178813923331" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I was there for the early web, it wasn't a vague VC pyramid scheme. The web was a reduction of all the crazy complexity of tech platforms, web made it so you could write a network app in an afternoon. 
 
 It was the opposite of the FUD that they're calling &quot;web3.&quot; &lt;a href=&quot;https://twitter.com/karaswisher/status/1471115846101737476&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Wed, 15 Dec 2021 15:04:42 GMT" tweetId="1471134123913842691" urltweet="https://twitter.com/davewiner/status/1471134123913842691" inReplyToId="" tweetUserName="davewiner" />
