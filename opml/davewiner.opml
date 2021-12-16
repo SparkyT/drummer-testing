@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Thu, 16 Dec 2021 15:54:08 GMT</dateModified>
+		<dateModified>Thu, 16 Dec 2021 17:46:15 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 16" type="calendarDay" name="16" >
+				<outline text="You know when you try to help people get their questions answered, if you don't do it just the way they want you to, you can expect to be flamed. 
+
+If you do nothing, they don't flame you.
+
+There's a penalty for caring.
+
+This is the way of the world, I've learned, sadly." type="tweet" created="Thu, 16 Dec 2021 17:45:21 GMT" tweetId="1471536941824892933" urltweet="https://twitter.com/davewiner/status/1471536941824892933" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="@nakedjen -- I looked up &quot;runway&quot; in Daytona.
 
 https://t.co/n2OV617Tjj
