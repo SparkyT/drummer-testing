@@ -14,13 +14,23 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 17 Dec 2021 14:23:42 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
+		<dateModified>Fri, 17 Dec 2021 15:28:43 GMT</dateModified>
+		<expansionState>1,2,3,4,5,6</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 17" created="Fri, 17 Dec 2021 14:21:41 GMT" type="calendarDay" name="17">
+				<outline text="tweets.opml.org notes" created="Fri, 17 Dec 2021 15:26:29 GMT" type="outline">
+					<outline text="I'm going to put some notes here as the day goes by" created="Fri, 17 Dec 2021 15:26:39 GMT">
+						<outline text="You can subscribe to your tweets without going through GitHub, which has the advantage that the notification of updates works." created="Fri, 17 Dec 2021 15:26:48 GMT">
+							<outline text="This is the URL of the outline for my tweets." created="Fri, 17 Dec 2021 15:27:36 GMT">
+								<outline text="http://tweets.opml.org/davewiner/tweets.opml" created="Fri, 17 Dec 2021 15:27:44 GMT"/>
+								</outline>
+							<outline text="I'm probably going to change the app so it points you to this rendition and points you to GitHub for the archive." created="Fri, 17 Dec 2021 15:27:52 GMT"/>
+							</outline>
+						</outline>
+					</outline>
 				<outline text="Stress test, day 2" created="Fri, 17 Dec 2021 14:21:42 GMT" type="outline">
 					<outline text="I ran the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/12/16.html#a190505&quot;&gt;stress test&lt;/a&gt; all night, and Drummer is fine. All the outlines are where they are supposed to be containing the content they're supposed to contain. As far as I can tell nothing was overwritten." created="Fri, 17 Dec 2021 14:21:51 GMT"/>
 					<outline text="Maybe the outline has to be a certain size? This is something that is easily tested, but I seriously doubt that's the problem."/>
