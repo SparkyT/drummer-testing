@@ -6,11 +6,17 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 17 Dec 2021 10:23:27 GMT</dateModified>
+		<dateModified>Fri, 17 Dec 2021 13:39:31 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 17" type="calendarDay" name="17" >
+				<outline text="I have great respect for Joanna Hoffman, but I wonder what she would do if she could change anything about Facebook. I struggle with this question myself. I get a tremendous amount of value from the service, and wouldn't want to be without it. &lt;a href=&quot;https://twitter.com/davewiner/status/1471834492709003277&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 13:38:15 GMT" tweetId="1471837145669287952" urltweet="https://twitter.com/davewiner/status/1471837145669287952" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="BTW there are a few things I'd change about FB myself but I doubt any of them would do anything to stop the abuse of the service by people promoting hate." type="tweet" created="Fri, 17 Dec 2021 13:39:23 GMT" tweetId="1471837430382829576" urltweet="https://twitter.com/davewiner/status/1471837430382829576" inReplyToId="1471837145669287952" tweetUserName="davewiner" />
+					</outline>
+				<outline text="Choose one." type="tweet" created="Fri, 17 Dec 2021 13:36:52 GMT" tweetId="1471836797999198212" urltweet="https://twitter.com/davewiner/status/1471836797999198212" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Pick one." type="tweet" created="Fri, 17 Dec 2021 13:36:22 GMT" tweetId="1471836670471327744" urltweet="https://twitter.com/davewiner/status/1471836670471327744" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Apple, NeXT veteran Joanna Hoffman calls today's technology leaders 'remarkably ignorant.' &lt;a href=&quot;https://appleinsider.com/articles/20/06/12/apple-next-veteran-joanna-hoffman-calls-todays-technology-leaders-remarkably-ignorant&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 13:27:43 GMT" tweetId="1471834492709003277" urltweet="https://twitter.com/davewiner/status/1471834492709003277" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="How to find the best sleeping position for you. &lt;a href=&quot;https://www.washingtonpost.com/lifestyle/2021/11/04/sleep-position-snoring-pain-pregnancy/?utm_source=twitter&amp;utm_medium=acq-nat&amp;utm_campaign=runway-2021&amp;utm_content=wellness-best-sleep-position-runway&amp;twclid=11471787098726354945&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 10:22:56 GMT" tweetId="1471787992784289798" urltweet="https://twitter.com/davewiner/status/1471787992784289798" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="What's a Mind Bomb? An idea that's so strange or powerful that it explodes in your mind. And that's a good thing!" type="tweet" created="Fri, 17 Dec 2021 10:19:31 GMT" tweetId="1471787133534932993" urltweet="https://twitter.com/davewiner/status/1471787133534932993" inReplyToId="" tweetUserName="davewiner" />
 				</outline>
