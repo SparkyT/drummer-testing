@@ -14,12 +14,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 16 Dec 2021 19:15:06 GMT</dateModified>
-		<expansionState>1,2,3,5,8,11,16</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Fri, 17 Dec 2021 14:23:42 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 17" created="Fri, 17 Dec 2021 14:21:41 GMT" type="calendarDay" name="17">
+				<outline text="Stress test, day 2" created="Fri, 17 Dec 2021 14:21:42 GMT" type="outline">
+					<outline text="I ran the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/12/16.html#a190505&quot;&gt;stress test&lt;/a&gt; all night, and Drummer is fine. All the outlines are where they are supposed to be containing the content they're supposed to contain. As far as I can tell nothing was overwritten." created="Fri, 17 Dec 2021 14:21:51 GMT"/>
+					<outline text="Maybe the outline has to be a certain size? This is something that is easily tested, but I seriously doubt that's the problem."/>
+					<outline text="It seems to me the user has to do something to cause the overwrite to take place (obviously not the user's fault)." created="Fri, 17 Dec 2021 14:22:35 GMT"/>
+					<outline text="PS: I posted the &lt;a href=&quot;https://github.com/scripting/pingmonster&quot;&gt;source code&lt;/a&gt; for the stress test outline. I'm starting to get good at this kind of project. ;-)" created="Fri, 17 Dec 2021 14:22:36 GMT"/>
+					<outline text="PPS: I'm working on tweets.opml.org today. " created="Fri, 17 Dec 2021 14:23:27 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 16" created="Thu, 16 Dec 2021 17:41:16 GMT" type="calendarDay" name="16">
 				<outline text="Stress testing Instant Outlines" created="Thu, 16 Dec 2021 19:05:05 GMT" type="outline">
 					<outline text="Okay -- I've put aside a few days before the holidays to try to get to the bottom of why outlines are being overwritten, in the hope of catching it in the act, and then being able to see what the actual problem is, beyond the horrific behavior. Losing data is just simply not acceptable. " created="Thu, 16 Dec 2021 19:05:12 GMT"/>
