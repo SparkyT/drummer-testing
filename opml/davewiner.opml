@@ -6,14 +6,20 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 17 Dec 2021 18:25:50 GMT</dateModified>
+		<dateModified>Fri, 17 Dec 2021 20:10:57 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 17" type="calendarDay" name="17" >
+				<outline text="Trump: Jewish People 'No Longer Love Israel' and Run New York Times. &lt;a href=&quot;https://www.businessinsider.com/trump-jewish-people-no-longer-love-israel-and-run-new-york-times-2021-12?op=1&amp;scrolla=5eb6d68b7fedc32c19ef33b4&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 20:10:43 GMT" tweetId="1471935912695287813" urltweet="https://twitter.com/davewiner/status/1471935912695287813" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="In general journalism should report tech that is actually being used to do new things, not on VCs hyping ideas of things that will make them even richer but don’t actually do anything for anyone. If a VC is promoting something that fact alone should make you suspicious." type="tweet" created="Fri, 17 Dec 2021 20:09:06 GMT" tweetId="1471935504648220674" urltweet="https://twitter.com/davewiner/status/1471935504648220674" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Instead of focusing on the parties, we should instead be asking what their backers want." type="tweet" created="Fri, 17 Dec 2021 18:25:45 GMT" tweetId="1471909497199370248" urltweet="https://twitter.com/davewiner/status/1471909497199370248" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Ken Smith: Search term richly wrapped in its context. https://t.co/3EGwK2XFx4" type="tweet" created="Fri, 17 Dec 2021 17:39:40 GMT" tweetId="1471897900234027008" urltweet="https://twitter.com/davewiner/status/1471897900234027008" inReplyToId="" tweetUserName="davewiner" />
-				<outline text="I didn't realize &quot;here's to the crazy ones&quot; that we attributed to Steve Jobs was actually written by Jack Kerouac. That makes total sense now. &lt;a href=&quot;https://quotepark.com/quotes/1760360-jack-kerouac-heres-to-the-crazy-ones-the-misfits-the-rebels/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 17:05:07 GMT" tweetId="1471889206008025088" urltweet="https://twitter.com/davewiner/status/1471889206008025088" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="I didn't realize &quot;here's to the crazy ones&quot; that we attributed to Steve Jobs was actually written by Jack Kerouac. That makes total sense now. &lt;a href=&quot;https://quotepark.com/quotes/1760360-jack-kerouac-heres-to-the-crazy-ones-the-misfits-the-rebels/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 17:05:07 GMT" tweetId="1471889206008025088" urltweet="https://twitter.com/davewiner/status/1471889206008025088" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Here’s the video.
+
+&lt;a href=&quot;https://www.youtube.com/watch?app=desktop&amp;v=mtftHaK9tYY&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Fri, 17 Dec 2021 19:59:08 GMT" tweetId="1471932996823441413" urltweet="https://twitter.com/davewiner/status/1471932996823441413" inReplyToId="1471889206008025088" tweetUserName="davewiner" />
+					</outline>
 				<outline text="With all the noise, it can be hard to see that what's actually going on here on the net is we're discovering new ways to connect minds, creating mega-minds. 
 
 It's not so much about recreating reality, it's about creating new levels of intellect." type="tweet" created="Fri, 17 Dec 2021 15:02:44 GMT" tweetId="1471858407275696131" urltweet="https://twitter.com/davewiner/status/1471858407275696131" inReplyToId="" tweetUserName="davewiner" />
