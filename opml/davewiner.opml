@@ -6,11 +6,22 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Fri, 17 Dec 2021 14:30:35 GMT</dateModified>
+		<dateModified>Fri, 17 Dec 2021 14:45:36 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 17" type="calendarDay" name="17" >
+				<outline text="An observation. When writing docs, often the challenge is finding a place to put the new docs you're writing.
+
+The great thing about outlining is that it makes it easy to create new places. 
+
+#toolsforthought" type="tweet" created="Fri, 17 Dec 2021 14:43:06 GMT" tweetId="1471853464900804608" urltweet="https://twitter.com/davewiner/status/1471853464900804608" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Another observation.
+
+There's been little focus in the #toolsforthought category about writing publicly, it's mostly been focused on mind-mapping for personal use.
+
+In my outliners the focus is publishing. Given my background in blogging and podcasting, makes sense. ;-)" type="tweet" created="Fri, 17 Dec 2021 14:45:17 GMT" tweetId="1471854015050924037" urltweet="https://twitter.com/davewiner/status/1471854015050924037" inReplyToId="1471853464900804608" tweetUserName="davewiner" />
+					</outline>
 				<outline text="Why Daytona is a game-changer. https://t.co/vLUkM9fn6z" type="tweet" created="Fri, 17 Dec 2021 14:24:23 GMT" tweetId="1471848755674689538" urltweet="https://twitter.com/davewiner/status/1471848755674689538" inReplyToId="" tweetUserName="davewiner" >
 					<outline text="Or we can't trust Google to index our docs and blogs. They're going backward, taking advantage of what they perceive as an impenetrable dominance. Daytona has proven, for me at least, they are not." type="tweet" created="Fri, 17 Dec 2021 14:28:10 GMT" tweetId="1471849708134014984" urltweet="https://twitter.com/davewiner/status/1471849708134014984" inReplyToId="1471848755674689538" tweetUserName="davewiner" >
 						<outline text="I think the real &quot;Web3&quot; will happen when we decide it's time to route around Google. It's totally possible. I wouldn't have believed it myself but I wrote Daytona in two freaking weeks." type="tweet" created="Fri, 17 Dec 2021 14:29:43 GMT" tweetId="1471850097889714179" urltweet="https://twitter.com/davewiner/status/1471850097889714179" inReplyToId="1471849708134014984" tweetUserName="davewiner" />
