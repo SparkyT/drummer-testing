@@ -6,11 +6,12 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 18 Dec 2021 18:11:31 GMT</dateModified>
+		<dateModified>Sat, 18 Dec 2021 18:44:24 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 18" type="calendarDay" name="18" >
+				<outline text="A young man had a €7.5 million windfall. Now what?  &lt;a href=&quot;https://news.ycombinator.com/item?id=29606476&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 18 Dec 2021 18:43:32 GMT" tweetId="1472276361582501893" urltweet="https://twitter.com/davewiner/status/1472276361582501893" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Yesterday: Why Daytona is a game-changer. https://t.co/vLUkM9fn6z" type="tweet" created="Sat, 18 Dec 2021 18:08:41 GMT" tweetId="1472267588545785864" urltweet="https://twitter.com/davewiner/status/1472267588545785864" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I was having a private conversation with longtime friend @jeffjarvis. 
 
