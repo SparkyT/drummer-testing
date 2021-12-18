@@ -6,11 +6,18 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sat, 18 Dec 2021 15:52:13 GMT</dateModified>
+		<dateModified>Sat, 18 Dec 2021 16:18:14 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
 			<outline text="December 18" type="calendarDay" name="18" >
+				<outline text="Good morning everybody. I need a thread to test an app I'm working on, so I thought I'd just greet everyone and maybe see what comes back as a result. 😀" type="tweet" created="Sat, 18 Dec 2021 16:15:40 GMT" tweetId="1472239149788930055" urltweet="https://twitter.com/davewiner/status/1472239149788930055" inReplyToId="" tweetUserName="davewiner" >
+					<outline text="Okay it picked up the first tweet. Now this is a reply and therefore part of a thread. Let's see if that works." type="tweet" created="Sat, 18 Dec 2021 16:16:18 GMT" tweetId="1472239307553492993" urltweet="https://twitter.com/davewiner/status/1472239307553492993" inReplyToId="1472239149788930055" tweetUserName="davewiner" >
+						<outline text="Yes ma'am it did pick up the thread. Here's a screen shot to illustrate. &lt;a href=&quot;https://twitter.com/davewiner/status/1472239714778419213/photo/1&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 18 Dec 2021 16:17:55 GMT" tweetId="1472239714778419213" urltweet="https://twitter.com/davewiner/status/1472239714778419213" inReplyToId="1472239307553492993" tweetUserName="davewiner" />
+						</outline>
+					</outline>
+				<outline text="How cut-and-paste programming is putting the internet and society at risk. &lt;a href=&quot;https://www.theguardian.com/commentisfree/2021/dec/18/how-cut-and-pasted-programming-is-putting-the-internet-and-society-at-risk&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 18 Dec 2021 16:04:52 GMT" tweetId="1472236431393316870" urltweet="https://twitter.com/davewiner/status/1472236431393316870" inReplyToId="" tweetUserName="davewiner" />
+				<outline text="Billie Eilish inspires awkward but vital conversations about porn. &lt;a href=&quot;https://www.theguardian.com/commentisfree/2021/dec/18/billie-eilish-inspires-awkward-but-vital-conversations-about-porn&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 18 Dec 2021 15:55:44 GMT" tweetId="1472234130897317895" urltweet="https://twitter.com/davewiner/status/1472234130897317895" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Who Are the Sons of Confederate Veterans? &lt;a href=&quot;https://www.thenation.com/article/society/sons-confederate-veterans-email-list/&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 18 Dec 2021 15:51:21 GMT" tweetId="1472233027828957184" urltweet="https://twitter.com/davewiner/status/1472233027828957184" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="Nets say Kyrie Irving can play at away games. &lt;a href=&quot;https://www.nytimes.com/2021/12/18/world/nets-say-kyrie-irving-can-play-at-away-games.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUktbfqohlSlUaCybKWsIjolqAiOTUhac1lzr9PTKURHND1foUBYfF8E7LILJnbsp21ijeTcBIIfogTfl_1alfI0lpAUGOk6ezpa4kcW8zuJ7hGSQ_xY7MVrQ1tjS3MWTpcu52geHv4ErDbWfrXLiM1yd1OAhv9sdvJlq&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sat, 18 Dec 2021 15:47:54 GMT" tweetId="1472232162116132871" urltweet="https://twitter.com/davewiner/status/1472232162116132871" inReplyToId="" tweetUserName="davewiner" />
 				<outline text="I replaced the kitchen Mac laptop with an inexpensive Chromebook, I like it, it does the job and it was only $300, so that's good.
