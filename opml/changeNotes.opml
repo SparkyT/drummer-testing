@@ -14,16 +14,30 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 17 Dec 2021 21:49:23 GMT</dateModified>
+		<dateModified>Sat, 18 Dec 2021 17:00:26 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 18" created="Sat, 18 Dec 2021 16:26:24 GMT" type="calendarDay" name="18">
+				<outline text="tweets.opml.org progress" created="Sat, 18 Dec 2021 16:26:25 GMT" type="outline">
+					<outline text="This is version 1.4.3.
+" created="Sat, 18 Dec 2021 17:00:20 GMT"/>
+					<outline text="The new software is installed on the server." created="Sat, 18 Dec 2021 16:26:33 GMT"/>
+					<outline text="Links should now be working." created="Sat, 18 Dec 2021 16:53:06 GMT"/>
+					<outline text="There was a problem with RTs, which it ignores, but when it encountered an RT, it would fail." created="Sat, 18 Dec 2021 16:53:13 GMT"/>
+					<outline text="Still have some more work to do on the UI. " created="Sat, 18 Dec 2021 16:53:29 GMT"/>
+					<outline text="If you want to help test, post a few tweets and see if they show up in your OPML file on GitHub." created="Sat, 18 Dec 2021 16:53:41 GMT"/>
+					<outline text="Knock wood, I think we're good to go now. " created="Sat, 18 Dec 2021 16:54:02 GMT"/>
+					<outline text="Comments &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/130&quot;&gt;here&lt;/a&gt;. " created="Sat, 18 Dec 2021 16:54:10 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 17" created="Fri, 17 Dec 2021 14:21:41 GMT" type="calendarDay" name="17">
 				<outline text="tweets.opml.org notes" created="Fri, 17 Dec 2021 21:47:59 GMT" type="outline">
 					<outline text="As often happens it took longer than I thought it would to get all the issues sorted out with tweets.opml.org. " created="Fri, 17 Dec 2021 21:48:08 GMT"/>
 					<outline text="I'm finishing work for the day now, and the server isn't working very well. But it is working nicely on my test system, so something easy is probably what's wrong, and I'll see it better with a fresh start tomorrow morning. " created="Fri, 17 Dec 2021 21:48:25 GMT"/>
+					<outline text="BTW, I found and fixed the bug that was preventing items with links from working. " created="Fri, 17 Dec 2021 22:00:51 GMT"/>
 					</outline>
 				<outline text="Stress test, day 2" created="Fri, 17 Dec 2021 14:21:42 GMT" type="outline">
 					<outline text="I ran the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/12/16.html#a190505&quot;&gt;stress test&lt;/a&gt; all night, and Drummer is fine. All the outlines are where they are supposed to be containing the content they're supposed to contain. As far as I can tell nothing was overwritten." created="Fri, 17 Dec 2021 14:21:51 GMT"/>
