@@ -14,23 +14,39 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 18 Dec 2021 17:00:26 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
+		<dateModified>Sat, 18 Dec 2021 17:32:39 GMT</dateModified>
+		<expansionState>1,2,3,5,9</expansionState>
 		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 18" created="Sat, 18 Dec 2021 16:26:24 GMT" type="calendarDay" name="18">
+				<outline text="A different URL for your OPML file" created="Sat, 18 Dec 2021 17:25:31 GMT" type="outline">
+					<outline text="This is important. " created="Sat, 18 Dec 2021 17:25:47 GMT"/>
+					<outline text="My OPML file is now located here." created="Sat, 18 Dec 2021 17:25:51 GMT" flBulletedSubs="true">
+						<outline text="http://tweets.opml.org/davewiner/tweets.opml" created="Sat, 18 Dec 2021 17:26:10 GMT"/>
+						</outline>
+					<outline text="And yours is located in a similar location." created="Sat, 18 Dec 2021 17:26:22 GMT"/>
+					<outline text="I have modified &lt;a href=&quot;http://tweets.opml.org/&quot;&gt;the app&lt;/a&gt; so that it displays this URL on the home page. " created="Sat, 18 Dec 2021 17:26:30 GMT"/>
+					<outline text="There are two reasons this is a better URL." created="Sat, 18 Dec 2021 17:26:55 GMT" flBulletedSubs="true">
+						<outline text="It's an instant outline, when you open it in Drummer, it will subscribe to updates. " created="Sat, 18 Dec 2021 17:27:09 GMT"/>
+						<outline text="It's possible in the future to redirect it elsewhere, there was no way to do that with the GitHub url." created="Sat, 18 Dec 2021 17:27:31 GMT"/>
+						</outline>
+					<outline text="The server will continue to update the GitHub file and keep the archive on GitHub. " created="Sat, 18 Dec 2021 17:27:50 GMT"/>
+					<outline text="This is a better one to share and to subscribe to." created="Sat, 18 Dec 2021 17:28:08 GMT"/>
+					</outline>
 				<outline text="tweets.opml.org progress" created="Sat, 18 Dec 2021 16:26:25 GMT" type="outline">
 					<outline text="This is version 1.4.3.
-" created="Sat, 18 Dec 2021 17:00:20 GMT"/>
-					<outline text="The new software is installed on the server." created="Sat, 18 Dec 2021 16:26:33 GMT"/>
-					<outline text="Links should now be working." created="Sat, 18 Dec 2021 16:53:06 GMT"/>
-					<outline text="There was a problem with RTs, which it ignores, but when it encountered an RT, it would fail." created="Sat, 18 Dec 2021 16:53:13 GMT"/>
-					<outline text="Still have some more work to do on the UI. " created="Sat, 18 Dec 2021 16:53:29 GMT"/>
-					<outline text="If you want to help test, post a few tweets and see if they show up in your OPML file on GitHub." created="Sat, 18 Dec 2021 16:53:41 GMT"/>
-					<outline text="Knock wood, I think we're good to go now. " created="Sat, 18 Dec 2021 16:54:02 GMT"/>
-					<outline text="Comments &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/130&quot;&gt;here&lt;/a&gt;. " created="Sat, 18 Dec 2021 16:54:10 GMT"/>
+" created="Sat, 18 Dec 2021 17:00:20 GMT" flBulletedSubs="true">
+						<outline text="The new software is installed on the server." created="Sat, 18 Dec 2021 16:26:33 GMT"/>
+						<outline text="The Check My Tweets command now reports how many tweets it found in a dialog." created="Sat, 18 Dec 2021 17:21:51 GMT"/>
+						<outline text="Links should now be working." created="Sat, 18 Dec 2021 16:53:06 GMT"/>
+						<outline text="There was a problem with RTs, which it ignores, but when it encountered an RT, it would fail." created="Sat, 18 Dec 2021 16:53:13 GMT"/>
+						<outline text="Still have some more work to do on the UI. " created="Sat, 18 Dec 2021 16:53:29 GMT"/>
+						<outline text="If you want to help test, post a few tweets and see if they show up in your OPML file on GitHub." created="Sat, 18 Dec 2021 16:53:41 GMT"/>
+						<outline text="Knock wood, I think we're good to go now. " created="Sat, 18 Dec 2021 16:54:02 GMT"/>
+						<outline text="Comments &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/130&quot;&gt;here&lt;/a&gt;. " created="Sat, 18 Dec 2021 16:54:10 GMT"/>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="December 17" created="Fri, 17 Dec 2021 14:21:41 GMT" type="calendarDay" name="17">
