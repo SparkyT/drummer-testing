@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 18 Dec 2021 17:52:54 GMT</dateModified>
-		<expansionState>1,2,3,5,9,14,15</expansionState>
-		<lastCursor>16</lastCursor>
+		<dateModified>Sun, 19 Dec 2021 00:28:59 GMT</dateModified>
+		<expansionState>1</expansionState>
+		<lastCursor>0</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
@@ -138,6 +138,7 @@
 						<outline text="Here's how to get started..." created="Tue, 14 Dec 2021 22:59:26 GMT" flBulletedSubs="true">
 							<outline text="On twitter.com make sure you're logged into the Twitter account you want to use for this. " created="Tue, 14 Dec 2021 22:58:05 GMT"/>
 							<outline text="Go to &lt;a href=&quot;http://tweets.opml.org/&quot;&gt;tweets.opml.org&lt;/a&gt; and sign in. " created="Tue, 14 Dec 2021 22:57:49 GMT"/>
+							<outline text="Post something to Twitter to get things started. Wait a few minutes. " created="Sun, 19 Dec 2021 00:28:49 GMT"/>
 							<outline text="On the home page there will be a link to your OPML file, grab the link, switch into Drummer and enter the address into the &lt;i&gt;Open URL&lt;/i&gt; command in the File menu." created="Tue, 14 Dec 2021 22:58:34 GMT"/>
 							</outline>
 						<outline text="That's all you have to do to set it up." created="Tue, 14 Dec 2021 23:00:43 GMT"/>
