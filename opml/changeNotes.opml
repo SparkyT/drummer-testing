@@ -14,19 +14,25 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 19 Dec 2021 14:48:03 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sun, 19 Dec 2021 15:15:59 GMT</dateModified>
+		<expansionState>1,2,3,4,8</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 19" created="Sun, 19 Dec 2021 14:44:49 GMT" type="calendarDay" name="19">
 				<outline text="tweets.opml.org" created="Sun, 19 Dec 2021 14:44:50 GMT" type="outline">
-					<outline text="We were doing the archives incorrectly. " created="Sun, 19 Dec 2021 14:44:55 GMT"/>
-					<outline text="The way it should work is a folder for every year, and inside the folder, the months are 01.opml, 02.opml and so on." created="Sun, 19 Dec 2021 14:47:21 GMT"/>
-					<outline text="I fixed the app so it now does it correctly, and deleted the archive folder for each user." created="Sun, 19 Dec 2021 14:46:06 GMT"/>
-					<outline text="An example of a correct structure, look at the &lt;a href=&quot;https://github.com/scripting/tweets.opml.org/tree/main/users/cluelessnewbie&quot;&gt;archive&lt;/a&gt; for cluelessnewbie. " created="Sun, 19 Dec 2021 14:47:25 GMT"/>
-					<outline text="The next time you post a tweet, it will start creating a correctly structured archive. " created="Sun, 19 Dec 2021 14:46:32 GMT"/>
+					<outline text="When I fixed the problem with links, I inadvertently broke support for threads." created="Sun, 19 Dec 2021 15:14:58 GMT">
+						<outline text="That's now fixed. ;-)" created="Sun, 19 Dec 2021 15:15:16 GMT"/>
+						<outline text="You can see why programmers are reluctant to make changes after a certain amount of time." created="Sun, 19 Dec 2021 15:15:23 GMT"/>
+						<outline text="All the systems that make up a piece of software can interact in surprising ways. " created="Sun, 19 Dec 2021 15:15:37 GMT"/>
+						</outline>
+					<outline text="We were doing the archives incorrectly. " created="Sun, 19 Dec 2021 14:44:55 GMT">
+						<outline text="The way it should work is a folder for every year, and inside the folder, the months are 01.opml, 02.opml and so on." created="Sun, 19 Dec 2021 14:47:21 GMT"/>
+						<outline text="I fixed the app so it now does it correctly, and deleted the archive folder for each user." created="Sun, 19 Dec 2021 14:46:06 GMT"/>
+						<outline text="An example of a correct structure, look at the &lt;a href=&quot;https://github.com/scripting/tweets.opml.org/tree/main/users/cluelessnewbie&quot;&gt;archive&lt;/a&gt; for cluelessnewbie. " created="Sun, 19 Dec 2021 14:47:25 GMT"/>
+						<outline text="The next time you post a tweet, it will start creating a correctly structured archive. " created="Sun, 19 Dec 2021 14:46:32 GMT"/>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="December 18" created="Sat, 18 Dec 2021 16:26:24 GMT" type="calendarDay" name="18">
