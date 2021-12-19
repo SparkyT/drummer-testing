@@ -6,10 +6,13 @@
 		<expansionState>1,2</expansionState>
 		<urlPublic>https://raw.githubusercontent.com/scripting/instantOutlines/master/outlines/twitter/davewiner.opml</urlPublic>
 		<urlUpdateSocket>ws://sockets.scripting.com:1239/</urlUpdateSocket>
-		<dateModified>Sun, 19 Dec 2021 03:54:00 GMT</dateModified>
+		<dateModified>Sun, 19 Dec 2021 12:27:21 GMT</dateModified>
 		</head>
 	<body>
 		<outline text="December 2021" type="calendarMonth" name="december2021" >
+			<outline text="December 19" type="calendarDay" name="19" >
+				<outline text="Republicans are shamelessly working to subvert democracy. Are Democratic voters paying attention? &lt;a href=&quot;https://www.theguardian.com/us-news/2021/dec/19/republicans-subvert-democracy-democrats-paying-attention?CMP=Share_iOSApp_Other&quot;&gt;[link]&lt;/a&gt;" type="tweet" created="Sun, 19 Dec 2021 12:26:27 GMT" tweetId="1472543850333941773" urltweet="https://twitter.com/davewiner/status/1472543850333941773" inReplyToId="" tweetUserName="davewiner" />
+				</outline>
 			<outline text="December 18" type="calendarDay" name="18" >
 				<outline text="The life of a developer in the real world. 
 
