@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 20 Dec 2021 18:32:08 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Mon, 20 Dec 2021 21:30:28 GMT</dateModified>
+		<expansionState>1,2,4,7,10,11</expansionState>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
@@ -26,8 +26,21 @@
 					<outline text="This way we can be sure you got a new version of everything, without having the depend option keys and keeping the console open, etc. " created="Mon, 20 Dec 2021 18:30:28 GMT"/>
 					<outline text="Much easier to just have a menu command. ;-)" created="Mon, 20 Dec 2021 18:31:11 GMT"/>
 					</outline>
-				<outline text="New behavior coming" created="Mon, 20 Dec 2021 17:44:08 GMT" type="outline">
+				<outline text="New behavior is here" created="Mon, 20 Dec 2021 17:44:08 GMT" type="outline">
 					<outline text="On &lt;a href=&quot;http://scripting.com/drummer/blog/2021/12/14/231455.html?title=extraCopiesOfDrummerLeftAround&quot;&gt;December 14&lt;/a&gt;, I wrote about the &quot;Extra copies of Drummer left around&quot; problem. " created="Mon, 20 Dec 2021 17:44:15 GMT"/>
+					<outline text="I'm fairly confident it works. " created="Mon, 20 Dec 2021 21:28:22 GMT"/>
+					<outline text="So here's what's going on." created="Mon, 20 Dec 2021 21:26:42 GMT">
+						<outline text="Previously, if you opened a copy of Drummer while you already had one open, on the same machine, the old one would redirect to the About page. " created="Mon, 20 Dec 2021 21:27:00 GMT"/>
+						<outline text="Also previously, if you opened a Drummer on another machine, nothing would happen, and it would be possible to lose work this way. " created="Mon, 20 Dec 2021 21:27:32 GMT"/>
+						</outline>
+					<outline text="Now, things work differently." created="Mon, 20 Dec 2021 21:28:05 GMT">
+						<outline text="If you open a copy of Drummer in a new window or tab on the same machine, or on a different machine, on the old copy, a dialog will appear. Remember this is the version you're not using. When you come back you'll see the dialog. It says &quot;" created="Mon, 20 Dec 2021 21:28:33 GMT">
+							<outline text="" created="Mon, 20 Dec 2021 21:29:26 GMT"/>
+							</outline>
+						</outline>
+					<outline text="" created="Mon, 20 Dec 2021 21:26:42 GMT"/>
+					<outline text="" created="Mon, 20 Dec 2021 21:26:43 GMT"/>
+					<outline text="" created="Mon, 20 Dec 2021 21:26:43 GMT"/>
 					<outline text="We're now ready to test the feature, to see if it's ready to  deploy fully to all Drummer users. " created="Mon, 20 Dec 2021 17:45:21 GMT"/>
 					<outline text="I'm looking for a couple of people who are good at following instructions carefully, and reporting results, to try it out before flipping the switch." created="Mon, 20 Dec 2021 17:45:47 GMT"/>
 					<outline text="If you can help, please post a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/131#issuecomment-998142660&quot;&gt;comment&lt;/a&gt; here with your Twitter screenname. Thanks. " created="Mon, 20 Dec 2021 17:46:22 GMT"/>
