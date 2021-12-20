@@ -14,32 +14,33 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 20 Dec 2021 21:50:50 GMT</dateModified>
-		<expansionState>1,2,4,8</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Mon, 20 Dec 2021 21:56:21 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 20" created="Mon, 20 Dec 2021 15:57:31 GMT" type="calendarDay" name="20">
-				<outline text="Hard Reload command" created="Mon, 20 Dec 2021 18:30:09 GMT" type="outline">
-					<outline text="There's a new &lt;i&gt;Hard Reload&lt;/i&gt; command in the Tools menu that does a hard reload." created="Mon, 20 Dec 2021 18:30:17 GMT"/>
-					<outline text="This way we can be sure you got a new version of everything, without having the depend option keys and keeping the console open, etc. " created="Mon, 20 Dec 2021 18:30:28 GMT"/>
-					<outline text="Much easier to just have a menu command. ;-)" created="Mon, 20 Dec 2021 18:31:11 GMT"/>
-					</outline>
 				<outline text="Dealing with extra Drummer tabs" created="Mon, 20 Dec 2021 17:44:08 GMT" type="outline">
 					<outline text="On &lt;a href=&quot;http://scripting.com/drummer/blog/2021/12/14/231455.html?title=extraCopiesOfDrummerLeftAround&quot;&gt;December 14&lt;/a&gt;, I wrote about the &quot;Extra copies of Drummer left around&quot; problem. " created="Mon, 20 Dec 2021 17:44:15 GMT"/>
 					<outline text="I've implemented a fix that I'm fairly confident in. " created="Mon, 20 Dec 2021 21:28:22 GMT"/>
 					<outline text="This is how it used to work." created="Mon, 20 Dec 2021 21:26:42 GMT">
-						<outline text="Previously, if you opened a copy of Drummer when you already had one open, on the same machine, the old one would redirect to the About page. " created="Mon, 20 Dec 2021 21:27:00 GMT"/>
-						<outline text="Also previously, if you opened a Drummer on another machine, nothing would happen, and it would be possible to lose work this way. " created="Mon, 20 Dec 2021 21:27:32 GMT"/>
+						<outline text="If you opened a copy of Drummer when you already had one open, on the same machine, the old one would redirect to the About page. " created="Mon, 20 Dec 2021 21:27:00 GMT"/>
+						<outline text="If you opened a Drummer on another machine, nothing would happen, and it would be possible to lose work this way. " created="Mon, 20 Dec 2021 21:27:32 GMT"/>
 						</outline>
 					<outline text="Now, things work differently." created="Mon, 20 Dec 2021 21:28:05 GMT">
-						<outline text="If you open a copy of Drummer in a new window or tab on the same machine, or on a different machine, a dialog will appear on the old copy. Remember this is the version you're not using. When you come back you'll see tahe dialog that says &quot;Drummer is running in another tab. You must reload this one, or -- you can safely close it.&quot;" created="Mon, 20 Dec 2021 21:28:33 GMT" collapse="true"/>
+						<outline text="If you open a copy of Drummer in a new window or tab on the same machine, or on a different machine, a dialog will appear on the old copy. Remember this is the version you're not using. When you come back you'll see the dialog. " created="Mon, 20 Dec 2021 21:28:33 GMT"/>
+						<outline text="It says &quot;Drummer is running in another tab. You must reload this one, or -- you can safely close it.&quot;   " created="Mon, 20 Dec 2021 21:54:33 GMT"/>
 						<outline text="&lt;a href=&quot;http://scripting.com/images/2021/12/20/drummerDialog.png&quot;&gt;Screen shot&lt;/a&gt;." created="Mon, 20 Dec 2021 21:48:45 GMT"/>
 						<outline text="If you click OK, the page reloads. " created="Mon, 20 Dec 2021 21:31:11 GMT"/>
 						</outline>
 					<outline text="The important thing is your files won't get out of sync now. " created="Mon, 20 Dec 2021 21:31:37 GMT"/>
 					<outline text="If you have any questions or comments please post a note &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/131#issuecomment-998142660&quot;&gt;here&lt;/a&gt;." created="Mon, 20 Dec 2021 21:31:47 GMT"/>
+					</outline>
+				<outline text="Hard Reload command" created="Mon, 20 Dec 2021 18:30:09 GMT" type="outline">
+					<outline text="There's a new &lt;i&gt;Hard Reload&lt;/i&gt; command in the Tools menu that does a hard reload." created="Mon, 20 Dec 2021 18:30:17 GMT"/>
+					<outline text="This way we can be sure you got a new version of everything, without having the depend option keys and keeping the console open, etc. " created="Mon, 20 Dec 2021 18:30:28 GMT"/>
+					<outline text="Much easier to just have a menu command. ;-)" created="Mon, 20 Dec 2021 18:31:11 GMT"/>
 					</outline>
 				<outline text="Updated the Image Browser tool" created="Mon, 20 Dec 2021 16:10:02 GMT" type="outline">
 					<outline text="Now includes the right-margin images that appeared on Scripting News since August 2021." created="Mon, 20 Dec 2021 16:10:13 GMT"/>
