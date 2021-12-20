@@ -14,13 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 20 Dec 2021 17:48:05 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 20 Dec 2021 18:32:08 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 20" created="Mon, 20 Dec 2021 15:57:31 GMT" type="calendarDay" name="20">
+				<outline text="Hard Reload command" created="Mon, 20 Dec 2021 18:30:09 GMT" type="outline">
+					<outline text="There's a new &lt;i&gt;Hard Reload&lt;/i&gt; command in the Tools menu that does a hard reload." created="Mon, 20 Dec 2021 18:30:17 GMT"/>
+					<outline text="This way we can be sure you got a new version of everything, without having the depend option keys and keeping the console open, etc. " created="Mon, 20 Dec 2021 18:30:28 GMT"/>
+					<outline text="Much easier to just have a menu command. ;-)" created="Mon, 20 Dec 2021 18:31:11 GMT"/>
+					</outline>
 				<outline text="New behavior coming" created="Mon, 20 Dec 2021 17:44:08 GMT" type="outline">
 					<outline text="On &lt;a href=&quot;http://scripting.com/drummer/blog/2021/12/14/231455.html?title=extraCopiesOfDrummerLeftAround&quot;&gt;December 14&lt;/a&gt;, I wrote about the &quot;Extra copies of Drummer left around&quot; problem. " created="Mon, 20 Dec 2021 17:44:15 GMT"/>
 					<outline text="We're now ready to test the feature, to see if it's ready to  deploy fully to all Drummer users. " created="Mon, 20 Dec 2021 17:45:21 GMT"/>
