@@ -14,12 +14,23 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 19 Dec 2021 15:15:59 GMT</dateModified>
-		<expansionState>1,2,3,4,8</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Mon, 20 Dec 2021 16:10:35 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 20" created="Mon, 20 Dec 2021 15:57:31 GMT" type="calendarDay" name="20">
+				<outline text="Updated the Image Browser tool" created="Mon, 20 Dec 2021 16:10:02 GMT" type="outline">
+					<outline text="Now includes the right-margin images that appeared on Scripting News since August 2021." created="Mon, 20 Dec 2021 16:10:13 GMT"/>
+					</outline>
+				<outline text="RFC for including GitHub gists in Drummer blog posts" created="Mon, 20 Dec 2021 15:57:32 GMT" type="outline">
+					<outline text="Here's an &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/15&quot;&gt;RFC&lt;/a&gt;. It'll be a pretty straightforward thing. " created="Mon, 20 Dec 2021 15:57:46 GMT"/>
+					<outline text="I want to do it, because it's useful for programmers, and it's good to have more of them using Drummer. Better bug reports, and possibility of help in branching-out projects. " created="Mon, 20 Dec 2021 15:57:59 GMT"/>
+					<outline text="And also because GitHub is really useful. ;-)" created="Mon, 20 Dec 2021 15:58:54 GMT"/>
+					<outline text="This was initially suggested by &lt;a href=&quot;https://github.com/cro&quot;&gt;CR Oldham&lt;/a&gt;." created="Mon, 20 Dec 2021 15:59:22 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 19" created="Sun, 19 Dec 2021 14:44:49 GMT" type="calendarDay" name="19">
 				<outline text="tweets.opml.org" created="Sun, 19 Dec 2021 14:44:50 GMT" type="outline">
 					<outline text="When I fixed the problem with links, I inadvertently broke support for threads." created="Sun, 19 Dec 2021 15:14:58 GMT">
