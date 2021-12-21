@@ -14,13 +14,17 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 21 Dec 2021 17:18:47 GMT</dateModified>
-		<expansionState>1,2,3,10</expansionState>
+		<dateModified>Tue, 21 Dec 2021 20:37:23 GMT</dateModified>
+		<expansionState>1,2,3,6,13</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 21" created="Tue, 21 Dec 2021 16:29:04 GMT" type="calendarDay" name="21">
+				<outline text="Found the jackpot" created="Tue, 21 Dec 2021 20:35:39 GMT" type="outline">
+					<outline text="I have what appears to be a complete archive of Scripting News, in OPML, starting in April 1997, running through June 2010." created="Tue, 21 Dec 2021 20:35:46 GMT"/>
+					<outline text="Nicely organized too, with a table of contents for each year, in OPML, using includes." created="Tue, 21 Dec 2021 20:36:53 GMT"/>
+					</outline>
 				<outline text="The OPML package" created="Tue, 21 Dec 2021 17:17:10 GMT" type="outline">
 					<outline text="This is for programmers." created="Tue, 21 Dec 2021 17:17:14 GMT"/>
 					<outline text="I was chatting with Scott Hanson the other day and he told me how he discovered the OPML package." created="Tue, 21 Dec 2021 17:17:17 GMT"/>
