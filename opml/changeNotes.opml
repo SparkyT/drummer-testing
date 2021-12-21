@@ -14,13 +14,20 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 21 Dec 2021 16:32:42 GMT</dateModified>
-		<expansionState>1,2,3,6</expansionState>
+		<dateModified>Tue, 21 Dec 2021 17:18:47 GMT</dateModified>
+		<expansionState>1,2,3,10</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 21" created="Tue, 21 Dec 2021 16:29:04 GMT" type="calendarDay" name="21">
+				<outline text="The OPML package" created="Tue, 21 Dec 2021 17:17:10 GMT" type="outline">
+					<outline text="This is for programmers." created="Tue, 21 Dec 2021 17:17:14 GMT"/>
+					<outline text="I was chatting with Scott Hanson the other day and he told me how he discovered the OPML package." created="Tue, 21 Dec 2021 17:17:17 GMT"/>
+					<outline text="I was very happy to hear that. I put it out there so people could easily read and write OPML files from JavaScript code." created="Tue, 21 Dec 2021 17:17:34 GMT"/>
+					<outline text="It could also serve as an example for people working in other languages." created="Tue, 21 Dec 2021 17:17:54 GMT"/>
+					<outline text="I just &lt;a href=&quot;http://scripting.com/2021/12/21/165421.html?title=readingOpmlInJavascriptApps&quot;&gt;wrote a post&lt;/a&gt; about it. If you're interested, I'm happy to help. " created="Tue, 21 Dec 2021 17:18:08 GMT"/>
+					</outline>
 				<outline text="Bookmarklet report" created="Tue, 21 Dec 2021 16:29:05 GMT" type="outline">
 					<outline text="Jim Grisham posted a detailed report on something wrong with the &lt;a href=&quot;http://docserver.scripting.com/drummer/general.opml#1634950078000&quot;&gt;bookmarklet&lt;/a&gt;. " created="Tue, 21 Dec 2021 16:29:08 GMT"/>
 					<outline text="I'm going to cross-post a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/145&quot;&gt;link to his post&lt;/a&gt; in an &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/96&quot;&gt;earlier thread&lt;/a&gt; on the bookmarklet, hoping to re-convene the Bookmarklet Brain Trust or BBT for short. " created="Tue, 21 Dec 2021 16:29:36 GMT"/>
