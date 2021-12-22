@@ -14,13 +14,21 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 22 Dec 2021 21:57:45 GMT</dateModified>
-		<expansionState>1,2,3,4,6</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Wed, 22 Dec 2021 22:37:30 GMT</dateModified>
+		<expansionState>1,2,3,5,9,10,12</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 22" created="Wed, 22 Dec 2021 14:20:07 GMT" type="calendarDay" name="22">
+				<outline text="Loading posts from 2008" created="Wed, 22 Dec 2021 22:32:16 GMT" type="outline">
+					<outline text="I'm starting to load the OPML files from the big batch." created="Wed, 22 Dec 2021 22:32:22 GMT"/>
+					<outline text="Starting with 2008. Here are some good searches of things that were on-topic back then." created="Wed, 22 Dec 2021 22:32:36 GMT">
+						<outline text="&lt;a href=&quot;http://daytona.scripting.com/?q=friendfeed&amp;collection=scriptingnews&quot;&gt;friendfeed&lt;/a&gt; -- prototype for what Facebook became" created="Wed, 22 Dec 2021 22:33:02 GMT"/>
+						</outline>
+					<outline text="I'm going to have a list of all the titled posts that were added." created="Wed, 22 Dec 2021 22:33:59 GMT"/>
+					<outline text="I'm now loading 1998 through 2009. This should take a fair amount of time. 😀" created="Wed, 22 Dec 2021 22:36:57 GMT"/>
+					</outline>
 				<outline text="Fargo blog posts into Daytona" created="Wed, 22 Dec 2021 21:57:11 GMT" type="outline">
 					<outline text="Another big chunk of my archive is in Fargo, which used OPML as its file format as does Drummer. " created="Wed, 22 Dec 2021 21:55:26 GMT">
 						<outline text="As was pointed out by Frank McPherson, in Fargo our blog posts had type &quot;idea&quot; -- I'm going to check this out. Might be a good idea to have Daytona understand that type as well, save Frank some time. Happy to do that." created="Wed, 22 Dec 2021 21:57:04 GMT"/>
