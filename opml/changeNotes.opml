@@ -14,9 +14,9 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 22 Dec 2021 22:37:30 GMT</dateModified>
-		<expansionState>1,2,3,5,9,10,12</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Wed, 22 Dec 2021 22:43:09 GMT</dateModified>
+		<expansionState>1,2,3,5,11,12,14</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
@@ -27,7 +27,9 @@
 						<outline text="&lt;a href=&quot;http://daytona.scripting.com/?q=friendfeed&amp;collection=scriptingnews&quot;&gt;friendfeed&lt;/a&gt; -- prototype for what Facebook became" created="Wed, 22 Dec 2021 22:33:02 GMT"/>
 						</outline>
 					<outline text="I'm going to have a list of all the titled posts that were added." created="Wed, 22 Dec 2021 22:33:59 GMT"/>
-					<outline text="I'm now loading 1998 through 2009. This should take a fair amount of time. 😀" created="Wed, 22 Dec 2021 22:36:57 GMT"/>
+					<outline text="&lt;s&gt;I'm now loading 1998 through 2009. This should take a fair amount of time.&lt;/s&gt; 😀" created="Wed, 22 Dec 2021 22:36:57 GMT"/>
+					<outline text="I hit a problem trying to load 1998. The posts didn't have created atts, of course. I'm not sure when that started, but..." created="Wed, 22 Dec 2021 22:41:58 GMT"/>
+					<outline text="Have to think about how to deal with this. Maybe don't index anything w/o a created att. " created="Wed, 22 Dec 2021 22:42:33 GMT"/>
 					</outline>
 				<outline text="Fargo blog posts into Daytona" created="Wed, 22 Dec 2021 21:57:11 GMT" type="outline">
 					<outline text="Another big chunk of my archive is in Fargo, which used OPML as its file format as does Drummer. " created="Wed, 22 Dec 2021 21:55:26 GMT">
