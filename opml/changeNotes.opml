@@ -14,13 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 22 Dec 2021 14:29:40 GMT</dateModified>
-		<expansionState>1,2,3,10</expansionState>
+		<dateModified>Wed, 22 Dec 2021 16:59:10 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 22" created="Wed, 22 Dec 2021 14:20:07 GMT" type="calendarDay" name="22">
+				<outline text="&lt;a href=&quot;https://github.com/alexjj/drummer-blog&quot;&gt;alexjj&lt;/a&gt; is doing really interesting stuff with Drummer and github. I've been thinking about new integrations with GH myself, but he's already doing it apparently. Hey I just wrote a singular post in the change notes blog. I think this is the first. I think perhaps" created="Wed, 22 Dec 2021 16:57:41 GMT" type="outline"/>
+				<outline text="OPML archive for Scripting News, 1997-2010" created="Wed, 22 Dec 2021 16:33:18 GMT" type="outline">
+					<outline text="It's hard to grasp how much there is here. " created="Wed, 22 Dec 2021 16:33:29 GMT"/>
+					<outline text="&lt;a href=&quot;https://github.com/scripting/Scripting-News/tree/master/blog/opmlOtherSources/1997-2010&quot;&gt;But here it is&lt;/a&gt;." created="Wed, 22 Dec 2021 16:33:45 GMT"/>
+					</outline>
 				<outline text="Please use the support site for file-overwriting problems" created="Wed, 22 Dec 2021 14:20:08 GMT" type="outline">
 					<outline text="I've noticed people posting notes about the file-overwriting problem in their blogs, which of course is fine, but it would be good to cross-post those observations to a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/139&quot;&gt;thread&lt;/a&gt; on the Support site. I don't know what the problem is, so any idea is worth considering. But let's not treat theories as bug reports." created="Wed, 22 Dec 2021 14:21:48 GMT"/>
 					<outline text="For example, I read that people think it might be related to autosaving and switching tabs. The theory is that Drummer initiates an autosave on one tab, the user switches to another tab and in the process the file text is saved to the wrong file. I think this is so unlikely as to be impossible. The file saving happens inside a JavaScript closure for the tab. It couldn't get confused about what file it's writing to, the only file it knows about is the one it's managing. Think about it this way. I'm at the supermarket and use my credit card to pay for groceries. Then while the transaction is still being processed there, I go to the hardware store and buy a hammer. I use the same credit card. It couldn't accidently charge the hammer to Mookie Wilson's credit card. I simply don't have his credit card in my wallet. " created="Wed, 22 Dec 2021 14:21:55 GMT"/>
