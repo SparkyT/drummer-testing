@@ -14,12 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 22 Dec 2021 22:43:09 GMT</dateModified>
-		<expansionState>1,2,3,5,11,12,14</expansionState>
-		<lastCursor>9</lastCursor>
+		<dateModified>Thu, 23 Dec 2021 15:38:48 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 23" created="Thu, 23 Dec 2021 15:35:08 GMT" type="calendarDay" name="23">
+				<outline text="Daytona v0.4.8 changes" created="Thu, 23 Dec 2021 15:35:09 GMT" type="outline">
+					<outline text="We now support &quot;idea&quot; in addition to the other types that indicate a node should be indexed. This was the type Fargo used, and we want to be able to include OPML files that Fargo generated in this system.  " created="Thu, 23 Dec 2021 15:35:35 GMT"/>
+					<outline text="2. Daytona will only index nodes that have a &lt;i&gt;created&lt;/i&gt; attribute. Time is an essential part of this application. Also the created attribute is used to identify nodes within an outline. The eye icon in Daytona would not work without it.  " created="Thu, 23 Dec 2021 15:35:39 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 22" created="Wed, 22 Dec 2021 14:20:07 GMT" type="calendarDay" name="22">
 				<outline text="Loading posts from 2008" created="Wed, 22 Dec 2021 22:32:16 GMT" type="outline">
 					<outline text="I'm starting to load the OPML files from the big batch." created="Wed, 22 Dec 2021 22:32:22 GMT"/>
