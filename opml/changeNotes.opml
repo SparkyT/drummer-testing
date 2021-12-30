@@ -14,16 +14,25 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 23 Dec 2021 15:38:48 GMT</dateModified>
+		<dateModified>Thu, 30 Dec 2021 17:09:31 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
-		<lastCursor>3</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 30" created="Thu, 30 Dec 2021 17:07:18 GMT" type="calendarDay" name="30">
+				<outline text="I'm working on stuff" created="Thu, 30 Dec 2021 17:07:19 GMT" type="outline">
+					<outline text="Mostly in Electric Drummer. " created="Thu, 30 Dec 2021 17:07:29 GMT"/>
+					<outline text="I know it's been quiet. That's how it often is at the end of the year. " created="Thu, 30 Dec 2021 17:07:37 GMT"/>
+					<outline text="Time to gather up loose ends and figure out what's next in the new year. " created="Thu, 30 Dec 2021 17:07:49 GMT"/>
+					<outline text="We will have a little work on the year rollover. This will be the first time we've done a rollover with Daytona in the loop. " created="Thu, 30 Dec 2021 17:08:11 GMT"/>
+					<outline text="I will write up my checklist when I do it for Scripting News. You'll be able to use that as a guide for your blogs." created="Thu, 30 Dec 2021 17:08:32 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 23" created="Thu, 23 Dec 2021 15:35:08 GMT" type="calendarDay" name="23">
 				<outline text="Daytona v0.4.8 changes" created="Thu, 23 Dec 2021 15:35:09 GMT" type="outline">
 					<outline text="We now support &quot;idea&quot; in addition to the other types that indicate a node should be indexed. This was the type Fargo used, and we want to be able to include OPML files that Fargo generated in this system.  " created="Thu, 23 Dec 2021 15:35:35 GMT"/>
-					<outline text="2. Daytona will only index nodes that have a &lt;i&gt;created&lt;/i&gt; attribute. Time is an essential part of this application. Also the created attribute is used to identify nodes within an outline. The eye icon in Daytona would not work without it.  " created="Thu, 23 Dec 2021 15:35:39 GMT"/>
+					<outline text="Daytona will only index nodes that have a &lt;i&gt;created&lt;/i&gt; attribute. Time is an essential part of this application. Also the created attribute is used to identify nodes within an outline. The eye icon in Daytona would not work without it.  " created="Thu, 23 Dec 2021 15:35:39 GMT"/>
 					</outline>
 				</outline>
 			<outline text="December 22" created="Wed, 22 Dec 2021 14:20:07 GMT" type="calendarDay" name="22">
