@@ -14,12 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 30 Dec 2021 17:09:31 GMT</dateModified>
+		<dateModified>Fri, 31 Dec 2021 18:42:00 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Sat, 04 Dec 2021 22:03:27 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 31" created="Fri, 31 Dec 2021 18:41:14 GMT" type="calendarDay" name="31">
+				<outline text="First project for the new year" created="Fri, 31 Dec 2021 18:41:15 GMT" type="outline">
+					<outline text="Getting Drummer and LogSeq interoperating. " created="Fri, 31 Dec 2021 18:41:20 GMT"/>
+					<outline text="If you want to follow the project, here's the &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/4#issuecomment-1003433726&quot;&gt;thread&lt;/a&gt;. " created="Fri, 31 Dec 2021 18:41:31 GMT"/>
+					<outline text="Nothing shipping yet." created="Fri, 31 Dec 2021 18:41:49 GMT"/>
+					</outline>
+				</outline>
 			<outline text="December 30" created="Thu, 30 Dec 2021 17:07:18 GMT" type="calendarDay" name="30">
 				<outline text="I'm working on stuff" created="Thu, 30 Dec 2021 17:07:19 GMT" type="outline">
 					<outline text="Mostly in Electric Drummer. " created="Thu, 30 Dec 2021 17:07:29 GMT"/>
