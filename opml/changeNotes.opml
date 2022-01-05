@@ -14,12 +14,23 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 01 Jan 2022 16:04:21 GMT</dateModified>
-		<expansionState>1,2,3,8</expansionState>
+		<dateModified>Wed, 05 Jan 2022 16:05:47 GMT</dateModified>
+		<expansionState>1,2,3,4</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 5" created="Wed, 05 Jan 2022 16:03:38 GMT" type="calendarDay" name="05">
+				<outline text="DocServer source release, and more" created="Wed, 05 Jan 2022 16:03:39 GMT" type="outline">
+					<outline text="Here's a &lt;a href=&quot;https://github.com/scripting/docServer&quot;&gt;new repo&lt;/a&gt; containing:" created="Wed, 05 Jan 2022 16:03:47 GMT">
+						<outline text="Markdown versions of the DocServer pages. " created="Wed, 05 Jan 2022 16:03:58 GMT"/>
+						<outline text="The Node app that generates those pages." created="Wed, 05 Jan 2022 16:04:11 GMT"/>
+						<outline text="The source for the DocServer web app." created="Wed, 05 Jan 2022 16:04:21 GMT"/>
+						</outline>
+					<outline text="This is an OPML app of course, I write the docs in Drummer and publish them via these two apps." created="Wed, 05 Jan 2022 16:04:41 GMT"/>
+					<outline text="If you have comments or questions this is &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/148&quot;&gt;the place&lt;/a&gt;. " created="Wed, 05 Jan 2022 16:05:19 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 1" created="Sat, 01 Jan 2022 16:02:16 GMT" type="calendarDay" name="01">
 				<outline text="Happy Year!" created="Sat, 01 Jan 2022 16:02:17 GMT" type="outline">
 					<outline text="Or as we say in DrummerLand -- blog rollover day." created="Sat, 01 Jan 2022 16:02:21 GMT"/>
