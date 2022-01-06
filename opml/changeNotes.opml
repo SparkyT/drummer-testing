@@ -14,13 +14,25 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 06 Jan 2022 15:45:40 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Thu, 06 Jan 2022 17:52:19 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 6" created="Thu, 06 Jan 2022 15:25:35 GMT" type="calendarDay" name="06">
+				<outline text="How Drummer works with .md files" created="Wed, 05 Jan 2022 17:13:02 GMT" type="outline">
+					<outline text="You can create a .md file" created="Wed, 05 Jan 2022 17:13:13 GMT">
+						<outline text="Choose the New command from the File menu." created="Wed, 05 Jan 2022 23:32:50 GMT"/>
+						<outline text="Use a .md extension instead of .opml." created="Thu, 06 Jan 2022 16:52:14 GMT"/>
+						</outline>
+					<outline text="When the file is saved, we generate the Markdown equivalent of the outline." created="Wed, 05 Jan 2022 17:13:57 GMT">
+						<outline text="As if the file were going to be opened by LogSeq." created="Wed, 05 Jan 2022 17:14:12 GMT"/>
+						</outline>
+					<outline text="You can open files with the .md extension" created="Wed, 05 Jan 2022 23:49:43 GMT">
+						<outline text="Choose the Open command from the File menu." created="Wed, 05 Jan 2022 23:49:53 GMT"/>
+						</outline>
+					</outline>
 				<outline text="Beginning on interop with LogSeq" created="Thu, 06 Jan 2022 15:25:36 GMT" type="outline">
 					<outline text="I think a standard may be emerging, Markdown used as a way to store outlines. It plays a similar role to the one OPML plays. I still believe OPML is the best choice for interop between outliners, and Drummer will continue to use OPML as its file format, but there is now a way to use Markdown. " created="Thu, 06 Jan 2022 15:25:45 GMT"/>
 					<outline text="The main reason for supporting this format is interop with other products. " created="Thu, 06 Jan 2022 15:31:35 GMT"/>
