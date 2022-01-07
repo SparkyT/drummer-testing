@@ -14,13 +14,18 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 07 Jan 2022 14:43:06 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
+		<dateModified>Fri, 07 Jan 2022 17:51:04 GMT</dateModified>
+		<expansionState>1,2,3,8</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 7" created="Fri, 07 Jan 2022 14:41:01 GMT" type="calendarDay" name="07">
+				<outline text="Import local file command supports .md files" created="Fri, 07 Jan 2022 17:48:46 GMT" type="outline">
+					<outline text="This is probably the most important command, the LogSeq files will probably be on a local disk, this gets them into your web Drummer file. " created="Fri, 07 Jan 2022 17:49:00 GMT"/>
+					<outline text="In Electric Drummer you can just open the file. " created="Fri, 07 Jan 2022 17:49:36 GMT"/>
+					<outline text="I added it to yesterday's change note. " created="Fri, 07 Jan 2022 17:50:45 GMT"/>
+					</outline>
 				<outline text="Drummer &amp; LogSeq continued" created="Fri, 07 Jan 2022 14:41:02 GMT" type="outline">
 					<outline text="A LogSeq user saw the &lt;a href=&quot;https://www.youtube.com/watch?v=RHs6tqookNc&amp;t=3s&quot;&gt;video demo&lt;/a&gt; I did on December 31 showing Drummer and LogSeq interoperating. " created="Fri, 07 Jan 2022 14:41:11 GMT"/>
 					<outline text="And &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/149&quot;&gt;asked how to do&lt;/a&gt; it, so I explained, here. " created="Fri, 07 Jan 2022 14:41:47 GMT"/>
@@ -41,6 +46,9 @@
 						</outline>
 					<outline text="You can open files with the .md extension" created="Wed, 05 Jan 2022 23:49:43 GMT">
 						<outline text="Choose the Open command from the File menu." created="Wed, 05 Jan 2022 23:49:53 GMT"/>
+						</outline>
+					<outline text="You can import from a local file" created="Fri, 07 Jan 2022 17:50:01 GMT">
+						<outline text="Choose Import local file from the File menu, and choose a markdown file." created="Fri, 07 Jan 2022 17:50:06 GMT"/>
 						</outline>
 					</outline>
 				<outline text="Beginning on interop with LogSeq" created="Thu, 06 Jan 2022 15:25:36 GMT" type="outline">
