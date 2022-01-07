@@ -14,13 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 07 Jan 2022 17:51:04 GMT</dateModified>
-		<expansionState>1,2,3,8</expansionState>
+		<dateModified>Fri, 07 Jan 2022 18:46:52 GMT</dateModified>
+		<expansionState>1,2,3,10</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 7" created="Fri, 07 Jan 2022 14:41:01 GMT" type="calendarDay" name="07">
+				<outline text="The support forum is for support only" created="Fri, 07 Jan 2022 18:44:03 GMT" type="outline">
+					<outline text="You may not post links to your projects, products, websites, blogs, whatever. " created="Fri, 07 Jan 2022 18:44:13 GMT"/>
+					<outline text="You can of course post links to examples, sites you're having trouble with, docs, etc. " created="Fri, 07 Jan 2022 18:44:27 GMT"/>
+					<outline text="This is a hard rule, no exceptions. If we didn't have this rule we'd have to start a new support forum where spam was not allowed. So we just don't allow spam there.  " created="Fri, 07 Jan 2022 18:44:49 GMT"/>
+					<outline text="The rules aren't quite as tight in the RFC site. There maybe the conclusion of a thread is something available for people to use. But even there, don't be overtly commercial. " created="Fri, 07 Jan 2022 18:45:55 GMT"/>
+					</outline>
 				<outline text="Import local file command supports .md files" created="Fri, 07 Jan 2022 17:48:46 GMT" type="outline">
 					<outline text="This is probably the most important command, the LogSeq files will probably be on a local disk, this gets them into your web Drummer file. " created="Fri, 07 Jan 2022 17:49:00 GMT"/>
 					<outline text="In Electric Drummer you can just open the file. " created="Fri, 07 Jan 2022 17:49:36 GMT"/>
