@@ -14,12 +14,27 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 07 Jan 2022 18:46:52 GMT</dateModified>
-		<expansionState>1,2,3,10</expansionState>
+		<dateModified>Sun, 09 Jan 2022 16:50:59 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 9" created="Sun, 09 Jan 2022 16:32:01 GMT" type="calendarDay" name="09">
+				<outline text="LogSeq interop is already great" created="Sun, 09 Jan 2022 16:33:33 GMT" type="outline">
+					<outline text="One of the best things that came out of it is that an old friend Eric Kidd, who worked with me on lots of projects in the late 90s and early 00s is back in the loop. He's a LogSeq user, his use-case is (as he puts it) Narrate Your Work, which is a slogan I came up with for outliners. So I fully understand the application. There are lots of things we can do to help. " created="Sun, 09 Jan 2022 16:33:44 GMT"/>
+					<outline text="It appears the first interop project will be to hook up LogSeq to Drummer blogging, so Narrate Your Work can be public if you want it to." created="Sun, 09 Jan 2022 16:35:15 GMT"/>
+					<outline text="It also seems that one user can create more than one LogSeq folder, so you can have a private work narration space and a public one." created="Sun, 09 Jan 2022 16:35:50 GMT"/>
+					<outline text="I think my use-case will be to write a LogSeq blog using LogSeq about the things we're doing to connect our products." created="Sun, 09 Jan 2022 16:36:12 GMT"/>
+					<outline text="I am also in touch with the team at LS, I have been for a fairly long time, but I had to get Drummer to a place where interop made sense." created="Sun, 09 Jan 2022 16:36:37 GMT"/>
+					<outline text="At first I assumed the interop would be based on OPML, but it turned out to be easy to get some interop based on Markdown. " created="Sun, 09 Jan 2022 16:37:07 GMT"/>
+					<outline text="The &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/4#issuecomment-1008233592&quot;&gt;thread on LogSeq interop&lt;/a&gt; was always interesting, now it's &lt;i&gt;really&lt;/i&gt; interesting. ;-)" created="Sun, 09 Jan 2022 16:37:42 GMT"/>
+					</outline>
+				<outline text="Tab titles fixed" created="Sun, 09 Jan 2022 16:32:02 GMT" type="outline">
+					<outline text="I rewrote how Drummer deals with files that don't have titles, and Electric Drummer files whose names are actually file paths. " created="Sun, 09 Jan 2022 16:32:11 GMT"/>
+					<outline text="This change was made a couple of days ago. The code needed to be reorganized, and that's what I did -- it appears to work well. " created="Sun, 09 Jan 2022 16:32:43 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 7" created="Fri, 07 Jan 2022 14:41:01 GMT" type="calendarDay" name="07">
 				<outline text="The support forum is for support only" created="Fri, 07 Jan 2022 18:44:03 GMT" type="outline">
 					<outline text="You may not post links to your projects, products, websites, blogs, whatever. " created="Fri, 07 Jan 2022 18:44:13 GMT"/>
