@@ -14,17 +14,22 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 10 Jan 2022 16:29:34 GMT</dateModified>
-		<expansionState>1,2,3,8</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Mon, 10 Jan 2022 16:31:47 GMT</dateModified>
+		<expansionState>1,2,3,7,12</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 10" created="Mon, 10 Jan 2022 16:24:54 GMT" type="calendarDay" name="10">
+				<outline text="Posting to Drummer from outside Drummer" created="Mon, 10 Jan 2022 16:30:09 GMT" type="outline">
+					<outline text="It's possible to do this if you're a good system programmer." created="Mon, 10 Jan 2022 16:30:17 GMT"/>
+					<outline text="I outlined how it works to a longtime programming buddy Eric Kidd, who just showed up in the thread about hooking Drummer up to LogSeq. You never know who's lurking around in the shadows at any time. Glad to see him here, I wonder how long it'll be before he discovers the Change Notes outline. :-)" created="Mon, 10 Jan 2022 16:30:27 GMT"/>
+					<outline text="Here's the &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/17&quot;&gt;thread&lt;/a&gt;. " created="Mon, 10 Jan 2022 16:31:31 GMT"/>
+					</outline>
 				<outline text="Building Drummer for Ubuntu" created="Mon, 10 Jan 2022 16:28:00 GMT" type="outline">
 					<outline text="I've at least tried to do it at this time, and have a set of builds, but I haven't yet been able to run any of them in a Ubuntu virtual machine in VM Ware. " created="Mon, 10 Jan 2022 16:28:24 GMT"/>
 					<outline text="Having Linux and Windows versions of E/D has become important. " created="Mon, 10 Jan 2022 16:28:55 GMT"/>
-					<outline text="A thread where I'm narrating the work." created="Mon, 10 Jan 2022 16:29:12 GMT"/>
+					<outline text="A &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/18&quot;&gt;thread&lt;/a&gt; where I'm narrating the work." created="Mon, 10 Jan 2022 16:29:12 GMT"/>
 					</outline>
 				<outline text="Using Daytona to search Drummer docs" created="Mon, 10 Jan 2022 16:24:55 GMT" type="outline">
 					<outline text="You can search all Drummer docs and change notes using Daytona. " created="Mon, 10 Jan 2022 16:25:24 GMT">
