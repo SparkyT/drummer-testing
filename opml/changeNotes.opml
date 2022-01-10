@@ -14,12 +14,27 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 10 Jan 2022 00:10:54 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Mon, 10 Jan 2022 16:29:34 GMT</dateModified>
+		<expansionState>1,2,3,8</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 10" created="Mon, 10 Jan 2022 16:24:54 GMT" type="calendarDay" name="10">
+				<outline text="Building Drummer for Ubuntu" created="Mon, 10 Jan 2022 16:28:00 GMT" type="outline">
+					<outline text="I've at least tried to do it at this time, and have a set of builds, but I haven't yet been able to run any of them in a Ubuntu virtual machine in VM Ware. " created="Mon, 10 Jan 2022 16:28:24 GMT"/>
+					<outline text="Having Linux and Windows versions of E/D has become important. " created="Mon, 10 Jan 2022 16:28:55 GMT"/>
+					<outline text="A thread where I'm narrating the work." created="Mon, 10 Jan 2022 16:29:12 GMT"/>
+					</outline>
+				<outline text="Using Daytona to search Drummer docs" created="Mon, 10 Jan 2022 16:24:55 GMT" type="outline">
+					<outline text="You can search all Drummer docs and change notes using Daytona. " created="Mon, 10 Jan 2022 16:25:24 GMT">
+						<outline text="Launch &lt;a href=&quot;http://daytona.scripting.com/&quot;&gt;Daytona&lt;/a&gt;." created="Mon, 10 Jan 2022 16:25:39 GMT"/>
+						<outline text="Choose Drummer docs in the menu." created="Mon, 10 Jan 2022 16:27:02 GMT"/>
+						<outline text="Enter the search string in the box." created="Mon, 10 Jan 2022 16:27:10 GMT"/>
+						</outline>
+					<outline text="That's one of the reasons I post things to the Change Notes outline, because I'll be able to find the docs again next time. " created="Mon, 10 Jan 2022 16:27:28 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 9" created="Sun, 09 Jan 2022 16:32:01 GMT" type="calendarDay" name="09">
 				<outline text="Changed how autosave works" created="Sun, 09 Jan 2022 23:56:13 GMT" type="outline">
 					<outline text="Previously, if you had &lt;a href=&quot;https://github.com/scripting/docServer/blob/main/docs/pages/dialog.md#dialogabout&quot;&gt;dialog.about&lt;/a&gt; in front, it could, if you closed Drummer while the dialog was open, cause the current outline to be overwritten." created="Sun, 09 Jan 2022 23:56:31 GMT"/>
@@ -410,7 +425,7 @@
 					<outline text="This is how you search for Tesla on my blog." created="Fri, 10 Dec 2021 16:29:04 GMT"/>
 					<outline text="&lt;a href=&quot;http://daytona.scripting.com/?q=tesla&amp;collection=scriptingnews&quot;&gt;http://daytona.scripting.com/?q=tesla&amp;collection=scriptingnews&lt;/a&gt;" created="Fri, 10 Dec 2021 16:29:08 GMT"/>
 					<outline text="Outliner fans check out, it's all outlines. "/>
-					<outline text="How did that work? ����" created="Fri, 10 Dec 2021 16:29:30 GMT"/>
+					<outline text="How did that work? 😀" created="Fri, 10 Dec 2021 16:29:30 GMT"/>
 					</outline>
 				</outline>
 			<outline text="December 9" created="Thu, 09 Dec 2021 23:02:04 GMT" type="calendarDay" name="09">
