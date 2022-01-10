@@ -14,13 +14,19 @@
 		<ownerName>Dave Winer</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 09 Jan 2022 16:50:59 GMT</dateModified>
+		<dateModified>Mon, 10 Jan 2022 00:10:54 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 9" created="Sun, 09 Jan 2022 16:32:01 GMT" type="calendarDay" name="09">
+				<outline text="Changed how autosave works" created="Sun, 09 Jan 2022 23:56:13 GMT" type="outline">
+					<outline text="Previously, if you had &lt;a href=&quot;https://github.com/scripting/docServer/blob/main/docs/pages/dialog.md#dialogabout&quot;&gt;dialog.about&lt;/a&gt; in front, it could, if you closed Drummer while the dialog was open, cause the current outline to be overwritten." created="Sun, 09 Jan 2022 23:56:31 GMT"/>
+					<outline text="I changed the autosave function so it can't do this (at least that's the plan, knock wood, praise murphy)." created="Sun, 09 Jan 2022 23:56:56 GMT"/>
+					<outline text="Bumped the version to 2.0.16." created="Mon, 10 Jan 2022 00:05:13 GMT"/>
+					<outline text="Currently only in web Drummer" created="Sun, 09 Jan 2022 23:56:25 GMT"/>
+					</outline>
 				<outline text="LogSeq interop is already great" created="Sun, 09 Jan 2022 16:33:33 GMT" type="outline">
 					<outline text="One of the best things that came out of it is that an old friend Eric Kidd, who worked with me on lots of projects in the late 90s and early 00s is back in the loop. He's a LogSeq user, his use-case is (as he puts it) Narrate Your Work, which is a slogan I came up with for outliners. So I fully understand the application. There are lots of things we can do to help. " created="Sun, 09 Jan 2022 16:33:44 GMT"/>
 					<outline text="It appears the first interop project will be to hook up LogSeq to Drummer blogging, so Narrate Your Work can be public if you want it to." created="Sun, 09 Jan 2022 16:35:15 GMT"/>
@@ -404,7 +410,7 @@
 					<outline text="This is how you search for Tesla on my blog." created="Fri, 10 Dec 2021 16:29:04 GMT"/>
 					<outline text="&lt;a href=&quot;http://daytona.scripting.com/?q=tesla&amp;collection=scriptingnews&quot;&gt;http://daytona.scripting.com/?q=tesla&amp;collection=scriptingnews&lt;/a&gt;" created="Fri, 10 Dec 2021 16:29:08 GMT"/>
 					<outline text="Outliner fans check out, it's all outlines. "/>
-					<outline text="How did that work? 😀" created="Fri, 10 Dec 2021 16:29:30 GMT"/>
+					<outline text="How did that work? ����" created="Fri, 10 Dec 2021 16:29:30 GMT"/>
 					</outline>
 				</outline>
 			<outline text="December 9" created="Thu, 09 Dec 2021 23:02:04 GMT" type="calendarDay" name="09">
