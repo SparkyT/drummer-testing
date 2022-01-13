@@ -11,15 +11,22 @@
 		<urlHeaderImage>http://scripting.com/images/2021/05/10/pissaro.png</urlHeaderImage>
 		<urlBlogWebsite>http://scripting.com/drummer/blog/</urlBlogWebsite>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
-		<ownerName>Dave Winer</ownerName>
+		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 10 Jan 2022 16:31:47 GMT</dateModified>
-		<expansionState>1,2,3,7,12</expansionState>
+		<dateModified>Thu, 13 Jan 2022 16:41:14 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
 		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 13" created="Thu, 13 Jan 2022 16:40:47 GMT" type="calendarDay" name="13">
+				<outline text="myLogseqBlog is ready for testers" created="Thu, 13 Jan 2022 16:40:48 GMT" type="outline">
+					<outline text="It's ready for testers." created="Thu, 13 Jan 2022 16:40:57 GMT"/>
+					<outline text="https://github.com/scripting/myLogseqBlog/issues/1"/>
+					<outline text="Report success or problems in that thread." created="Thu, 13 Jan 2022 16:41:13 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 10" created="Mon, 10 Jan 2022 16:24:54 GMT" type="calendarDay" name="10">
 				<outline text="Posting to Drummer from outside Drummer" created="Mon, 10 Jan 2022 16:30:09 GMT" type="outline">
 					<outline text="It's possible to do this if you're a good system programmer." created="Mon, 10 Jan 2022 16:30:17 GMT"/>
