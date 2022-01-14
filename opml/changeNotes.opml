@@ -14,12 +14,20 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 13 Jan 2022 16:41:14 GMT</dateModified>
+		<dateModified>Fri, 14 Jan 2022 21:49:29 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 14" created="Fri, 14 Jan 2022 21:45:26 GMT" type="calendarDay" name="14">
+				<outline text="Electric Drummer for Linux and Windows, on the way" created="Fri, 14 Jan 2022 21:45:27 GMT" type="outline">
+					<outline text="My longtime friend Scott Hanson has been working on getting build scripts working for Electric Drummer on Windows and Linux." created="Fri, 14 Jan 2022 21:45:38 GMT"/>
+					<outline text="I spent a few hours today using the Linux version, and it's taking some getting used to, Linux is different from the Mac, but I have to say it's remarkable that it works so well. I'm not entirely surprised, but then again, it's always surprising when software works without much effort. The JavaScript platform really does work well for what it does. " created="Fri, 14 Jan 2022 21:46:28 GMT"/>
+					<outline text="If you have an immediate need to use one of these versions, let me know, and we can possibly get you into the private test group." created="Fri, 14 Jan 2022 21:47:38 GMT"/>
+					<outline text="Here's a &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/18&quot;&gt;place&lt;/a&gt; to ask questions. " created="Fri, 14 Jan 2022 21:48:07 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 13" created="Thu, 13 Jan 2022 16:40:47 GMT" type="calendarDay" name="13">
 				<outline text="myLogseqBlog is ready for testers" created="Thu, 13 Jan 2022 16:40:48 GMT" type="outline">
 					<outline text="It's ready for testers." created="Thu, 13 Jan 2022 16:40:57 GMT"/>
