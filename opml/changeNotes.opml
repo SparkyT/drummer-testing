@@ -14,12 +14,18 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 15 Jan 2022 18:23:10 GMT</dateModified>
-		<expansionState>1,2,3,9,10</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 16 Jan 2022 21:24:27 GMT</dateModified>
+		<expansionState>1,2,3,6,7,13,14</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 16" created="Sun, 16 Jan 2022 21:18:07 GMT" type="calendarDay" name="16">
+				<outline text="TreeChart coming tomorrow? We hope" created="Sun, 16 Jan 2022 21:18:08 GMT" type="outline">
+					<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=-5DAQwL_eNE&quot;&gt;Video demo&lt;/a&gt;: A new demo app called &lt;a href=&quot;http://daytona.scripting.com/?q=treechart&amp;collection=scriptingnews&quot;&gt;TreeChart&lt;/a&gt; interactively displays beautiful SVG trees as you edit them in the Drummer outliner. This is a seat-of-the-pants preview. I hope to release the app tomorrow so people can see how it works for themselves and hopefully it'll give developers and users some ideas. " created="Sun, 16 Jan 2022 20:34:54 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=-5DAQwL_eNE"/>
+					<outline text="I'm going to post links to the technology as I document it tomorrow in &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/20&quot;&gt;this thread&lt;/a&gt;. " created="Sun, 16 Jan 2022 21:23:49 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 15" created="Sat, 15 Jan 2022 18:20:25 GMT" type="calendarDay" name="15">
 				<outline text="Looking for devops outliner people" created="Sat, 15 Jan 2022 18:20:26 GMT" type="outline">
 					<outline text="Are you a devops person who uses an outliner as part of work?" created="Sat, 15 Jan 2022 18:20:31 GMT"/>
