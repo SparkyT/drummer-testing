@@ -14,12 +14,21 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 16 Jan 2022 21:24:27 GMT</dateModified>
-		<expansionState>1,2,3,6,7,13,14</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Mon, 17 Jan 2022 16:46:41 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 17" created="Mon, 17 Jan 2022 16:43:30 GMT" type="calendarDay" name="17">
+				<outline text="Electric Drummer on Windows and Linux" created="Mon, 17 Jan 2022 16:43:31 GMT" type="outline">
+					<outline text="Scott Hanson has new test versions of Electric Drummer for Windows and Linux. " created="Mon, 17 Jan 2022 16:43:51 GMT"/>
+					<outline text="He's started a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/152&quot;&gt;thread&lt;/a&gt; on Drummer Support with details. " created="Mon, 17 Jan 2022 16:44:22 GMT"/>
+					<outline text="I've been using the Linux version, it's pretty much exactly like the Mac version." created="Mon, 17 Jan 2022 16:44:31 GMT"/>
+					<outline text="For me this is liberating, I've been wanting to write on Linux because all my server stuff is running there. Having it all on the same systems will make things less complicated, and of course that's good." created="Mon, 17 Jan 2022 16:45:03 GMT"/>
+					<outline text="I thank Scott for picking this up as a labor of love. He's doing something very empowering for Drummer users. " created="Mon, 17 Jan 2022 16:45:41 GMT"/>
+					</outline>
+				</outline>
 			<outline text="January 16" created="Sun, 16 Jan 2022 21:18:07 GMT" type="calendarDay" name="16">
 				<outline text="TreeChart coming tomorrow? We hope" created="Sun, 16 Jan 2022 21:18:08 GMT" type="outline">
 					<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=-5DAQwL_eNE&quot;&gt;Video demo&lt;/a&gt;: A new demo app called &lt;a href=&quot;http://daytona.scripting.com/?q=treechart&amp;collection=scriptingnews&quot;&gt;TreeChart&lt;/a&gt; interactively displays beautiful SVG trees as you edit them in the Drummer outliner. This is a seat-of-the-pants preview. I hope to release the app tomorrow so people can see how it works for themselves and hopefully it'll give developers and users some ideas. " created="Sun, 16 Jan 2022 20:34:54 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=-5DAQwL_eNE"/>
