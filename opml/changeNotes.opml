@@ -14,13 +14,20 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 18 Jan 2022 16:51:46 GMT</dateModified>
-		<expansionState>1,2,3,6</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Tue, 18 Jan 2022 17:38:01 GMT</dateModified>
+		<expansionState>1,2,3,9,12</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 18" created="Tue, 18 Jan 2022 16:49:34 GMT" type="calendarDay" name="18">
+				<outline text="TreeChart demo app is here now" created="Tue, 18 Jan 2022 17:34:05 GMT" type="outline">
+					<outline text="To begin with I want to open it up to people who are already in the loop on Drummer. It's public, but for today am only pointing to it from the change notes outline." created="Tue, 18 Jan 2022 17:34:12 GMT"/>
+					<outline text="Here's  the &lt;a href=&quot;https://github.com/scripting/treechart/blob/main/README.md&quot;&gt;getting started directions&lt;/a&gt;, that walk you through the demo, and how to set up your own tree chart demo. " created="Tue, 18 Jan 2022 17:34:42 GMT"/>
+					<outline text="If you have any questions or comments, or see problems, please post a note in &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/20&quot;&gt;this thread&lt;/a&gt;. " created="Tue, 18 Jan 2022 17:35:30 GMT"/>
+					<outline text="This, based on our experience with MORE 1.1c in 1986 is a key part of the evolution of outliners. Renderings of outlines. New interactive experiences. It's like adding chocolate to milk, it makes it taste a little better. ;-)" created="Tue, 18 Jan 2022 17:36:05 GMT"/>
+					<outline text="Back in 86 we sold the idea, to get started with this slogan: &quot;The C stands for color!&quot; Everyone loves color. " created="Tue, 18 Jan 2022 17:37:08 GMT"/>
+					</outline>
 				<outline text="What you need to know about Electric Drummer" created="Tue, 18 Jan 2022 16:49:35 GMT" type="outline">
 					<outline text="As we're starting to test the Linux and Windows versions of Electric Drummer there have been some basic questions. I thought it would be a good idea to publish the &lt;a href=&quot;http://scripting.com/2022/01/18/163308.html?title=whatIsElectricDrummer&quot;&gt;answers here&lt;/a&gt; and on my blog. " created="Tue, 18 Jan 2022 16:49:41 GMT"/>
 					<outline text="The &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/152&quot;&gt;getting-started page&lt;/a&gt; is here, if you're interested in helping out, finding glitches, reporting them, verifying they're fixed when fixes ship." created="Tue, 18 Jan 2022 16:50:43 GMT"/>
