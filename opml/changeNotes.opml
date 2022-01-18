@@ -14,13 +14,14 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 18 Jan 2022 17:38:01 GMT</dateModified>
-		<expansionState>1,2,3,9,12</expansionState>
+		<dateModified>Tue, 18 Jan 2022 22:01:19 GMT</dateModified>
+		<expansionState>1,2,4,10,13</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
 			<outline text="January 18" created="Tue, 18 Jan 2022 16:49:34 GMT" type="calendarDay" name="18">
+				<outline text="I &lt;a href=&quot;https://twitter.com/ScottHansonDE/status/1483351658260307970&quot;&gt;hear&lt;/a&gt; that Karabiner-Elements will help me swap the Ctrl and Cmd keys on my Logitech MX keyboard. " created="Tue, 18 Jan 2022 21:47:08 GMT" type="outline"/>
 				<outline text="TreeChart demo app is here now" created="Tue, 18 Jan 2022 17:34:05 GMT" type="outline">
 					<outline text="To begin with I want to open it up to people who are already in the loop on Drummer. It's public, but for today am only pointing to it from the change notes outline." created="Tue, 18 Jan 2022 17:34:12 GMT"/>
 					<outline text="Here's  the &lt;a href=&quot;https://github.com/scripting/treechart/blob/main/README.md&quot;&gt;getting started directions&lt;/a&gt;, that walk you through the demo, and how to set up your own tree chart demo. " created="Tue, 18 Jan 2022 17:34:42 GMT"/>
