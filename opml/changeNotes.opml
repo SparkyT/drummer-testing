@@ -14,9 +14,9 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 23 Jan 2022 17:18:04 GMT</dateModified>
+		<dateModified>Sun, 23 Jan 2022 18:23:11 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
@@ -25,7 +25,7 @@
 					<outline text="I've reworked the user interface for &lt;a href=&quot;http://tweets.opml.org/&quot;&gt;tweets.opml.org&lt;/a&gt;. It was too verbose and didn't make it clear wtf it was doing. Not uncommon for a first release of something like this. Now, before you've logged on there's a very simple dialog and a button that lets you log on. " created="Sun, 23 Jan 2022 17:13:38 GMT">
 						<outline text="&lt;img src=&quot;http://scripting.com/images/2022/01/23/newuiopmltweets.png&quot;&gt;" created="Sun, 23 Jan 2022 17:15:01 GMT"/>
 						</outline>
-					<outline text="Then once logged on, you can see your own outline in a Concord outline display that is hooked up as an instant outline. And there also is a People menu so you can look at the outlines of other users of tweets.opml.org." created="Sun, 23 Jan 2022 17:11:48 GMT"/>
+					<outline text="Then once logged on, you can &lt;a href=&quot;http://scripting.com/images/2022/01/23/tweetsOpmlScreen.png&quot;&gt;see your own outline&lt;/a&gt; in a Concord outline display that is hooked up as an instant outline. And there also is a People menu so you can look at the outlines of other users of tweets.opml.org." created="Sun, 23 Jan 2022 17:11:48 GMT"/>
 					<outline text="There are obvious enhancements that could be made beyond this, but I only wanted to spend a couple of days on prettying up this UI, other fish to fry as they say. " created="Sun, 23 Jan 2022 17:12:30 GMT"/>
 					</outline>
 				<outline text="How to use TreeChart from Drummer" created="Sun, 23 Jan 2022 15:37:55 GMT" type="outline">
