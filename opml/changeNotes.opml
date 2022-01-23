@@ -14,12 +14,28 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 20 Jan 2022 17:02:31 GMT</dateModified>
-		<expansionState>1,2,3,7</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 23 Jan 2022 15:40:51 GMT</dateModified>
+		<expansionState>1,2,3,5,15,16,20</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 23" created="Sun, 23 Jan 2022 15:37:54 GMT" type="calendarDay" name="23">
+				<outline text="How to use TreeChart from Drummer" created="Sun, 23 Jan 2022 15:37:55 GMT" type="outline">
+					<outline text="The docs explain how to use it if you've never used Drummer. " created="Sun, 23 Jan 2022 15:38:02 GMT"/>
+					<outline text="But if you have used Drummer..." created="Sun, 23 Jan 2022 15:38:16 GMT">
+						<outline text="Create an outline." created="Sun, 23 Jan 2022 15:38:25 GMT"/>
+						<outline text="Make it public." created="Sun, 23 Jan 2022 15:38:38 GMT"/>
+						<outline text="Enter your top level headline, the title of the chart." created="Sun, 23 Jan 2022 15:38:41 GMT"/>
+						<outline text="Give a type attribute with the value treechart. " created="Sun, 23 Jan 2022 15:38:51 GMT"/>
+						<outline text="Fill in the outline under the top node." created="Sun, 23 Jan 2022 15:39:01 GMT"/>
+						<outline text="Get the URL of the outline. " created="Sun, 23 Jan 2022 15:39:11 GMT"/>
+						<outline text="In the browser's address bar, type http://treechart.scripting.com/?url= and paste the URL of your outline and press return." created="Sun, 23 Jan 2022 15:39:19 GMT"/>
+						<outline text="Your outline will appear as a chart in TreeChart. " created="Sun, 23 Jan 2022 15:39:50 GMT"/>
+						<outline text="If you modify your outline, the mods will instantly appear in TreeChart. " created="Sun, 23 Jan 2022 15:40:12 GMT"/>
+						</outline>
+					</outline>
+				</outline>
 			<outline text="January 20" created="Thu, 20 Jan 2022 16:06:58 GMT" type="calendarDay" name="20">
 				<outline text="Message of the Day feature" created="Thu, 20 Jan 2022 16:06:59 GMT" type="outline">
 					<outline text="I'll use this space to let Drummer users know about the latest features, fixes and new connections. " created="Thu, 20 Jan 2022 16:10:09 GMT"/>
