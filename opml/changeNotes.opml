@@ -14,8 +14,8 @@
 		<ownerName>Dave The Outliner</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 23 Jan 2022 17:15:52 GMT</dateModified>
-		<expansionState>1,2,3,4,8,10,20,21,25</expansionState>
+		<dateModified>Sun, 23 Jan 2022 17:18:04 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
