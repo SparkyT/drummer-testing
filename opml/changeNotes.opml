@@ -11,10 +11,10 @@
 		<urlHeaderImage>http://scripting.com/images/2021/05/10/pissaro.png</urlHeaderImage>
 		<urlBlogWebsite>http://scripting.com/drummer/blog/</urlBlogWebsite>
 		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
-		<ownerName>Dave is thinking about REPLs</ownerName>
+		<ownerName>Dave</ownerName>
 		<ownerId>http://twitter.com/davewiner</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 27 Feb 2022 14:21:49 GMT</dateModified>
+		<dateModified>Sun, 27 Feb 2022 16:26:51 GMT</dateModified>
 		<expansionState>1,2,3</expansionState>
 		<lastCursor>1</lastCursor>
 		</head>
