@@ -1,1 +1,288 @@
-Not found.
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Change notes</title>
+		<dateCreated>Wed, 22 Sep 2021 16:20:18 GMT</dateCreated>
+		<urlPublic>http://drummer.scripting.com/davewiner/drummer/changeNotes.opml</urlPublic>
+		<urlJson>http://drummer.scripting.com/davewiner/drummer/changeNotes.json</urlJson>
+		<flPublic>true</flPublic>
+		<description>Dave Winer's notes on development with Drummer and related projects.</description>
+		<copyright>Copyright 2021, Dave Winer.</copyright>
+		<urlHeaderImage>http://scripting.com/images/2021/05/10/pissaro.png</urlHeaderImage>
+		<urlBlogWebsite>http://scripting.com/drummer/blog/</urlBlogWebsite>
+		<ownerTwitterScreenName>davewiner</ownerTwitterScreenName>
+		<ownerName>dave.rss</ownerName>
+		<ownerId>http://twitter.com/davewiner</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<dateModified>Sun, 15 May 2022 15:04:01 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>1</lastCursor>
+		</head>
+	<body>
+		<outline text="May 2022" created="Sun, 15 May 2022 15:02:50 GMT" name="may2022" type="calendarMonth">
+			<outline text="May 15" created="Sun, 15 May 2022 15:02:51 GMT" type="calendarDay" name="15">
+				<outline text="Editing subscription lists" created="Sun, 15 May 2022 15:02:52 GMT" type="outline">
+					<outline text="There's a &lt;a href=&quot;http://editsubscriptionlists.opml.org/&quot;&gt;new doc&lt;/a&gt; explaining how to create and edit RSS subscription lists in Drummer. " created="Sun, 15 May 2022 15:02:58 GMT"/>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="March 2022" created="Fri, 04 Mar 2022 17:00:44 GMT" name="march2022" type="calendarMonth">
+			<outline text="March 4" created="Fri, 04 Mar 2022 17:00:45 GMT" type="calendarDay" name="04">
+				<outline text="Changing the font on your outlines" created="Fri, 04 Mar 2022 17:00:46 GMT" type="outline">
+					<outline text="I've been using Drummer to edit JavaScript source these days, and find that it's more comfortable if I can change the font and size to something more code-like. So I've added a feature where you can set the font, size and line-height for a whole outline. " created="Fri, 04 Mar 2022 17:00:57 GMT"/>
+					<outline text="There are three new optional head-level attributes:" created="Fri, 04 Mar 2022 17:01:48 GMT" flBulletedSubs="true">
+						<outline text="font" created="Fri, 04 Mar 2022 17:01:57 GMT"/>
+						<outline text="fontSize" created="Fri, 04 Mar 2022 17:02:03 GMT"/>
+						<outline text="lineHeight" created="Fri, 04 Mar 2022 17:02:06 GMT"/>
+						</outline>
+					<outline text="If you change them and then reload Drummer, the font should change for the outline. " created="Fri, 04 Mar 2022 17:02:31 GMT"/>
+					<outline text="In my coding outline, I changed the font to Monaco, fontSize to 13, lineHeight to 20." created="Fri, 04 Mar 2022 17:21:28 GMT"/>
+					<outline text="The fonts are &lt;a href=&quot;https://www.w3schools.com/cssref/css_websafe_fonts.asp&quot;&gt;web fonts&lt;/a&gt;, or Ubuntu (since Drummer loads that font automatically)." created="Fri, 04 Mar 2022 17:02:50 GMT"/>
+					<outline text="If you have questions or comments post them &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/23&quot;&gt;here&lt;/a&gt;. " created="Fri, 04 Mar 2022 17:20:41 GMT"/>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="February 2022" created="Thu, 17 Feb 2022 15:08:35 GMT" name="february2022" type="calendarMonth">
+			<outline text="February 27" created="Sun, 27 Feb 2022 14:19:27 GMT" type="calendarDay" name="27">
+				<outline text="Do you have tabs that you can't get rid of?" created="Sun, 27 Feb 2022 14:19:28 GMT" type="outline">
+					<outline text="I've heard of people having tabs that weren't working properly but just got a report from a user about this a couple of days ago, so I implemented a fix. If you're having the problem, check out this &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/22#issuecomment-1052207257&quot;&gt;comment&lt;/a&gt;, and follow the instructions carefully, being sure to do a backup before anything. Please report on whether it worked. " created="Sun, 27 Feb 2022 14:19:39 GMT"/>
+					</outline>
+				</outline>
+			<outline text="February 24" created="Thu, 24 Feb 2022 17:16:43 GMT" type="calendarDay" name="24">
+				<outline text="A &lt;a href=&quot;http://scripting.com/2022/02/24/170155.html?title=drummerStatusReport&quot;&gt;status report&lt;/a&gt; re Drummer stability." created="Thu, 24 Feb 2022 17:16:44 GMT" type="outline"/>
+				</outline>
+			<outline text="February 17" created="Thu, 17 Feb 2022 15:08:36 GMT" type="calendarDay" name="17">
+				<outline text="Good morning" created="Thu, 17 Feb 2022 15:08:37 GMT" type="outline">
+					<outline text="It's been a while since I posted a change note here." created="Thu, 17 Feb 2022 15:08:40 GMT"/>
+					<outline text="Basically things got quiet on the support and rfc forums. I had just started a project to hook up LogSeq to Drummer, and it had considerable momentum, and then basically everyone went their own way. Crickets. ;-) " created="Thu, 17 Feb 2022 15:08:51 GMT"/>
+					<outline text="Anyway I took that as a signal from whoever that it was time to check out for a while, I'm doing other projects. I assume everyone is happy with Drummer. I know I'm using it every day for all my projects. I hope you all are too. " created="Thu, 17 Feb 2022 15:09:38 GMT"/>
+					<outline text="In the meantime, Stephen Waters is having trouble with &lt;a href=&quot;https://github.com/scripting/pagePark&quot;&gt;PagePark&lt;/a&gt;, and is asking for help. I wonder if anyone can pitch in. PagePark is not supported like Drummer. I am just sharing an app that I developed for myself. I don't think it's a project for poets, wasn't designed to be. It &lt;i&gt;was&lt;/i&gt; designed to approachable, and documented -- so if you have had success with PP, congratulations, it's because you are able to break a problem down into its components and figure out what you want to do, and then patiently try to figure out if or how the product can do it. That's how it works for me, when I use someone else's software. I do the work to organize the problem, and if I don't -- I find I don't get help. Even when I do carefully specify the problem there's no help. That's the way it works." created="Thu, 17 Feb 2022 15:10:28 GMT"/>
+					<outline text="Here's the &lt;a href=&quot;https://github.com/scripting/pagePark/issues/28&quot;&gt;thread&lt;/a&gt; where he's asking for help." created="Thu, 17 Feb 2022 15:13:03 GMT"/>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="January 2022" created="Sat, 01 Jan 2022 16:02:15 GMT" name="january2022" type="calendarMonth">
+			<outline text="January 24" created="Mon, 24 Jan 2022 15:07:57 GMT" type="calendarDay" name="24">
+				<outline text="New demo video" created="Mon, 24 Jan 2022 18:02:47 GMT" type="outline">
+					<outline text="Editing and publishing with Drummer." created="Mon, 24 Jan 2022 18:03:01 GMT"/>
+					<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=5_x0BiBgjxQ&quot;&gt;https://www.youtube.com/watch?v=5_x0BiBgjxQ&lt;/a&gt;" created="Mon, 24 Jan 2022 18:03:21 GMT" urlvideo="https://www.youtube.com/watch?v=5_x0BiBgjxQ"/>
+					<outline text="Optimized for writers. The hard stuff is handled by the software." created="Mon, 24 Jan 2022 18:03:09 GMT"/>
+					<outline text="Show your friends." created="Mon, 24 Jan 2022 18:02:50 GMT"/>
+					</outline>
+				<outline text="Archived December and November" created="Mon, 24 Jan 2022 15:07:58 GMT" type="outline">
+					<outline text="The last two months of 2021 are now includes in the Change Notes outline." created="Mon, 24 Jan 2022 15:08:05 GMT"/>
+					<outline text="I indexed the separate files so the notes will still be found when you search in Daytona. " created="Mon, 24 Jan 2022 15:08:18 GMT"/>
+					<outline text="&lt;i&gt;Still diggin!&lt;/i&gt;" created="Mon, 24 Jan 2022 15:08:37 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 23" created="Sun, 23 Jan 2022 15:37:54 GMT" type="calendarDay" name="23">
+				<outline text="New UI for tweets.opml.org" created="Sun, 23 Jan 2022 17:13:22 GMT" type="outline">
+					<outline text="I've reworked the user interface for &lt;a href=&quot;http://tweets.opml.org/&quot;&gt;tweets.opml.org&lt;/a&gt;. It was too verbose and didn't make it clear wtf it was doing. Not uncommon for a first release of something like this. Now, before you've logged on there's a very simple dialog and a button that lets you log on. " created="Sun, 23 Jan 2022 17:13:38 GMT">
+						<outline text="&lt;img src=&quot;http://scripting.com/images/2022/01/23/newuiopmltweets.png&quot;&gt;" created="Sun, 23 Jan 2022 17:15:01 GMT"/>
+						</outline>
+					<outline text="Then once logged on, you can &lt;a href=&quot;http://scripting.com/images/2022/01/23/tweetsOpmlScreen.png&quot;&gt;see your own outline&lt;/a&gt; in a Concord outline display that is hooked up as an instant outline. And there also is a People menu so you can look at the outlines of other users of tweets.opml.org." created="Sun, 23 Jan 2022 17:11:48 GMT"/>
+					<outline text="There are obvious enhancements that could be made beyond this, but I only wanted to spend a couple of days on prettying up this UI, other fish to fry as they say. " created="Sun, 23 Jan 2022 17:12:30 GMT"/>
+					</outline>
+				<outline text="How to use TreeChart from Drummer" created="Sun, 23 Jan 2022 15:37:55 GMT" type="outline">
+					<outline text="The &lt;a href=&quot;https://github.com/scripting/treechart/blob/main/README.md&quot;&gt;docs&lt;/a&gt; explain how to use &lt;a href=&quot;http://treechart.scripting.com/&quot;&gt;TreeChart&lt;/a&gt; if you've never used Drummer. " created="Sun, 23 Jan 2022 15:38:02 GMT"/>
+					<outline text="But if you have used Drummer... " created="Sun, 23 Jan 2022 15:38:16 GMT" flNumberedSubs="true">
+						<outline text="Create an outline." created="Sun, 23 Jan 2022 15:38:25 GMT"/>
+						<outline text="Enter your top level headline, it's the title of the chart." created="Sun, 23 Jan 2022 15:38:41 GMT"/>
+						<outline text="Add a &lt;i&gt;type&lt;/i&gt; attribute with the value treechart. " created="Sun, 23 Jan 2022 15:38:51 GMT"/>
+						<outline text="Fill in the outline under the top node." created="Sun, 23 Jan 2022 15:39:01 GMT"/>
+						<outline text="Make it public." created="Sun, 23 Jan 2022 15:38:38 GMT"/>
+						<outline text="Copy the URL of the outline from the dialog. " created="Sun, 23 Jan 2022 15:39:11 GMT"/>
+						<outline text="In the browser's address bar, type &lt;i&gt;http://treechart.scripting.com/?url=&lt;/i&gt; and paste the URL of your outline and press return." created="Sun, 23 Jan 2022 15:39:19 GMT"/>
+						<outline text="Your outline will appear as a chart in TreeChart. " created="Sun, 23 Jan 2022 15:39:50 GMT"/>
+						<outline text="If you modify your outline, the mods will instantly appear in TreeChart. " created="Sun, 23 Jan 2022 15:40:12 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="January 20" created="Thu, 20 Jan 2022 16:06:58 GMT" type="calendarDay" name="20">
+				<outline text="Message of the Day feature" created="Thu, 20 Jan 2022 16:06:59 GMT" type="outline">
+					<outline text="I'll use this space to let Drummer users know about the latest features, fixes and new connections. " created="Thu, 20 Jan 2022 16:10:09 GMT"/>
+					<outline text="&lt;img src=&quot;http://scripting.com/images/2022/01/20/motdScreenShot.png&quot;&gt;" created="Thu, 20 Jan 2022 16:07:03 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 18" created="Tue, 18 Jan 2022 16:49:34 GMT" type="calendarDay" name="18">
+				<outline text="TreeChart demo app is here now" created="Tue, 18 Jan 2022 17:34:05 GMT" type="outline">
+					<outline text="To begin with I want to open it up to people who are already in the loop on Drummer. It's public, but for today am only pointing to it from the change notes outline." created="Tue, 18 Jan 2022 17:34:12 GMT"/>
+					<outline text="Here's  the &lt;a href=&quot;https://github.com/scripting/treechart/blob/main/README.md&quot;&gt;getting started directions&lt;/a&gt;, that walk you through the demo, and how to set up your own tree chart demo. " created="Tue, 18 Jan 2022 17:34:42 GMT"/>
+					<outline text="If you have any questions or comments, or see problems, please post a note in &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/20&quot;&gt;this thread&lt;/a&gt;. " created="Tue, 18 Jan 2022 17:35:30 GMT"/>
+					<outline text="This, based on our experience with MORE 1.1c in 1986 is a key part of the evolution of outliners. Renderings of outlines. New interactive experiences. It's like adding chocolate to milk, it makes it taste a little better. ;-)" created="Tue, 18 Jan 2022 17:36:05 GMT"/>
+					<outline text="Back in 86 we sold the idea, to get started with this slogan: &quot;The C stands for color!&quot; Everyone loves color. " created="Tue, 18 Jan 2022 17:37:08 GMT"/>
+					</outline>
+				<outline text="What you need to know about Electric Drummer" created="Tue, 18 Jan 2022 16:49:35 GMT" type="outline">
+					<outline text="As we're starting to test the Linux and Windows versions of Electric Drummer there have been some basic questions. I thought it would be a good idea to publish the &lt;a href=&quot;http://scripting.com/2022/01/18/163308.html?title=whatIsElectricDrummer&quot;&gt;answers here&lt;/a&gt; and on my blog. " created="Tue, 18 Jan 2022 16:49:41 GMT"/>
+					<outline text="The &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/152&quot;&gt;getting-started page&lt;/a&gt; is here, if you're interested in helping out, finding glitches, reporting them, verifying they're fixed when fixes ship." created="Tue, 18 Jan 2022 16:50:43 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 17" created="Mon, 17 Jan 2022 16:43:30 GMT" type="calendarDay" name="17">
+				<outline text="Delay in the Tree Chart app" created="Mon, 17 Jan 2022 23:16:20 GMT" type="outline">
+					<outline text="We had a big snow storm here last night, and the power was out until mid-morning, so I wasn't able to finish writing about the Tree Chart app. " created="Mon, 17 Jan 2022 23:16:25 GMT"/>
+					<outline text="One more day before release. " created="Mon, 17 Jan 2022 23:16:58 GMT"/>
+					<outline text="Here's the &lt;a href=&quot;https://www.youtube.com/watch?v=-5DAQwL_eNE&quot;&gt;video demo&lt;/a&gt; in case you missed." created="Mon, 17 Jan 2022 23:17:11 GMT"/>
+					</outline>
+				<outline text="Electric Drummer on Windows and Linux" created="Mon, 17 Jan 2022 16:43:31 GMT" type="outline">
+					<outline text="Scott Hanson has new test versions of Electric Drummer for Windows and Linux. " created="Mon, 17 Jan 2022 16:43:51 GMT"/>
+					<outline text="He's started a &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/152&quot;&gt;thread&lt;/a&gt; on Drummer Support with details. " created="Mon, 17 Jan 2022 16:44:22 GMT"/>
+					<outline text="I've been using the Linux version, it's pretty much exactly like the Mac version." created="Mon, 17 Jan 2022 16:44:31 GMT"/>
+					<outline text="For me this is liberating, I've been wanting to write on Linux because all my server stuff is running there. Having it all on the same systems will make things less complicated, and of course that's good." created="Mon, 17 Jan 2022 16:45:03 GMT"/>
+					<outline text="I thank Scott for picking this up as a labor of love. He's doing something very empowering for Drummer users. " created="Mon, 17 Jan 2022 16:45:41 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 16" created="Sun, 16 Jan 2022 21:18:07 GMT" type="calendarDay" name="16">
+				<outline text="TreeChart coming tomorrow? We hope" created="Sun, 16 Jan 2022 21:18:08 GMT" type="outline">
+					<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=-5DAQwL_eNE&quot;&gt;Video demo&lt;/a&gt;: A new demo app called &lt;a href=&quot;http://daytona.scripting.com/?q=treechart&amp;collection=scriptingnews&quot;&gt;TreeChart&lt;/a&gt; interactively displays beautiful SVG trees as you edit them in the Drummer outliner. This is a seat-of-the-pants preview. I hope to release the app tomorrow so people can see how it works for themselves and hopefully it'll give developers and users some ideas. " created="Sun, 16 Jan 2022 20:34:54 GMT" type="outline" urlvideo="https://www.youtube.com/watch?v=-5DAQwL_eNE"/>
+					<outline text="I'm going to post links to the technology as I document it tomorrow in &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/20&quot;&gt;this thread&lt;/a&gt;. " created="Sun, 16 Jan 2022 21:23:49 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 15" created="Sat, 15 Jan 2022 18:20:25 GMT" type="calendarDay" name="15">
+				<outline text="Looking for devops outliner people" created="Sat, 15 Jan 2022 18:20:26 GMT" type="outline">
+					<outline text="Are you a devops person who uses an outliner as part of work?" created="Sat, 15 Jan 2022 18:20:31 GMT"/>
+					<outline text="It doesn't have to be Drummer. " created="Sat, 15 Jan 2022 18:20:33 GMT"/>
+					<outline text="I have a project that is in Drummer but could be in another outliner, that is designed for devops people." created="Sat, 15 Jan 2022 18:20:39 GMT"/>
+					<outline text="As far as I know this kind of product has never existed before. It's quite useful, I've been using it for a few years. " created="Sat, 15 Jan 2022 18:21:00 GMT"/>
+					<outline text="If so, post a note &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/19&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/davewiner/status/1482415914754654213&quot;&gt;on Twitter&lt;/a&gt;. " created="Sat, 15 Jan 2022 18:21:32 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 14" created="Fri, 14 Jan 2022 21:45:26 GMT" type="calendarDay" name="14">
+				<outline text="Electric Drummer for Linux and Windows, on the way" created="Fri, 14 Jan 2022 21:45:27 GMT" type="outline">
+					<outline text="My longtime friend Scott Hanson has been working on getting build scripts working for Electric Drummer on Windows and Linux." created="Fri, 14 Jan 2022 21:45:38 GMT"/>
+					<outline text="I spent a few hours today using the Linux version, and it's taking some getting used to, Linux is different from the Mac, but I have to say it's remarkable that it works so well. I'm not entirely surprised, but then again, it's always surprising when software works without much effort. The JavaScript platform really does work well for what it does. " created="Fri, 14 Jan 2022 21:46:28 GMT"/>
+					<outline text="If you have an immediate need to use one of these versions, let me know, and we can possibly get you into the private test group." created="Fri, 14 Jan 2022 21:47:38 GMT"/>
+					<outline text="Here's a &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/18&quot;&gt;place&lt;/a&gt; to ask questions. " created="Fri, 14 Jan 2022 21:48:07 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 13" created="Thu, 13 Jan 2022 16:40:47 GMT" type="calendarDay" name="13">
+				<outline text="myLogseqBlog is ready for testers" created="Thu, 13 Jan 2022 16:40:48 GMT" type="outline">
+					<outline text="It's ready for testers." created="Thu, 13 Jan 2022 16:40:57 GMT"/>
+					<outline text="https://github.com/scripting/myLogseqBlog/issues/1"/>
+					<outline text="Report success or problems in that thread." created="Thu, 13 Jan 2022 16:41:13 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 10" created="Mon, 10 Jan 2022 16:24:54 GMT" type="calendarDay" name="10">
+				<outline text="Posting to Drummer from outside Drummer" created="Mon, 10 Jan 2022 16:30:09 GMT" type="outline">
+					<outline text="It's possible to do this if you're a good system programmer." created="Mon, 10 Jan 2022 16:30:17 GMT"/>
+					<outline text="I outlined how it works to a longtime programming buddy Eric Kidd, who just showed up in the thread about hooking Drummer up to LogSeq. You never know who's lurking around in the shadows at any time. Glad to see him here, I wonder how long it'll be before he discovers the Change Notes outline. :-)" created="Mon, 10 Jan 2022 16:30:27 GMT"/>
+					<outline text="Here's the &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/17&quot;&gt;thread&lt;/a&gt;. " created="Mon, 10 Jan 2022 16:31:31 GMT"/>
+					</outline>
+				<outline text="Building Drummer for Ubuntu" created="Mon, 10 Jan 2022 16:28:00 GMT" type="outline">
+					<outline text="I've at least tried to do it at this time, and have a set of builds, but I haven't yet been able to run any of them in a Ubuntu virtual machine in VM Ware. " created="Mon, 10 Jan 2022 16:28:24 GMT"/>
+					<outline text="Having Linux and Windows versions of E/D has become important. " created="Mon, 10 Jan 2022 16:28:55 GMT"/>
+					<outline text="A &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/18&quot;&gt;thread&lt;/a&gt; where I'm narrating the work." created="Mon, 10 Jan 2022 16:29:12 GMT"/>
+					</outline>
+				<outline text="Using Daytona to search Drummer docs" created="Mon, 10 Jan 2022 16:24:55 GMT" type="outline">
+					<outline text="You can search all Drummer docs and change notes using Daytona. " created="Mon, 10 Jan 2022 16:25:24 GMT">
+						<outline text="Launch &lt;a href=&quot;http://daytona.scripting.com/&quot;&gt;Daytona&lt;/a&gt;." created="Mon, 10 Jan 2022 16:25:39 GMT"/>
+						<outline text="Choose Drummer docs in the menu." created="Mon, 10 Jan 2022 16:27:02 GMT"/>
+						<outline text="Enter the search string in the box." created="Mon, 10 Jan 2022 16:27:10 GMT"/>
+						</outline>
+					<outline text="That's one of the reasons I post things to the Change Notes outline, because I'll be able to find the docs again next time. " created="Mon, 10 Jan 2022 16:27:28 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 9" created="Sun, 09 Jan 2022 16:32:01 GMT" type="calendarDay" name="09">
+				<outline text="Changed how autosave works" created="Sun, 09 Jan 2022 23:56:13 GMT" type="outline">
+					<outline text="Previously, if you had &lt;a href=&quot;https://github.com/scripting/docServer/blob/main/docs/pages/dialog.md#dialogabout&quot;&gt;dialog.about&lt;/a&gt; in front, it could, if you closed Drummer while the dialog was open, cause the current outline to be overwritten." created="Sun, 09 Jan 2022 23:56:31 GMT"/>
+					<outline text="I changed the autosave function so it can't do this (at least that's the plan, knock wood, praise murphy)." created="Sun, 09 Jan 2022 23:56:56 GMT"/>
+					<outline text="Bumped the version to 2.0.16." created="Mon, 10 Jan 2022 00:05:13 GMT"/>
+					<outline text="Currently only in web Drummer" created="Sun, 09 Jan 2022 23:56:25 GMT"/>
+					</outline>
+				<outline text="LogSeq interop is already great" created="Sun, 09 Jan 2022 16:33:33 GMT" type="outline">
+					<outline text="One of the best things that came out of it is that an old friend Eric Kidd, who worked with me on lots of projects in the late 90s and early 00s is back in the loop. He's a LogSeq user, his use-case is (as he puts it) Narrate Your Work, which is a slogan I came up with for outliners. So I fully understand the application. There are lots of things we can do to help. " created="Sun, 09 Jan 2022 16:33:44 GMT"/>
+					<outline text="It appears the first interop project will be to hook up LogSeq to Drummer blogging, so Narrate Your Work can be public if you want it to." created="Sun, 09 Jan 2022 16:35:15 GMT"/>
+					<outline text="It also seems that one user can create more than one LogSeq folder, so you can have a private work narration space and a public one." created="Sun, 09 Jan 2022 16:35:50 GMT"/>
+					<outline text="I think my use-case will be to write a LogSeq blog using LogSeq about the things we're doing to connect our products." created="Sun, 09 Jan 2022 16:36:12 GMT"/>
+					<outline text="I am also in touch with the team at LS, I have been for a fairly long time, but I had to get Drummer to a place where interop made sense." created="Sun, 09 Jan 2022 16:36:37 GMT"/>
+					<outline text="At first I assumed the interop would be based on OPML, but it turned out to be easy to get some interop based on Markdown. " created="Sun, 09 Jan 2022 16:37:07 GMT"/>
+					<outline text="The &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/4#issuecomment-1008233592&quot;&gt;thread on LogSeq interop&lt;/a&gt; was always interesting, now it's &lt;i&gt;really&lt;/i&gt; interesting. ;-)" created="Sun, 09 Jan 2022 16:37:42 GMT"/>
+					</outline>
+				<outline text="Tab titles fixed" created="Sun, 09 Jan 2022 16:32:02 GMT" type="outline">
+					<outline text="I rewrote how Drummer deals with files that don't have titles, and Electric Drummer files whose names are actually file paths. " created="Sun, 09 Jan 2022 16:32:11 GMT"/>
+					<outline text="This change was made a couple of days ago. The code needed to be reorganized, and that's what I did -- it appears to work well. " created="Sun, 09 Jan 2022 16:32:43 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 7" created="Fri, 07 Jan 2022 14:41:01 GMT" type="calendarDay" name="07">
+				<outline text="The support forum is for support only" created="Fri, 07 Jan 2022 18:44:03 GMT" type="outline">
+					<outline text="You may not post links to your projects, products, websites, blogs, whatever. " created="Fri, 07 Jan 2022 18:44:13 GMT"/>
+					<outline text="You can of course post links to examples, sites you're having trouble with, docs, etc. " created="Fri, 07 Jan 2022 18:44:27 GMT"/>
+					<outline text="This is a hard rule, no exceptions. If we didn't have this rule we'd have to start a new support forum where spam was not allowed. So we just don't allow spam there.  " created="Fri, 07 Jan 2022 18:44:49 GMT"/>
+					<outline text="The rules aren't quite as tight in the RFC site. There maybe the conclusion of a thread is something available for people to use. But even there, don't be overtly commercial. " created="Fri, 07 Jan 2022 18:45:55 GMT"/>
+					</outline>
+				<outline text="Import local file command supports .md files" created="Fri, 07 Jan 2022 17:48:46 GMT" type="outline">
+					<outline text="This is probably the most important command, the LogSeq files will probably be on a local disk, this gets them into your web Drummer file. " created="Fri, 07 Jan 2022 17:49:00 GMT"/>
+					<outline text="In Electric Drummer you can just open the file. " created="Fri, 07 Jan 2022 17:49:36 GMT"/>
+					<outline text="I added it to yesterday's change note. " created="Fri, 07 Jan 2022 17:50:45 GMT"/>
+					</outline>
+				<outline text="Drummer &amp; LogSeq continued" created="Fri, 07 Jan 2022 14:41:02 GMT" type="outline">
+					<outline text="A LogSeq user saw the &lt;a href=&quot;https://www.youtube.com/watch?v=RHs6tqookNc&amp;t=3s&quot;&gt;video demo&lt;/a&gt; I did on December 31 showing Drummer and LogSeq interoperating. " created="Fri, 07 Jan 2022 14:41:11 GMT"/>
+					<outline text="And &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/149&quot;&gt;asked how to do&lt;/a&gt; it, so I explained, here. " created="Fri, 07 Jan 2022 14:41:47 GMT"/>
+					<outline text="Questions and comments are welcome. " created="Fri, 07 Jan 2022 14:42:08 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 6" created="Thu, 06 Jan 2022 15:25:35 GMT" type="calendarDay" name="06">
+				<outline text="Electric Drummer with .md support" created="Thu, 06 Jan 2022 22:15:06 GMT" type="outline">
+					<outline text="It's ready for &lt;a href=&quot;http://docserver.scripting.com/drummer/electricDrummer.opml&quot;&gt;download&lt;/a&gt;. " created="Thu, 06 Jan 2022 22:15:14 GMT"/>
+					</outline>
+				<outline text="How Drummer works with .md files" created="Wed, 05 Jan 2022 17:13:02 GMT" type="outline">
+					<outline text="You can create a .md file" created="Wed, 05 Jan 2022 17:13:13 GMT">
+						<outline text="Choose the New command from the File menu." created="Wed, 05 Jan 2022 23:32:50 GMT"/>
+						<outline text="Use a .md extension instead of .opml." created="Thu, 06 Jan 2022 16:52:14 GMT"/>
+						</outline>
+					<outline text="When the file is saved, we generate the Markdown equivalent of the outline." created="Wed, 05 Jan 2022 17:13:57 GMT">
+						<outline text="As if the file were going to be opened by LogSeq." created="Wed, 05 Jan 2022 17:14:12 GMT"/>
+						</outline>
+					<outline text="You can open files with the .md extension" created="Wed, 05 Jan 2022 23:49:43 GMT">
+						<outline text="Choose the Open command from the File menu." created="Wed, 05 Jan 2022 23:49:53 GMT"/>
+						</outline>
+					<outline text="You can import from a local file" created="Fri, 07 Jan 2022 17:50:01 GMT">
+						<outline text="Choose Import local file from the File menu, and choose a markdown file." created="Fri, 07 Jan 2022 17:50:06 GMT"/>
+						</outline>
+					</outline>
+				<outline text="Beginning on interop with LogSeq" created="Thu, 06 Jan 2022 15:25:36 GMT" type="outline">
+					<outline text="I think a standard may be emerging, Markdown used as a way to store outlines. It plays a similar role to the one OPML plays. I still believe OPML is the best choice for interop between outliners, and Drummer will continue to use OPML as its file format, but there is now a way to use Markdown. " created="Thu, 06 Jan 2022 15:25:45 GMT"/>
+					<outline text="The main reason for supporting this format is interop with other products. " created="Thu, 06 Jan 2022 15:31:35 GMT"/>
+					<outline text="It's a little awkward because the format doesn't have a name, as far as I know. It's a &lt;i&gt;very&lt;/i&gt; small subset of Markdown. I don't think it makes sense to use the .md extension, but that's what LogSeq uses, so we will too, for now. I've been calling the format markdown/outline where I've been writing about it in docs and development notes. However this is just a name I made up. There also does not appear to be a spec. At some point I will write one if only to document what we're producing and consuming in Drummer. " created="Thu, 06 Jan 2022 15:27:30 GMT"/>
+					<outline text="Important: Many Drummer features will only work with the OPML-based format. " created="Thu, 06 Jan 2022 15:45:15 GMT"/>
+					<outline text="The feature is already in web Drummer in an experimental form. The code will change, this is not a final or frozen format. " created="Thu, 06 Jan 2022 15:29:31 GMT"/>
+					<outline text="There is not yet a release of Electric Drummer with this support." created="Thu, 06 Jan 2022 15:30:22 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 5" created="Wed, 05 Jan 2022 16:03:38 GMT" type="calendarDay" name="05">
+				<outline text="DocServer source release, and more" created="Wed, 05 Jan 2022 16:03:39 GMT" type="outline">
+					<outline text="Here's a &lt;a href=&quot;https://github.com/scripting/docServer&quot;&gt;new repo&lt;/a&gt; containing:" created="Wed, 05 Jan 2022 16:03:47 GMT">
+						<outline text="Markdown versions of the DocServer pages. " created="Wed, 05 Jan 2022 16:03:58 GMT"/>
+						<outline text="The Node app that generates those pages." created="Wed, 05 Jan 2022 16:04:11 GMT"/>
+						<outline text="The source for the DocServer web app." created="Wed, 05 Jan 2022 16:04:21 GMT"/>
+						</outline>
+					<outline text="This is an OPML app of course, I write the docs in Drummer and publish them via these two apps." created="Wed, 05 Jan 2022 16:04:41 GMT"/>
+					<outline text="If you have comments or questions this is &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/148&quot;&gt;the place&lt;/a&gt;. " created="Wed, 05 Jan 2022 16:05:19 GMT"/>
+					</outline>
+				</outline>
+			<outline text="January 1" created="Sat, 01 Jan 2022 16:02:16 GMT" type="calendarDay" name="01">
+				<outline text="Happy Year!" created="Sat, 01 Jan 2022 16:02:17 GMT" type="outline">
+					<outline text="Or as we say in DrummerLand -- blog rollover day." created="Sat, 01 Jan 2022 16:02:21 GMT"/>
+					<outline text="I did the rollover on Scripting News just now. " created="Sat, 01 Jan 2022 16:02:33 GMT"/>
+					<outline text="There's a new step in the process, rolling over the Daytona view of Scripting News." created="Sat, 01 Jan 2022 16:02:48 GMT"/>
+					<outline text="When you rollover your blog you will need to do this too." created="Sat, 01 Jan 2022 16:03:06 GMT"/>
+					<outline text="I included the code you need to do this, calls to: " created="Sat, 01 Jan 2022 16:03:23 GMT">
+						<outline text="daytona.removeOutlineRefs and" created="Sat, 01 Jan 2022 16:03:44 GMT"/>
+						<outline text="daytona.ping" created="Sat, 01 Jan 2022 16:03:47 GMT"/>
+						</outline>
+					<outline text="Noted that this outline is due for a rollover as well. ;-)" created="Sat, 01 Jan 2022 16:04:07 GMT"/>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="December 2021" created="Mon, 24 Jan 2022 14:56:28 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/12.opml"/>
+		<outline text="November 2021" created="Mon, 24 Jan 2022 14:56:28 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/11.opml"/>
+		<outline text="October 2021" created="Sat, 04 Dec 2021 22:08:06 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/10.opml"/>
+		<outline text="September 2021" created="Wed, 06 Oct 2021 15:31:34 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/09.opml"/>
+		<outline text="August 2021" created="Thu, 23 Sep 2021 16:53:52 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/08.opml"/>
+		<outline text="July 2021" created="Thu, 23 Sep 2021 16:53:43 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/07.opml"/>
+		<outline text="June 2021" created="Wed, 06 Oct 2021 16:27:37 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/06.opml"/>
+		<outline text="May 2021" created="Wed, 06 Oct 2021 16:04:52 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/05.opml"/>
+		<outline text="April 2021" created="Wed, 06 Oct 2021 16:04:34 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/04.opml"/>
+		<outline text="March 2021" created="Wed, 06 Oct 2021 16:03:26 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/03.opml"/>
+		<outline text="February 2021" created="Wed, 06 Oct 2021 16:28:45 GMT" type="include" url="http://scripting.com/publicfolder/drummer/changeNotesArchive/2021/02.opml"/>
+		</body>
+	</opml>
